@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Phrasal verbs</string>
+    <string name="dict_not_loaded">Словарь не загружен</string>
+    <string name="no_connection">Нет соединения со сервером</string>
+    <string name="dict_updated">Словарь обновлёен</string>
+    <string name="settings">settings</string>
+    <string name="check">Check</string>
+    <string name="search">Search</string>
+    <string name="sound">Sound</string>
+    <string name="sound_st">Звук</string>
+    <string name="search_st">Поиск</string>
+    <string name="rows_st">Кол-во строк: </string>
+    <string name="cards_st">Кол-во проверочных карточек:</string>
+    <string name="verb_st">Размер заглавного текста:</string>
+    <string name="text_st">Размер текста:</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Отмена</string>
+</resources>
