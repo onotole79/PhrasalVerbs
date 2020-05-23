@@ -148,6 +148,7 @@
   },
 
   {
+    "g": null,
     "verb": "add",
     "variations": [
       {
@@ -2589,6 +2590,38 @@
         "preposition": "up (on)",
         "meaning": "Повесить телефонную трубку, закончить телефонный разговор\nПовесить (одежду, вещи)",
         "example": "Don't hang up. I haven't finished yet.\n(Не клади трубку. Я еще не закончил)\nYou can hang your jacket up in the front closet.\n(Можешь повесить куртку в шкафу в парадной)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "help",
+    "variations": [
+      {
+        "preposition": "smb off",
+        "meaning": "Помочь сойти (с транспортного средства)",
+        "example": "He took her hand and helped her off the train.\n(Он взял ее за руку и помог сойти с поезда)"
+      },
+      {
+        "preposition": "smb off with",
+        "meaning": "Помочь снять что-либо (об одежде)",
+        "example": "He helped her off with her coat.\n(Я помог снять ей пальто)"
+      },
+      {
+        "preposition": "smb on with",
+        "meaning": "Помочь надеть что-либо (об одежде)",
+        "example": "He helped her on with her coat.\n(Я помог одеть ей пальто)"
+      },
+      {
+        "preposition": "smb out",
+        "meaning": "Выручать, помогать",
+        "example": "He helped me out around the house.\n(Он помогал мне по дому)\nWould you please help out with some suggestions please.\n(Пожалуйста, помогите советом)"
+      },
+      {
+        "preposition": "smb out of",
+        "meaning": "Помочь кому-либо выбраться от куда-либо",
+        "example": "Wait, I will help you out of the car.\n(Подождите, я помогу вам выбраться из машины)\nShe helped me out of the pit.\n(Она помогла мне выбраться из ямы)"
       }
     ]
   },
