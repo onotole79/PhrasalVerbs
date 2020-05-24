@@ -2599,6 +2599,26 @@
     "verb": "help",
     "variations": [
       {
+        "preposition": "along",
+        "meaning": "Способствовать, развивать, продвигать",
+        "example": "It's great when businessmen help along the development of education.\n(Это здорово, когда бизнесмены способствуют развитию образования)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Помочь спуститься вниз",
+        "example": "Could you help me down these stairs, please?\n(Не могли бы Вы помочь мне спуститься по этой лестнице, пожалуйста?)"
+      },
+      {
+        "preposition": "forward",
+        "meaning": "Помогать продвигаться, способствовать, содействовать развитию",
+        "example": "Unfortunately, the local authorities wouldn't help forward the develpoment of healthcare in the area.\n(К сожалению, местные власти не способствуют развитию здравохранения в районе)"
+      },
+      {
+        "preposition": "in",
+        "meaning": "Помочь войти, помогать в чём-либо",
+        "example": "Mattew helped his grandmother in the car.\n(Мэтью помог своей бабушке сесть в машину)\nThe children helped their mother in cleaning the house and washing up.\n(Дети помогали матери в уборке дома и мытье посуды)"
+      },
+      {
         "preposition": "smb off",
         "meaning": "Помочь сойти (с транспортного средства)",
         "example": "He took her hand and helped her off the train.\n(Он взял ее за руку и помог сойти с поезда)"
@@ -2622,6 +2642,16 @@
         "preposition": "smb out of",
         "meaning": "Помочь кому-либо выбраться от куда-либо",
         "example": "Wait, I will help you out of the car.\n(Подождите, я помогу вам выбраться из машины)\nShe helped me out of the pit.\n(Она помогла мне выбраться из ямы)"
+      },
+      {
+        "preposition": "over",
+        "meaning": "Помочь в затруднительной ситуации, выручить",
+        "example": "You have always helped me over my difficulties with job and family. Now it's my turn!\n(Вы всегда выручали меня, когда у меня были трудности с работой и семьёй. Теперь моя очредь!)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Помочь подняться, встать",
+        "example": "After the fight Mike helped his friend up and they went home, dirty, in torn clothes but happy.\n(После драки Майк помог своему другу подняться, и они пошли домой, грязные, в порванной одежде, но счастливые)"
       }
     ]
   },
