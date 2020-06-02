@@ -148,7 +148,6 @@
   },
 
   {
-    "g": null,
     "verb": "add",
     "variations": [
       {
@@ -231,6 +230,11 @@
         "preposition": "of",
         "meaning": "Сообщать кому-либо о чём-либо",
         "example": "Please advise us when the goods reach you.\n(Уведомите нас о получении товара)"
+      },
+      {
+        "preposition": "against",
+        "meaning": "Советовать не делать чего-л., предостерегать",
+        "example": "She advised me against buying those flowers.\n(Она отговорила меня покупать эти цветы)"
       }
     ]
   },
@@ -339,7 +343,7 @@
     "variations": [
       {
         "preposition": "away",
-        "meaning": "Отступать, пятиться",
+        "meaning": "Отступать, отпрянуть, пятиться",
         "example": "I could see she was backing away from the idea.\n(Я видел, что она отступает от этой идеи)"
       },
       {
@@ -1851,7 +1855,7 @@
       },
       {
         "preposition": "out",
-        "meaning": "Понимать, выяснять, вычислять, находить ответ",
+        "meaning": "Понимать, выяснять, вычислять, находить ответ, разобраться",
         "example": "I'm trying to figure out how to assemble the bookshelves.\n(Я пытаюсь понять, как собрать книжные полки)"
       },
       {
@@ -1896,7 +1900,7 @@
     "variations": [
       {
         "preposition": "out",
-        "meaning": "Узнать, выяснить, понять",
+        "meaning": "Узнать, выяснить, понять, раскрыть",
         "example": "I'm going to call the cinema to find out what time the film starts.\n(Я позвоню в кинотеатр, чтобы выяснить, когда начинается фильм)"
       }
     ]
@@ -2129,8 +2133,8 @@
       },
       {
         "preposition": "back",
-        "meaning": "Вернуться",
-        "example": "Get back inside.\n(Зайди обратно внутрь)"
+        "meaning": "Вернуться\nПолучить назад",
+        "example": "Get back inside.\n(Зайди обратно внутрь)\nYou have to get it back.\n(Вы должны вернуть это обратно)"
       },
       {
         "preposition": "back at",
@@ -2356,8 +2360,8 @@
       },
       {
         "preposition": "along",
-        "meaning": "Сопровождать продвигаться\nРазвиваться\n(разг) уходить",
-        "example": "How is your work going along?\n(Как продвигается твоя работа?)\nGo along!\n(Убирайся!)"
+        "meaning": "Сопровождать, следовать\nРазвиваться, продвигаться\n(разг) уходить\n(разг) ну-ну",
+        "example": "How is your work going along?\n(Как продвигается твоя работа?)\nWill you kids go along!\n(А ну, мелюзга, быстро отсюда!)\nGo along, I know better than that.\n(Так я тебе и поверил! Не на того напал)"
       },
       {
         "preposition": "along with",
@@ -2568,8 +2572,8 @@
       },
       {
         "preposition": "on",
-        "meaning": "Ждать",
-        "example": "Hang on, I’ll look it up in the guidebook.\n(Подожди, я посмотрю в справочнике)"
+        "meaning": "Настойчиво, упорно продолжать; оставаться верным\nЖдать\nУцепиться, цепляться, крепко держаться, хватать, ловить (слова), повиснуть (на противнике)",
+        "example": "We have to hang on just a little bit longer.\n(Нам нужно продержаться всего лишь еще немного)\nHang on, I’ll look it up in the guidebook.\n(Подожди, я посмотрю в справочнике)\nAbby hung on every word, but waited to start asking.\n(Эбби внимательно ловила каждое слово, но удерживалась от вопросов)"
       },
       {
         "preposition": "onto",
@@ -2682,10 +2686,9 @@
       },
       {
         "preposition": "on",
-        "meaning": "Ждать",
-        "example": "We’ll hold on another minute, then we’ll have to go.\n(Мы еще подождем, а затем пойдем)"
+        "meaning": "Держаться, вцепиться\nЖдать",
+        "example": "Hold on tight!\n(Держитесь крепче!)\nWe’ll hold on another minute, then we’ll have to go.\n(Мы еще подождем, а затем пойдем)"
       },
-
       {
         "preposition": "out",
         "meaning": "Быть достаточным\nПротягивать, вытягивать",
