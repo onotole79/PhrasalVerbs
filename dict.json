@@ -3170,6 +3170,30 @@
 
 
   {
+    "verb": "level",
+    "variations": [
+      {
+        "preposition": "against/at",
+        "meaning": "Обвинять кого-то публично в том, что он делает что-то не так",
+        "example": "Charges of corruption have been levelled against him.\n(Обвинения в коррупции были выдвинуты против него.)\nCriticism has been levelled at senior figures in the industry.\n(Критика была направлена на высокопоставленных представителей отрасли)"
+      },
+      {
+        "preposition": "off/out",
+        "meaning": "Выравнивать, делать ровным",
+        "example": "The plane's flight path climbed to 10,000 metres and then levelled off.\n(Самолёт набрал высоту до 10000 метров, а затем высота полёта выровнялась)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Повысить уровень",
+        "example": "You can level up the hero in the game.\n(Вы можете повысить уровень героя в игре)"
+      }
+    ]
+  },
+
+
+
+
+  {
     "verb": "lie",
     "variations": [
       {
