@@ -4567,8 +4567,26 @@
     "variations": [
       {
         "preposition": "down",
-        "meaning": "Снизить скорость",
+        "meaning": "Снизить скорость, замедлять",
         "example": "The car slowed down passing us by.\n(Машина снизила скорость, проезжая мимо нас)"
+      }
+    ]
+  },
+
+
+
+  {
+    "verb": "spell",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Победить в конкурсе правописания",
+        "example": "I finally spelled last year's champion down.\n(Я наконец-то победил прошлогоднего чемпиона в конкурсе правописания)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Разжевать, объяснить подробно",
+        "example": "The government has so far refused to spell out its policies.\n(До сих пор правительство отказывалось подробно излагать свою политику)"
       }
     ]
   },
