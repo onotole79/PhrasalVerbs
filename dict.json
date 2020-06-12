@@ -230,6 +230,11 @@
         "preposition": "of",
         "meaning": "Сообщать кому-либо о чём-либо",
         "example": "Please advise us when the goods reach you.\n(Уведомите нас о получении товара)"
+      },
+      {
+        "preposition": "against",
+        "meaning": "Советовать не делать чего-л., предостерегать",
+        "example": "She advised me against buying those flowers.\n(Она отговорила меня покупать эти цветы)"
       }
     ]
   },
@@ -338,7 +343,7 @@
     "variations": [
       {
         "preposition": "away",
-        "meaning": "Отступать, пятиться",
+        "meaning": "Отступать, отпрянуть, пятиться",
         "example": "I could see she was backing away from the idea.\n(Я видел, что она отступает от этой идеи)"
       },
       {
@@ -502,7 +507,7 @@
       {
         "preposition": "off",
         "meaning": "Уходить, уезжать\nНачинать движение, особенно в гонке\nСрываться с места\nВзять на старте\nБыть свободным, не работающим\nЗаканчиваться (о еде в ресторане), испортиться (о еде)\nОсвобождаться от работы\nБыть отключенным, не функционировать\n(разг) завести пластинку, занудствовать\n(разг) запасаться",
-        "example": "Is Angela off this Monday?\n(Анжела уезжает в этот понедельник?)\nI'm sorry, the lamb is off.\n(Извините, баранина закончилась)\nThis fish is off.\n(Эта рыба испортилась)\nI'm off at 6.00.\nThe light was off.\nThe switch was off.\nНе's off again!\nHow are you off for clothes?(Как ты покупаешь одежду?)\nIf Jim and Mary are quarrelling already, it looks as if their marriage is off to a bad start.\n(Если Джим и Мэри уже сейчас ссорятся, получается, что их совместная жизнь начинается не так уж гладко)"
+        "example": "Is Angela off this Monday?\n(Анжела уезжает в этот понедельник?)\nI'm sorry, the lamb is off.\n(Извините, баранина закончилась)\nThis fish is off.\n(Эта рыба испортилась)\nI'm off at 6.00.\nThe light was off.\nThe switch was off.\nНе's off again!\nHow are you off for clothes?\n(Как ты покупаешь одежду?)\nIf Jim and Mary are quarrelling already, it looks as if their marriage is off to a bad start.\n(Если Джим и Мэри уже сейчас ссорятся, получается, что их совместная жизнь начинается не так уж гладко)"
       },
       {
         "preposition": "off to",
@@ -1639,6 +1644,45 @@
     ]
   },
 
+  {
+    "verb": "drive",
+    "variations": [
+      {
+        "preposition": "at",
+        "meaning": "Пытаться сказать",
+        "example": "I can see what you’re driving at.\n(Я вижу, к чему ты ведешь)"
+      },
+      {
+        "preposition": "away",
+        "meaning": "Отпугнуть",
+        "example": "Increasing prices will only drive customers away.\n(Повышение цен только отпугнет покупателей)"
+      },
+      {
+        "preposition": "back",
+        "meaning": "Мешать",
+        "example": "She was driven back by his promise to marry her.\n(Ей помешало его обещание жениться)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Снижать",
+        "example": "Fierce competition among restaurants has driven down prices.\n(Жесткая конкуренция среди ресторанов снизила цены)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Отпугнуть",
+        "example": "They fired their guns to drive off an attack from a pack of dogs.\n(Они выстрелили из пистолетов, чтобы отпугнуть собак)"
+      },{
+        "preposition": "out",
+        "meaning": "Ппрогнать",
+        "example": "Government forces have driven the rebels out of the eastern district.\n(Силы правительства вытеснили мятежников из восточного региона)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Поднять\nПодъехать",
+        "example": "The government’s policies are driving up interest rates.\n(Правительственная политика поднимает процентные ставки)\nA huge Rolls Royce drove up.\n(Подъехал огромный Ролс Ройс)"
+      }
+    ]
+  },
 
   {
     "verb": "drop",
@@ -1850,7 +1894,7 @@
       },
       {
         "preposition": "out",
-        "meaning": "Понимать, выяснять, вычислять, находить ответ",
+        "meaning": "Понимать, выяснять, вычислять, находить ответ, разобраться",
         "example": "I'm trying to figure out how to assemble the bookshelves.\n(Я пытаюсь понять, как собрать книжные полки)"
       },
       {
@@ -1895,7 +1939,7 @@
     "variations": [
       {
         "preposition": "out",
-        "meaning": "Узнать, выяснить, понять",
+        "meaning": "Узнать, выяснить, понять, раскрыть",
         "example": "I'm going to call the cinema to find out what time the film starts.\n(Я позвоню в кинотеатр, чтобы выяснить, когда начинается фильм)"
       }
     ]
@@ -2128,8 +2172,8 @@
       },
       {
         "preposition": "back",
-        "meaning": "Вернуться",
-        "example": "Get back inside.\n(Зайди обратно внутрь)"
+        "meaning": "Вернуться\nПолучить назад",
+        "example": "Get back inside.\n(Зайди обратно внутрь)\nYou have to get it back.\n(Вы должны вернуть это обратно)"
       },
       {
         "preposition": "back at",
@@ -2355,8 +2399,8 @@
       },
       {
         "preposition": "along",
-        "meaning": "Сопровождать продвигаться\nРазвиваться\n(разг) уходить",
-        "example": "How is your work going along?\n(Как продвигается твоя работа?)\nGo along!\n(Убирайся!)"
+        "meaning": "Сопровождать, следовать\nРазвиваться, продвигаться\n(разг) уходить\n(разг) ну-ну",
+        "example": "How is your work going along?\n(Как продвигается твоя работа?)\nWill you kids go along!\n(А ну, мелюзга, быстро отсюда!)\nGo along, I know better than that.\n(Так я тебе и поверил! Не на того напал)"
       },
       {
         "preposition": "along with",
@@ -2567,8 +2611,8 @@
       },
       {
         "preposition": "on",
-        "meaning": "Ждать",
-        "example": "Hang on, I’ll look it up in the guidebook.\n(Подожди, я посмотрю в справочнике)"
+        "meaning": "Настойчиво, упорно продолжать; оставаться верным\nЖдать\nУцепиться, цепляться, крепко держаться, хватать, ловить (слова), повиснуть (на противнике)",
+        "example": "We have to hang on just a little bit longer.\n(Нам нужно продержаться всего лишь еще немного)\nHang on, I’ll look it up in the guidebook.\n(Подожди, я посмотрю в справочнике)\nAbby hung on every word, but waited to start asking.\n(Эбби внимательно ловила каждое слово, но удерживалась от вопросов)"
       },
       {
         "preposition": "onto",
@@ -2589,6 +2633,68 @@
         "preposition": "up (on)",
         "meaning": "Повесить телефонную трубку, закончить телефонный разговор\nПовесить (одежду, вещи)",
         "example": "Don't hang up. I haven't finished yet.\n(Не клади трубку. Я еще не закончил)\nYou can hang your jacket up in the front closet.\n(Можешь повесить куртку в шкафу в парадной)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "help",
+    "variations": [
+      {
+        "preposition": "along",
+        "meaning": "Способствовать, развивать, продвигать",
+        "example": "It's great when businessmen help along the development of education.\n(Это здорово, когда бизнесмены способствуют развитию образования)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Помочь спуститься вниз",
+        "example": "Could you help me down these stairs, please?\n(Не могли бы Вы помочь мне спуститься по этой лестнице, пожалуйста?)"
+      },
+      {
+        "preposition": "forward",
+        "meaning": "Помогать продвигаться, способствовать, содействовать развитию",
+        "example": "Unfortunately, the local authorities wouldn't help forward the develpoment of healthcare in the area.\n(К сожалению, местные власти не способствуют развитию здравохранения в районе)"
+      },
+      {
+        "preposition": "in",
+        "meaning": "Помочь войти, помогать в чём-либо",
+        "example": "Mattew helped his grandmother in the car.\n(Мэтью помог своей бабушке сесть в машину)\nThe children helped their mother in cleaning the house and washing up.\n(Дети помогали матери в уборке дома и мытье посуды)"
+      },
+      {
+        "preposition": "smb off",
+        "meaning": "Помочь сойти (с транспортного средства)",
+        "example": "He took her hand and helped her off the train.\n(Он взял ее за руку и помог сойти с поезда)"
+      },
+      {
+        "preposition": "smb off with",
+        "meaning": "Помочь снять что-либо (об одежде)",
+        "example": "He helped her off with her coat.\n(Я помог снять ей пальто)"
+      },
+      {
+        "preposition": "smb on with",
+        "meaning": "Помочь надеть что-либо (об одежде)",
+        "example": "He helped her on with her coat.\n(Я помог одеть ей пальто)"
+      },
+      {
+        "preposition": "smb out",
+        "meaning": "Выручать, помогать",
+        "example": "He helped me out around the house.\n(Он помогал мне по дому)\nWould you please help out with some suggestions please.\n(Пожалуйста, помогите советом)"
+      },
+      {
+        "preposition": "smb out of",
+        "meaning": "Помочь кому-либо выбраться от куда-либо",
+        "example": "Wait, I will help you out of the car.\n(Подождите, я помогу вам выбраться из машины)\nShe helped me out of the pit.\n(Она помогла мне выбраться из ямы)"
+      },
+      {
+        "preposition": "over",
+        "meaning": "Помочь в затруднительной ситуации, выручить",
+        "example": "You have always helped me over my difficulties with job and family. Now it's my turn!\n(Вы всегда выручали меня, когда у меня были трудности с работой и семьёй. Теперь моя очредь!)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Помочь подняться, встать",
+        "example": "After the fight Mike helped his friend up and they went home, dirty, in torn clothes but happy.\n(После драки Майк помог своему другу подняться, и они пошли домой, грязные, в порванной одежде, но счастливые)"
       }
     ]
   },
@@ -2619,10 +2725,9 @@
       },
       {
         "preposition": "on",
-        "meaning": "Ждать",
-        "example": "We’ll hold on another minute, then we’ll have to go.\n(Мы еще подождем, а затем пойдем)"
+        "meaning": "Держаться, вцепиться\nЖдать",
+        "example": "Hold on tight!\n(Держитесь крепче!)\nWe’ll hold on another minute, then we’ll have to go.\n(Мы еще подождем, а затем пойдем)"
       },
-
       {
         "preposition": "out",
         "meaning": "Быть достаточным\nПротягивать, вытягивать",
