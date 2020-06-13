@@ -2700,6 +2700,19 @@
   },
 
 
+
+  {
+    "verb": "hit",
+    "variations": [
+      {
+        "preposition": "on smb",
+        "meaning": "Заигрывать с кем-то или подкатывать к кому-то",
+        "example": "Let’s go over to Marta, she’s getting hit on by some creep at the bar.\n(Пойдем к Марте, к ней подкатывает какой-то псих в баре)"
+      }
+    ]
+  },
+
+
   {
     "verb": "hold",
     "variations": [
@@ -2760,6 +2773,26 @@
       }
     ]
   },
+
+
+  {
+    "verb": "hook",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Устанавливать, подключать, соединять механизмы, части электронного оборудования\nВстречаться, налаживать контакт, связываться с кем-либо (в дружеской форме)\nСоединять двух людей вместе, устраивать связи между парами\nОказать особую услугу, выручить, помочь",
+        "example": "The beer started to get cold about 20 minutes after she hooked up the new refrigerator.\n(Пиво начало охлаждаться через 20 минут после того, как она подключила новый холодильник)\nLet’s hook up for a beer later.\n(Давай встретимся позже и выпьем пива)\nStan knew that Mark and Mary would be a great couple, so he did everything he could to hook them up.\n(Стэн знал, что Марк и Мэри были бы отличной парой, поэтому он сделал все возможное, чтобы свести их)\nMy boss hooked me up with a pair of tickets to the football game tomorrow.\n(Мой начальник дал мне два билета на завтрашний футбольный матч)"
+      },
+      {
+        "preposition": "up with",
+        "meaning": "(неф.) целоваться или иметь интим с человеком не состоящим в отношениях",
+        "example": "She got really angry when she found out her ex-boyfriend hooked up with another girl when they were together.\n(Она не на шутку рассердилась, когда узнала, что ее бывший парень развлекался с другой, когда они еще были вместе)"
+      }
+    ]
+  },
+
+
+
 
 
   {
@@ -3455,8 +3488,8 @@
       },
       {
         "preposition": "out",
-        "meaning": "Выписывать (счет), составлять (документ)\nУтверждать, делать вывод, приводить доводы\nПонимать, различать\nСправляться с чем-либо",
-        "example": "Could you make out a bill?\n(Вы не могли бы выписать счет?)\nShe makes out that you offended her.\n(Она утверждает, что ты ее обидел)\nHow is she making out in her university?\n(Как она справляется с учебой в университете?)\nWe could just make out a farm through the trees.\n(Сквозь деревья мы смогли увидеть лишь ферму)\nAs far as I can make out, he is a liar.\n(Насколько я понимаю, он лжец)"
+        "meaning": "Выписывать (счет), составлять (документ)\nУтверждать, делать вывод, приводить доводы\nПонимать, различать\nСправляться с чем-либо\nЦеловаться (лизаться)",
+        "example": "Could you make out a bill?\n(Вы не могли бы выписать счет?)\nShe makes out that you offended her.\n(Она утверждает, что ты ее обидел)\nHow is she making out in her university?\n(Как она справляется с учебой в университете?)\nWe could just make out a farm through the trees.\n(Сквозь деревья мы смогли увидеть лишь ферму)\nAs far as I can make out, he is a liar.\n(Насколько я понимаю, он лжец)\nI need to make out so hard that I forget all of my problems, and possibly my name too.\n(Мне настолько сильно нужны поцелуи, что я забываю обо всех своих проблемах и, самое главное, я забываю свое имя)"
       },
       {
         "preposition": "out with",
@@ -3501,7 +3534,6 @@
     ]
   },
 
-
   {
     "verb": "mark",
     "variations": [
@@ -3517,6 +3549,11 @@
       }
     ]
   },
+
+
+
+
+
 
   {
     "verb": "miss",
@@ -3743,7 +3780,7 @@
       },
       {
         "preposition": "up",
-        "meaning": "Поднимать, подбирать\nЗаехать за кем-нибудь на машине\nПознакомиться с, подцепить кого-либо",
+        "meaning": "Поднимать, подбирать\nЗаехать за кем-нибудь на машине\nПознакомиться, подцепить кого-либо",
         "example": "Tom picked himself up and settled on his bench again.\n(Том поднялся и снова сел на скамью)\nWhat time are you going to pick me up?\n(Когда ты собираешься заехать за мной?)\nSome weird guy tried to pick Patricia up at the bar.\n(Какой-то странный парень пытался познакомиться с Патришей в баре)"
       },
       {
@@ -4537,6 +4574,11 @@
     "verb": "sleep",
     "variations": [
       {
+        "preposition": "around",
+        "meaning": "Вести распутный образ жизни",
+        "example": "I think we can all agree that sleeping around is a great way to meet people.\n(Я думаю, что все мы согласны с тем, что случайный секс — это отличный способ завести новых друзей)"
+      },
+      {
         "preposition": "over",
         "meaning": "Переночевать у кого-то в гостях",
         "example": "It’s too late to go back home, why don’t you sleep over?\n(Уже слишком поздно возвращаться домой, почему бы тебе не остаться переночевать?)"
@@ -4567,26 +4609,8 @@
     "variations": [
       {
         "preposition": "down",
-        "meaning": "Снизить скорость, замедлять",
+        "meaning": "Снизить скорость",
         "example": "The car slowed down passing us by.\n(Машина снизила скорость, проезжая мимо нас)"
-      }
-    ]
-  },
-
-
-
-  {
-    "verb": "spell",
-    "variations": [
-      {
-        "preposition": "down",
-        "meaning": "Победить в конкурсе правописания",
-        "example": "I finally spelled last year's champion down.\n(Я наконец-то победил прошлогоднего чемпиона в конкурсе правописания)"
-      },
-      {
-        "preposition": "out",
-        "meaning": "Разжевать, объяснить подробно",
-        "example": "The government has so far refused to spell out its policies.\n(До сих пор правительство отказывалось подробно излагать свою политику)"
       }
     ]
   },
@@ -5391,6 +5415,21 @@
       }
     ]
   },
+
+
+  {
+    "verb": "wrap",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Заворачивать в бумагу, чтобы защитить или спрятать\nТепло одеваться, закутываться\nЗаканчивать\nЗамолчать, затихнуть",
+        "example": "Did you wrap up the presents and put them under the tree?\n(Ты упаковал подарки и положил их под елку?)\nYou better wrap up today, as it’s very cold outside.\n(Тебе лучше сегодня теплей одеться, на улице очень холодно)\nLet’s wrap up this meeting so we can get started on the project.\n(Давайте закончим эту встречу, чтобы начать проект)\nWrap it up, you lot, we've heard enough of your complaints.\n(Замолчите ребята, мы слышали достаточно ваших жалоб)"
+      }
+    ]
+  },
+
+
+
 
   {
     "verb": "write",
