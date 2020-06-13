@@ -1868,7 +1868,6 @@
   {
     "verb": "feel",
     "variations": [
-
       {
         "preposition": "up",
         "meaning": "Лапать, приставать (в сексуальном плане)",
@@ -2808,6 +2807,29 @@
 
 
 
+
+  {
+    "verb": "jack",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Бросить, оставлять, забросить (дело)",
+        "example": "I'd love to jack in my job and go and live in the Bahamas.\n(Я бы с радостью бросил работу и переехал жить на Багамы)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Мастурбировать",
+        "example": "Your mum’s Facebook pics are a continuous source of a jerk off material.\n(Фотографии твоей мамы из фейсбука — неиссякаемый источник для мастурбации)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Поднять домкратом",
+        "example": "We need to jack up the car before we change the tire.\n(Перед тем, как менять шину, машину нужно поднять домкратом)"
+      }
+    ]
+  },
+
+
   {
     "verb": "join",
     "variations": [
@@ -3551,8 +3573,21 @@
   },
 
 
-
-
+  {
+    "verb": "mess",
+    "variations": [
+      {
+        "preposition": "about/around",
+        "meaning": "Валять дурака, паясничать, дурачиться, шутить",
+        "example": "I am asking you to stop messing about; let me work.\n(Я прошу тебя перестать шуметь; дай мне поработать)\nWe messed around a bit, but her parents came back home early.\n(Мы немного подурачились, но ее родители пришли домой раньше)\n"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Завалить, испортить, запороть\nИспачкать, привести в беспорядок\nИзбить, поколотить",
+        "example": "Try not to mess up your driving test again.\n(Постарайся не провалить экзамен на вождение снова)\nThe fire messed up our plans.\n(Наши планы были нарушены пожаром)\nTry not to mess up your new dress before the party.\n(Постарайся не испачкать своё новое платье до вечеринки)\nWhen Joe came in after the fight with the boys, he was all messed up.\n(Когда Джо пришел после драки с мальчиками, он был весь избит)"
+      }
+    ]
+  },
 
 
   {
