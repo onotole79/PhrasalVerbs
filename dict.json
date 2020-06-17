@@ -1676,7 +1676,8 @@
         "preposition": "off",
         "meaning": "Отпугнуть",
         "example": "They fired their guns to drive off an attack from a pack of dogs.\n(Они выстрелили из пистолетов, чтобы отпугнуть собак)"
-      },{
+      },
+      {
         "preposition": "out",
         "meaning": "Ппрогнать",
         "example": "Government forces have driven the rebels out of the eastern district.\n(Силы правительства вытеснили мятежников из восточного региона)"
@@ -3325,6 +3326,18 @@
         "preposition": "with",
         "meaning": "Лежать на (об ответственности, решении)",
         "example": "Whether or not you can go to the party lies with your father.\n(Сможешь ты пойти на вечеринку или нет зависит от твоего отца)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "line",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Встать в линию, построиться\nОрганизовать, приготовить, упорядочить",
+        "example": "The books are lined up on a shelf above the desk.\n(Книги выложены на полке над столом)\nWe have a series of activities lined up to keep you entertained\n(Для вас приготовлены развлечения)"
       }
     ]
   },
