@@ -1154,6 +1154,11 @@
     "verb": "cheer",
     "variations": [
       {
+        "preposition": "on",
+        "meaning": "Поддержать кого-то подбадривающими словами",
+        "example": "Even though Samantha was in the last place, her brother cheered her on through the entire race.\n(Хотя Саманта была на последнем месте, ее брат поддерживал ее на протяжении всей гонки)"
+      },
+      {
         "preposition": "up",
         "meaning": "Утешить, ободрить",
         "example": "The party really cheered me up.\n(Вечеринка меня очень развеселила)"
@@ -1688,7 +1693,7 @@
     "verb": "drop",
     "variations": [
       {
-        "preposition": "in",
+        "preposition": "by/in",
         "meaning": "Зайти, заглянуть, заскочить (без предупреждения) (on)",
         "example": "Let’s drop in on Jim and Mary while we are in the neighbourhood.\n(Давай заглянем к Джиму и Мэри, раз уж мы оказались поблизости)"
       },
@@ -2539,6 +2544,11 @@
     "verb": "grow",
     "variations": [
       {
+        "preposition": "apart",
+        "meaning": "Отдалиться от кого-то близкого",
+        "example": "My marriage wasn't going well, and we just were growing further and further apart.\n(Мой брак проходил не очень хорошо, и мы все больше и больше отдалялись друг от друга)"
+      },
+      {
         "preposition": "back",
         "meaning": "Отрасти, вырасти заново",
         "example": "Don’t worry about your haircut, it’ll grow back.\n(Не беспокойся насчет своей стрижки, волосы отрастут)"
@@ -3373,7 +3383,7 @@
         "example": "How can I log in if I forgot my password?\n(Как мне залогиниться, если я забыл пароль?)"
       },
       {
-        "preposition": "out",
+        "preposition": "out/off",
         "meaning": "Выходить из учетной записи, разлогиниваться",
         "example": "Log out first, then log in again and check if the game works.\n(Выйди из учетной записи, войди снова и проверь, работает ли игра)"
       }
