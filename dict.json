@@ -143,6 +143,11 @@
         "preposition": "up",
         "meaning": "Плохо себя вести\nБарахлить (о технике)",
         "example": "I could hear Jonathan acting up downstairs.\n(Я слышал, как внизу капризничал Джонатан)\nShe was messing with the coffeepot, which was acting up again.\n(Она возилась с кофейником, который, опять барахлил)"
+      },
+      {
+        "preposition": "upon",
+        "meaning": "Действовать на основе полученной информации, реагировать",
+        "example": "The committee has a duty to listen to, but also to act upon, such reports.\n(Комитет должен не только прислушиваться к подобного рода докладам, но и реагировать на них)"
       }
     ]
   },
@@ -169,6 +174,11 @@
         "preposition": "up",
         "meaning": "Соответствовать, согласоваться, представлять собой (что-л.)\nБыть понятным, иметь смысл\n(up to) Сводиться к (чему-л.)",
         "example": "The total expenses added up to $470.00.\n(Общие расходы составили 470 долларов)\nI added him up at a glance.\n(Я с первого взгляда понял, что он собой представляет)\nHis short answers just add up to a refusal.\n(Его короткие ответы просто сводятся к отказу)"
+      },
+      {
+        "preposition": "up to",
+        "meaning": "Сводиться к чему-либо, соответствовать, равняться какой-либо сумме",
+        "example": "His short answers just add up to a refusal.\n(Его короткие ответы просто сводятся к отказу)\nThe total expenses added up to $470.00.\n(Общие расходы составили 470 долларов)"
       }
     ]
   },
@@ -268,6 +278,11 @@
         "preposition": "for",
         "meaning": "Принимать во внимание, учитывать, делать поправку",
         "example": "You'd better leave early to allow for traffic jams.\n(Тебе лучше выйти пораньше из-за больших дорожных пробок)"
+      },
+      {
+        "preposition": "of",
+        "meaning": "Допускать возможность, оставлять место для чего-либо",
+        "example": "Does this theory allow of possibility of the end of the world?\n(Допускает ли ваша теория возможность конца света?)"
       }
     ]
   },
@@ -282,6 +297,20 @@
       }
     ]
   },
+
+
+  {
+    "verb": "angle",
+    "variations": [
+      {
+        "preposition": "for",
+        "meaning": "Получить что то неявным образом, зондировать почву, закидывать удочку",
+        "example": "You've been angling for this since the day Emily and I met.\n(Ты клонила к этому с того момента, как мы с Эмили втретились)"
+      }
+    ]
+  },
+
+
   {
     "verb": "answer",
     "variations": [
@@ -289,6 +318,48 @@
         "preposition": "back",
         "meaning": "Дерзить, грубить (в ответ на замечание)",
         "example": "She always taught him not to answer back.\n(Она всегда учила его не отвечать грубо на замечания)"
+      },
+      {
+        "preposition": "for",
+        "meaning": "Отвечать за, быть ответственным за, ручаться за кого-либо",
+        "example": "This is our scheme, and we will answer for it.\n(Это наш план, и мы отвечаем за него)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "argue",
+    "variations": [
+      {
+        "preposition": "about",
+        "meaning": "Спорить о чем-либо, ссориться из-за чего-либо",
+        "example": "What are they arguing about?\n(О чем они спорят?)"
+      },
+      {
+        "preposition": "away",
+        "meaning": "Доказать неправильность, несостоятельность; опровергнуть",
+        "example": "You can't argue away my faith.\n(Вы не можете оспаривать мою веру)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Нанести поражение в словесном споре",
+        "example": "The speakers were well-informed, but I was able to argue them down.\n(Докладчики были хорошо информированы, но мне удалось их разбить)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Обсудить что-то и прийти к решению",
+        "example": "If we can't argue our differences out, we'll have to take them to court.\n(Если мы не сможем доказать наши разногласия, нам придется передать их в суд)"
+      },
+      {
+        "preposition": "someone into of smth",
+        "meaning": "Убедить кого-то что-то сделать",
+        "example": "She could argue him into standing on his hat.\n(Она могла заставить его на голове стоять)"
+      },
+      {
+        "preposition": "someone out of smth",
+        "meaning": "Убедить кого-то что-то не делать",
+        "example": "I'm not here to argue you out of your divorce.\n(Я не буду уговаривать тебя передумать насчет развода)\nHe argued her out of leaving.\n(Он убедил её не уезжать)"
       }
     ]
   },
@@ -298,12 +369,17 @@
     "verb": "ask",
     "variations": [
       {
+        "preposition": "about",
+        "meaning": "Спросить о ком-либо, чем-либо",
+        "example": "Jimmy asked me about my future plans.\n(Джимми спросил у меня о моих планах на будущее)"
+      },
+      {
         "preposition": "after",
         "meaning": "Спрашивать о ком-то, расспрашивать, осведомляться о здоровье или о том, чем кто-то занимается",
         "example": "Jimmy was asking after you.\n(Джимми спрашивал о тебе)"
       },
       {
-        "preposition": "around/over",
+        "preposition": "around",
         "meaning": "Расспрашивать, задавать многим людям один и тот же вопрос",
         "example": "Molly asked around to see if anyone knew someone who could rent her a room.\n(Молли интересовалась, не знает ли кто-нибудь, у кого она может снять комнату)"
       },
@@ -1154,11 +1230,6 @@
     "verb": "cheer",
     "variations": [
       {
-        "preposition": "on",
-        "meaning": "Поддержать кого-то подбадривающими словами",
-        "example": "Even though Samantha was in the last place, her brother cheered her on through the entire race.\n(Хотя Саманта была на последнем месте, ее брат поддерживал ее на протяжении всей гонки)"
-      },
-      {
         "preposition": "up",
         "meaning": "Утешить, ободрить",
         "example": "The party really cheered me up.\n(Вечеринка меня очень развеселила)"
@@ -1676,8 +1747,7 @@
         "preposition": "off",
         "meaning": "Отпугнуть",
         "example": "They fired their guns to drive off an attack from a pack of dogs.\n(Они выстрелили из пистолетов, чтобы отпугнуть собак)"
-      },
-      {
+      },{
         "preposition": "out",
         "meaning": "Ппрогнать",
         "example": "Government forces have driven the rebels out of the eastern district.\n(Силы правительства вытеснили мятежников из восточного региона)"
@@ -1694,7 +1764,7 @@
     "verb": "drop",
     "variations": [
       {
-        "preposition": "by/in",
+        "preposition": "in",
         "meaning": "Зайти, заглянуть, заскочить (без предупреждения) (on)",
         "example": "Let’s drop in on Jim and Mary while we are in the neighbourhood.\n(Давай заглянем к Джиму и Мэри, раз уж мы оказались поблизости)"
       },
@@ -2545,11 +2615,6 @@
     "verb": "grow",
     "variations": [
       {
-        "preposition": "apart",
-        "meaning": "Отдалиться от кого-то близкого",
-        "example": "My marriage wasn't going well, and we just were growing further and further apart.\n(Мой брак проходил не очень хорошо, и мы все больше и больше отдалялись друг от друга)"
-      },
-      {
         "preposition": "back",
         "meaning": "Отрасти, вырасти заново",
         "example": "Don’t worry about your haircut, it’ll grow back.\n(Не беспокойся насчет своей стрижки, волосы отрастут)"
@@ -3332,18 +3397,6 @@
 
 
   {
-    "verb": "line",
-    "variations": [
-      {
-        "preposition": "up",
-        "meaning": "Встать в линию, построиться\nОрганизовать, приготовить, упорядочить",
-        "example": "The books are lined up on a shelf above the desk.\n(Книги выложены на полке над столом)\nWe have a series of activities lined up to keep you entertained.\n(Для вас приготовлены развлечения)"
-      }
-    ]
-  },
-
-
-  {
     "verb": "live",
     "variations": [
       {
@@ -3396,7 +3449,7 @@
         "example": "How can I log in if I forgot my password?\n(Как мне залогиниться, если я забыл пароль?)"
       },
       {
-        "preposition": "out/off",
+        "preposition": "out",
         "meaning": "Выходить из учетной записи, разлогиниваться",
         "example": "Log out first, then log in again and check if the game works.\n(Выйди из учетной записи, войди снова и проверь, работает ли игра)"
       }
@@ -5365,7 +5418,7 @@
         "example": "The water is too cold, you shoud warm it up first.\n(Вода слишком холодная, тебе нужно ее сначала подогреть)"
       },
       {
-        "preposition": "smt up",
+        "preposition": "smth up",
         "meaning": "Размяться, разогреться перед тренировкой",
         "example": "If you want to avoid injuries, warm up before you go for a run.\n(Если хочешь избежать травм, разминайся перед пробежкой)"
       }
