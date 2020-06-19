@@ -412,6 +412,18 @@
     ]
   },
 
+  {
+    "verb": "auction",
+    "variations": [
+      {
+        "preposition": "off",
+        "meaning": "Продать, выставить на аукционе",
+        "example": "Every month we auction off repossessed storage units.\n(Каждый месяц мы продаем с аукциона изъятые вещи из хранилищ)"
+      }
+    ]
+  },
+
+
 
 
   {
@@ -445,6 +457,46 @@
       }
     ]
   },
+
+
+  {
+    "verb": "bag",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Вздуться (о парусе)\n(Австралия)Критиковать",
+        "example": "A stiff breeze made the sails bag out.\n(Крепкий бриз вывел паруса)\nI don't mean to bag you out, but that top is really not flattering on you.\n(Не хочу тебя расстраивать, но этот топ тебе не очень-то льстит)"
+      }
+    ]
+  },
+
+  
+  {
+    "verb": "bail",
+    "variations": [
+      {
+        "preposition": "on",
+        "meaning": "Отказываться делать что-то, обманывать, кидать, подводить",
+        "example": "We thought you were going to bail on us.\n(Мы думали, ты нас кинешь)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Выпрыгнуть из самолёта с парашютом",
+        "example": "The plane's engine failed and the pilot was forced to bail out.\n(Двигатель самолёта сломался, и пилот был вынужден выпрыгнуть)"
+      },
+      {
+        "preposition": "smb/smth out of",
+        "meaning": "Выпутываться, спасать, выручить, помогать финансово",
+        "example": "Vincent and I met when I was bailing my boyfriend out of jail.\n(Винсент и я познакомились, когда я вытаскивала своего друга из полицейского участка)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Остановить с целью пообщаться\nОстанавливать с целью грабежа",
+        "example": "My neighbour bailed me up in the street and talked for half an hour.\n(Сосед остановил меня на улице и болтал полчаса)\nThe criminal bailed up the woman, took her purse, and ran away.\n(Преступник напал на женщину, выхватил у нее кошелек и убежал)\nBail up!\n(Гони деньги!)"
+      }
+    ]
+  },
+
 
 
   {
