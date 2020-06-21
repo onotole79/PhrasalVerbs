@@ -890,6 +890,16 @@
     "verb": "bear",
     "variations": [
       {
+        "preposition": "down",
+        "meaning": "Преодолеть, сломить\nПрилагать усилия\nТужиться при родах",
+        "example": "His determined efforts at last bore down all opposition.\n(Его упорство сломило всякое сопротивление)\n(The driver bore down with all his strength to control the car when the wheel stuck.\n(Водитель изо всех пытался удержать автомобиль, когда заело руль)\nThe nurse will tell you when to bear down.\n(Сестра скажет вам, когда надо тужиться)"
+      },
+      {
+        "preposition": "down up(on)",
+        "meaning": "Подходить с наветренной стороны\nУстремляться, набрасываться, нападать, обрушиваться, надвигаться\nСтрого наказывать, принимать серьезные меры",
+        "example": "With the wind blowing strongly behind, the little boat bore down (up)on the harbour.\n(Ветер дул сзади, и маленькая лодка устремилась к гавани)\nThe future is bearing down on us like enormous ship.\n(Будущее надвигается на нас как огромный корабль)\nThe courts must bear down (up)on young criminals.\n(Суды должны строго наказывать малолетних преступников)"
+      },
+      {
         "preposition": "on",
         "meaning": "Касаться, иметь отношение к чему-либо, быть связанным с чем-либо",
         "example": "Certain facts bearing on the choice of time should be carefully considered.\n(Определенные факты, касающиеся выбора времени, должны быть внимательно рассмотрены)\nHow does your story bear on this case?\n(Какое отношение имеет ваша история к данному случаю?)"
@@ -900,12 +910,56 @@
         "example": "If I tell the judge that I wasn’t there, will you bear me out?\n(Если я скажу судье, что меня там не было, ты подтвердишь мои слова?)"
       },
       {
-        "preposition": "up",
+        "preposition": "up (under)",
         "meaning": "Держаться (стойко), выдерживать",
         "example": "Alice bore up well under the news of her husband’s death.\n(Алиса стойко перенесла известие о смерти своего мужа)"
+      },
+      {
+        "preposition": "with",
+        "meaning": "Относиться терпеливо, мириться",
+        "example": "Please bear with me while I fill out the paperwork.\n(Потерпи, пожалуйста, пока я заполняю эти документы)"
       }
     ]
   },
+
+
+  {
+    "verb": "beat",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Жечь, палить (о солнце); литься, проливаться (о дожде)\nСбивать цену",
+        "example": "The sun beat down mercilessly on the dry earth.\n(Солнце безжалостно жгло сухую землю)\nCompetition should beat the price down.\n(Цены должны упасть из-за конкуренции)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Отбивать нападение, отбиваться\nМастурбировать, дрочить",
+        "example": "The residents were able to beat off the attack.\n(Жители деревни смогли отбить атаку)\nI just beat off this morning.\n(Я просто знатно надрочился сегодня утром)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Выбивать, ковать, сбивать с толку\nПлыть против ветра",
+        "example": "Beat out this tune on a drum.\n(Выстучи эту мелодию на барабане)\nThe boat beat out when the storm had passed.\n(Когда шторм закончился, корабль повернул против ветра)"
+      },
+      {
+        "preposition": "smb out",
+        "meaning": "Победить или финишировать перед конкурентом, опередить",
+        "example": "I beat him out in the footrace.\n(Я победил его в беге на эту дистанцию)"
+      },
+      {
+        "preposition": "smb out smth",
+        "meaning": "Разводить кого-либо на что-либо, вытрясти",
+        "example": "The young mistress beat him out of half his money.\n(Молодая любовница вытрясла с него пол состояния)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Избивать, обходиться со зверской жестокостью\nПродвигаться против ветра, против течения\nВербовать\n(разг.) Пытаться получить, завладеть путём шумной рекламы",
+        "example": "The boys robbed the old man and beat him up.\n(Хулиганы ограбили старика и избили его)\nWhen a favourable wind came, we were able to beat up.\n(Когда задул попутный ветер, мы смогли повернуть против течения)\nAnd these militant groups love to beat up westerners.\n(А эти группы боевиков любят вербовать западных жителей)"
+      }
+    ]
+  },
+
+
 
 
   {
