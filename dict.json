@@ -470,7 +470,7 @@
     ]
   },
 
-  
+
   {
     "verb": "bail",
     "variations": [
@@ -497,6 +497,153 @@
     ]
   },
 
+
+  {
+    "verb": "balls",
+    "variations": [
+      {
+        "preposition": "smth up",
+        "meaning": "Испортить что-то, совершив ошибку или глупость",
+        "example": "Trust me to balls up the interview!\n(Доверься мне провалить интервью!)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bang",
+    "variations": [
+      {
+        "preposition": "about",
+        "meaning": "Шуметь, путешествовать по, разъезжать, мотаться",
+        "example": "I won't buy a car that has been banged about all roads and highways.\n(Я не буду покупать машину, которая исколесила все дороги)"
+      },
+      {
+        "preposition": "away/smb",
+        "meaning": "Ширяться, колоться\nЗаниматься интимом",
+        "example": "They were in the bathroom banging away\n(Они кололись какой-то дрянью в ванной)\nShe banged herself and went on with her work\n(Она укололась и продолжала работать)\nIf you buy her a bottle of wine she’ll let you bang her\n(Ты можешь с ней переспать за бутылку вина)"
+      },
+      {
+        "preposition": "away at",
+        "meaning": "Усердно работать, долбить, зубрить\nНастойчиво атаковать вопросами",
+        "example": "You have an evening to bang away at your subject\n(У тебя вечер на то, чтобы вызубрить предмет)\nPolice are going to keep banging away at you.\n(Полиция будет продолжать доставать тебя вопросами)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Забивать, заколачивать, с шумом захлопнуть, грохать",
+        "example": "When I give you the nod, I want you to bang this down on the desk.\n(Когда я кивну тебе, я хочу, чтобы ты треснул этим по столу)"
+      },
+      {
+        "preposition": "into",
+        "meaning": "Столкнуться, врезаться",
+        "example": "I just rolled out straight across the road, bang into the opposite wall.\n(Я просто прокатился через дорогу, врезавшись в стену на другой стороне)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Зря расстреливать патроны, зря тратить",
+        "example": "He banged off two rounds of ammunition.\n(Он сделал два выстрела впустую)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Громко исполнять музыку\nПечатать быстро, в спешке",
+        "example": "Bob is at the piano again, banging out the latest popular tunes.\n(Боб снова за пианино, что есть мочи лабает модные шлягеры)\nTom has been hard at work all day, banging out a new story.\n(Том корпел весь день, набивая на печатной машинке свой новый рассказ)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "(амер.)Избить, разрушить, сломать\n(разг.)Поранить\n(разг.) Зачать, обрюхатить\n(брит.) Посадить в тюрьму",
+        "example": "(He banged up his car in the race.\n(Он разбил машину на гонках)\nJohn banged up his knee playing cricket.\n(Джон поранил колено, когда играл в крикет)\nSome people think it's OK to sleep with a girl so long as you don't bang her up.\n(Некоторые люди думают, что это нормально спать с девушкой пока ты не обрюхатишь)\nWhen they bang you up, you don't speak to anyone for hours.\n(Когда тебя запирают в камере, тебе не с кем поговорить в течение многих часов)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bank",
+    "variations": [
+      {
+        "preposition": "on",
+        "meaning": "Расчитывать, полагаться на, делать ставку",
+        "example": "Don't bank on your relatives to help you out of trouble.\n(Не стоит рассчитывать, что родственники будут всегда помогать тебе решать твои проблемы)\nThey bank on the power of the early detection of conflicts.\n(Они делают ставку на эффективность раннего обнаружения конфликтов)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bargain",
+    "variations": [
+      {
+        "preposition": "away",
+        "meaning": "Уступать по дешёвке, продавать за бесценок, жертвовать, разбазарить\nУпустить возможность, шанс; променять на что-либо менее ценное; поступиться",
+        "example": "To bargain away one's property.\n(Продать за бесценок своё имущество)\nTo bargain away rights.\n(Поступиться правами)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Выторговать лучшую цену",
+        "example": "If the price is too expensive, try to bargain it down.\n(Если цена слишком высока, попробуйте снизить цену)"
+      },
+      {
+        "preposition": "for",
+        "meaning": "Напрашиваться, нарваться\nРассчитывать, надеяться, Рассчитывать, надеяться",
+        "example": "When he married that girl he got more than he bargained for.\n(Когда он женился на этой девушке, то и не ожидал, что нарвётся на такую стерву)\nI bargained for a simple tablet but got a used device with hidden problems.\n(Я подыскивал простой планшетник, а получил подержанное устройство со скрытыми глюками)"
+      },
+      {
+        "preposition": "on/for",
+        "meaning": "Рассчитывать, надеяться, ожидать",
+        "example": "I wouldn't bargain on the speaker arriving soon, as he's got a long way to come.\n(Я не думаю, что докладчик скоро появится, ему долго ехать)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "barge",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Вторгаться, вмешиваться, встревать в разговор",
+        "example": "Somebody needs to tell him to stop barging in when we are working.\n(Нужно ему сказать, чтобы он перестал вторгаться к нам, когда мы работаем)"
+      }
+    ]
+  },
+
+  {
+    "verb": "bash",
+    "variations": [
+      {
+        "preposition": "about/around",
+        "meaning": "Грубо обращаться, бить, издеваться",
+        "example": "He did time for bashing his wife and kids around.\n(Он отсидел в тюрьме за издевательства над своей женой и детьми)"
+      },
+      {
+        "preposition": "in",
+        "meaning": "Пробивать, вышибать, выбивать, выламывать",
+        "example": "The firemen had to bash the door in.\n(Пожарникам пришлось вышибить дверь)"
+      },
+      {
+        "preposition": "on",
+        "meaning": "Продолжать делать то, что трудно, скучно, занимает много времени",
+        "example": "I’d better bash on with this – I’ll see you later.\n(Я лучше займусь этим - увидимся позже)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Сломать, повредить что-либо\nКолотить, дубасить, сильно избить",
+        "example": "He bashed up his car in the race.\n(Он разбил свою машину на гонках)\nWho’s bashed you up so?\n(Это ж кто тебя так разукрасил?)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bawl",
+    "variations": [
+      {
+        "preposition": "smb out",
+        "meaning": "Накричать, наорать, вздрючить",
+        "example": "You know they are really going to bawl you out over this.\n(Они тебе намылят шею за это)"
+      }
+    ]
+  },
 
 
   {
@@ -817,12 +964,23 @@
         "example": "The water had all boiled away and the pan was burnt.\n(Вода вся выкипела, и сковородка пригорела)"
       },
       {
+        "preposition": "down",
+        "meaning": "Сокращать, сжимать, упрощать",
+        "example": "You can boil this story down to a few sentences and it still has the same meaning.\n(Этот рассказ можно сократить всего лишь до нескольких предложений безо всякого ущерба для смысла)"
+      },
+      {
+        "preposition": "down to",
+        "meaning": "(разг.) Сводиться к чему-либо",
+        "example": "The whole matter boils down to a struggle between the trade union and the directors.\n(Всё сводится к конфликту профсоюза и руководства компании)"
+      },
+      {
         "preposition": "over",
         "meaning": "Перекипать, выливаться через край\nКипеть, негодовать, возмущаться",
         "example": "The heated liquid boils over.\n(Разогретая жидкость переливается через край)\nThe trade union chief boiled over when the men voted against him.\n( Глава профсоюза вскипел от ярости, когда люди проголосовали против него)"
       }
     ]
   },
+
 
   {
     "verb": "bone",
