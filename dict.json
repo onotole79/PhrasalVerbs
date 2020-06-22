@@ -1069,7 +1069,7 @@
     "variations": [
       {
         "preposition": "up",
-        "meaning": "(разг.) Преувеличивать значение, раскручивать, рекламировать, нахваливать, благодарить, уважать\n(разг.) Качать мускулы",
+        "meaning": "(разг.) Преувеличивать значение, раскручивать, рекламировать\n(разг.) Нахваливать, благодарить, уважать\n(разг.) Качать мускулы",
         "example": "It was announced that this speaker bigs up the articles of some new researchers.\n(Было объявлено, что этот спикер преувеличивает значение работ некоторых новых исследователей)\nI want to big up everyone who has shown me support over the years.\n(Я хочу поблагодарить всех, кто оказывал мне поддержку все эти годы)\nBig up to the veterans.\n(Большое спасибо ветеранам)\nHe works out every day to big up himself.\n(Он тренируется каждый день, чтобы накачаться)"
       }
     ]
@@ -1086,6 +1086,121 @@
     ]
   },
 
+
+  {
+    "verb": "black",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Вымарывать, замазывать текст чёрной краской\nМаскировать, затемнять, выключать свет\nНа мгновение терять сознание\n(амер.) Засекречивать\nЗаглушать",
+        "example": "The advertisement for the concert tells where it will take place, but the date has been blacked out.\n(На афише написано, где состоится концерт, но дату кто-то закрасил)\nDuring the war we had to black out all our windows.\n(Во время войны нам приходилось затемнять окна)\nThe stage was blacked out to hide a change of scenery.\n(На сцене погасили свет, чтобы сменить декорации)\nAfter the accident he blacked out and couldn't remember what happened.\n(Во время катастрофы он потерял сознание и не помнил, что произошло)\nReports of the peace talks have been blacked out for twenty-four hours so as to allow freer argument.\n(Информация о том, что идут мирные переговоры, была на сутки засекречена, чтобы стороны чувствовали себя свободнее)\nTelevision shows were blacked out as the trouble spread.\n(Телепередачи прекратились, когда беспорядки начали распространяться)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "blank",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Отодвигать что-либо, оставляя свободное место\nПомутиться (о сознании), потерять память",
+        "example": "Part of the newspaper was blanked out by the government, who wanted their guilt kept hidden.\nОтдельные статьи в газете по требованию правительства были заменены пустыми местами; правительство не хотело, чтобы знали о его виновности)\nI blanked out this morning and couldn't remember where I was.\n(Утром у меня что-то было с головой, я не мог понять, где я нахожусь)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "blare",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Громко звучать",
+        "example": "Music blared out from the neighbour’s party.\n(Музыка громко играла от соседской вечеринки)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "blast",
+    "variations": [
+      {
+        "preposition": "off",
+        "meaning": "Стартовать, взлетать (о ракете)",
+        "example": "Houston, we have blast-off... take-off!\n(Хьюстон, подтверждаю старт... взлет!)\nThe blast-off took place on schedule.\n(Старт ракеты произошёл по расписанию)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "blaze",
+    "variations": [
+      {
+        "preposition": "away",
+        "meaning": "Вести огонь, поддерживать беспрерывный огонь\nБыстро, горячо говорить, выпаливать\n(разг.) Работать с увлечением",
+        "example": "The captain ordered the men to blaze away at the enemy.\n(Капитан приказал продолжать огонь)\nBlaze away!\n(Валяй! жарь!)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Вспыхнуть, взорваться (во всех смыслах)",
+        "example": "Mary's temper blazed up.\n(Мэри взорвалась)\nCatherine blazed up when Jim angered her.\n(Кэтрин подняла скандал, когда Джим разозлил её)\nThe fire blazed up when we thought it was out.\n(Огонь снова вспыхнул, а мы уже думали, что потушили его)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bleed",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Истекать кровью",
+        "example": "Why did the patient bleed out?\n(Почему у пациентки открылось кровотечение)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bliss",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "(амер. разг.) Балдеть, торчать, кайфовать",
+        "example": "I, on the other hand, was way too freaked out to be blissed out.\n(Я, с другой стороны, была слишком испугана, чтобы кайфовать)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "block",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Заполнять\nНабрасывать вчерне",
+        "example": "Now that the well has run dry, we must block it in with bricks.\n(Теперь, когда в колодце нет воды, мы должны заложить его кирпичом)\nMr Brown has blocked in the plans for the house but has given no details.\n(Мистер Браун набросал план дома, но не уточнил никакие детали)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Перекрывать, преграждать выход, препятствовать выходу",
+        "example": "The area was blocked off during the demonstration.\n(Этот район был закрыт для движения во время демонстрации)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Скрывать, заслонять, блокировать, препятствовать\nПодавлять чувство, стараться не думать\nРетушировать\nНабрасывать вчерне (in)",
+        "example": "The trees almost successfully block out the brick houses.\n(Деревья почти полностью заслоняли кирпичные дома)\nThey attempt to withdraw from it, to block it out.\n(Они пытаются от этого отстраниться, не думать об этом)\nBlock out the bottom of this picture when it is printed, the balance of the page will be better.\n(Отретушируйте низ картинки, когда будете печатать, общий вид будет лучше)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Заблокировать, заклинивать, застревать",
+        "example": "Sometimes the traffic gets blocked up, and it affects the bus schedule.\n(Иногда дорожные потоки блокируются, и это отражается на расписании автобусов)\nIt gets blocked up in my mouth. I don't say it no good, so...\n(Это слово застревает во рту, и я не могу сказать его правильно)"
+      }
+    ]
+  },
 
 
   {
@@ -1133,6 +1248,14 @@
       }
     ]
   },
+
+
+
+
+
+
+
+
 
 
   {
@@ -2137,7 +2260,8 @@
         "preposition": "off",
         "meaning": "Отпугнуть",
         "example": "They fired their guns to drive off an attack from a pack of dogs.\n(Они выстрелили из пистолетов, чтобы отпугнуть собак)"
-      },{
+      },
+      {
         "preposition": "out",
         "meaning": "Ппрогнать",
         "example": "Government forces have driven the rebels out of the eastern district.\n(Силы правительства вытеснили мятежников из восточного региона)"
