@@ -953,12 +953,138 @@
       },
       {
         "preposition": "up",
-        "meaning": "Избивать, обходиться со зверской жестокостью\nПродвигаться против ветра, против течения\nВербовать\n(разг.) Пытаться получить, завладеть путём шумной рекламы",
+        "meaning": "Избивать, обходиться со зверской жестокостью\nПродвигаться против ветра, против течения\nВербовать",
         "example": "The boys robbed the old man and beat him up.\n(Хулиганы ограбили старика и избили его)\nWhen a favourable wind came, we were able to beat up.\n(Когда задул попутный ветер, мы смогли повернуть против течения)\nAnd these militant groups love to beat up westerners.\n(А эти группы боевиков любят вербовать западных жителей)"
       }
     ]
   },
 
+
+  {
+    "verb": "beaver",
+    "variations": [
+      {
+        "preposition": "away",
+        "meaning": "Старательно работать, вкалывать, пахать",
+        "example": "Like Solzhenitsyn laboring in Vermont, I shall beaver away in exile.\n(Подобно Солженицыну, томившемуся в Вермонте, я буду трудиться в изгнании)"
+      }
+    ]
+  },
+
+  {
+    "verb": "bed",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Уложить, устроить на ночь\n",
+        "example": "We'll bed the children down now.\n(Сейчас уложим детей)"
+      },
+      {
+        "preposition": "in",
+        "meaning": "Обосноваться, поселиться; устраивать кого-либо, чтобы он чувствовал себя как дома",
+        "example": "It took a lot of time to be bedded in.\n(Это заняло много времени, чтобы обосноваться)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Сажать в грунт (растения)",
+        "example": "Will you help me bed out the plants?\n(Поможешь мне высадить цветы?)"
+      }
+    ]
+  },
+
+  {
+    "verb": "beef",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "(разг.) Совершенствовать, улучшать, добавлять, усиливать",
+        "example": "Our neighborhood will beef up security.\n(В нашем районе будут усилены меры безопасности)"
+      }
+    ]
+  },
+
+  {
+    "verb": "belong",
+    "variations": [
+      {
+        "preposition": "to smb",
+        "meaning": "Принадлежать кому-либо",
+        "example": "Does this book belong to you or to Sarah?\n(Эта книга принадлежит тебе или Саре?)"
+      },
+      {
+        "preposition": "to smth",
+        "meaning": "Быть частью чего-то",
+        "example": "In theory we belong to the same force, but actually, we're totally different.\n(Теоретически мы принадлежим той же структуре, но фактически мы совершенно другие)"
+      },
+      {
+        "preposition": "with",
+        "meaning": "Быть в нужном, подходящем месте",
+        "example": "You know she doesn't belong with your son.\n(Вы знаете, что она не должна быть с вашим сыном)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "belt",
+    "variations": [
+      {
+        "preposition": "smth out",
+        "meaning": "Очень громко петь или играть на музыкальном инструменте\nГромко пить, хоебать, рыгать",
+        "example": "Judy Garland can belt out a tune.\n(Джуди Гарлэнд в состоянии прогорланить песню)\nWe'd get a can of Coke... and just belt out our A-B-C's as loud as we could.\n)Мы выпивали банку колы и рыгали так много и так громко, как только могли)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Пристегнуться ремнём безопасности\nГоворить потише, замолчать, заткнуться",
+        "example": "Belt up before you start to drive!\n(Пристегнись перед тем, как начать движение!)\nJust belt up, will you!\n(Заткнись, ладно?"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bend",
+    "variations": [
+      {
+        "preposition": "back",
+        "meaning": "Оттягивать, отклонить, выгибать назад\nВернуться",
+        "example": "Sometimes my arms bend back.\n(Иногда мои руки выгибаются назад)\nIf I bend any further, I won't bend back.\n(Если я пойду дальше, назад я уже не вернусь)"
+      },
+      {
+        "preposition": "down/over",
+        "meaning": "Нагибать, сгибать, согнуть, переклонять",
+        "example": "I pulled a muscle playing sports and can't bend down.\n(Я потянул мышцу при занятии спортом и не могу наклониться)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Загибать, отгибать",
+        "example": "Just bend the hatch off this steam pipe.\n(Все, что тебе нужно сделать - это отогнуть люк на паровой трубе)"
+      }
+    ]
+  },
+
+  
+  {
+    "verb": "big",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "(разг.) Преувеличивать значение, раскручивать, рекламировать, нахваливать, благодарить, уважать\n(разг.) Качать мускулы",
+        "example": "It was announced that this speaker bigs up the articles of some new researchers.\n(Было объявлено, что этот спикер преувеличивает значение работ некоторых новых исследователей)\nI want to big up everyone who has shown me support over the years.\n(Я хочу поблагодарить всех, кто оказывал мне поддержку все эти годы)\nBig up to the veterans.\n(Большое спасибо ветеранам)\nHe works out every day to big up himself.\n(Он тренируется каждый день, чтобы накачаться)"
+      }
+    ]
+  },
+
+  {
+    "verb": "bitch",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Напакостить, навредить, испортить",
+        "example": "I think we really helped mess this poor son of a bitch up.\n(Похоже, мы подпортили бедолаге жизнь)"
+      }
+    ]
+  },
 
 
 
