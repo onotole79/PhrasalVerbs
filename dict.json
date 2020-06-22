@@ -1382,7 +1382,6 @@
   },
 
 
-
   {
     "verb": "border",
     "variations": [
@@ -1395,7 +1394,50 @@
   },
 
 
+  {
+    "verb": "boss",
+    "variations": [
+      {
+        "preposition": "about/around",
+        "meaning": "(разг.) Плохо обходиться с кем-либо, давая ненужные приказы",
+        "example": "The new director will not be successful if he goes on bossing the workers about.\n(Новому начальнику будет трудно работать, если он всё время будет напоминать своим подчинённым, что он их босс)"
+      }
+    ]
+  },
 
+
+  {
+    "verb": "botch",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "(разг.) Делать небрежно, портить",
+        "example": "The last electrician botched up this job; I hope you can mend the wires.\n(Электрик, который приходил в прошлый раз, только всё испортил; надеюсь, вы почините проводку)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bottle",
+    "variations": [
+      {
+        "preposition": "away",
+        "meaning": "Накапливать, запасаться",
+        "example": "He kept his feelings bottled away.\n(Он хранил свои чувства)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Неожиданно отказаться от планов, передумать в последнюю минуту, струсить",
+        "example": "She was going to do a parachute jump but bottled out at the last minute.\n(Она собиралась прыгнуть с парашютом, но в последнюю минуту передумала)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Не выражать, подавлять эмоции",
+        "example": "Bottling up your anger leads to trouble.\n(Если долго держать зло в душе, это плохо кончится)"
+      }
+    ]
+  },
 
 
 
