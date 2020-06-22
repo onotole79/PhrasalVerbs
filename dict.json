@@ -1250,12 +1250,64 @@
   },
 
 
+  {
+    "verb": "blurt",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Сболтнуть, проболтаться, ляпнуть, выпалить",
+        "example": "She blurted out her real name after two glasses of wine.\n(После двух бокалов вина она проболталась, как ее на самом деле зовут)"
+      }
+    ]
+  },
+
+  {
+    "verb": "board",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Питаться у арендателя, работодателя",
+        "example": "The fruit pickers can board in or make their own arrangements for food.\n(Сборщики фруктов могут питаться у хозяев или готовить себе сами)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Питаться вне дома",
+        "example": "Your family is so large that three of the children will have to board out.\n(Ваша семья так велика, что трое из ваших детей будут вынуждены кормиться где-то ещё)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Заколачивать, обшивать досками",
+        "example": "Stores are boarding up their windows in case rioting breaks out.\n(Магазины заколотили свои окна на случай беспорядков)"
+      }
+    ]
+  },
 
 
-
-
-
-
+  {
+    "verb": "bog",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Увязнуть, застрять\nВстречаться с трудностями",
+        "example": "The car got bogged down and wouldn't move.\n(Машина окончательно увязла)\nThe talks with the men got bogged down on the question of working hours.\n(Переговоры с рабочими застопорились, когда зашла речь о продолжительности рабочего дня)"
+      },
+      {
+        "preposition": "in",
+        "meaning": "(Австрал.) Начать есть с удовольствием",
+        "example": "He closed the door and motioned them to a tray. `Bog in, it's all on the house.'\n(Он закрыл дверь и подтолкнул их к подносу. `Налетайте, все за счет дома.'"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Уходить",
+        "example": "Bog off! Get out of here!\n(Пошёл вон! Гуляй!)\nBog off back to where you came from.\n(Топай обратно туда, откуда ты пришел)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Запутать, смешать, запутывать",
+        "example": "she'd got everything bogged up.\n(Она всё перепутала)"
+      }
+    ]
+  },
 
 
   {
@@ -1280,7 +1332,13 @@
         "preposition": "over",
         "meaning": "Перекипать, выливаться через край\nКипеть, негодовать, возмущаться",
         "example": "The heated liquid boils over.\n(Разогретая жидкость переливается через край)\nThe trade union chief boiled over when the men voted against him.\n( Глава профсоюза вскипел от ярости, когда люди проголосовали против него)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Накаляться, назревать, достигать опасного уровня",
+        "example": "Не felt that a quarrel was boiling up.\n(Он чувствовал, что назревает ссора)"
       }
+
     ]
   },
 
@@ -1295,6 +1353,52 @@
       }
     ]
   },
+
+
+  {
+    "verb": "book",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Зарегистрировать, заказать заранее, бронировать",
+        "example": "It is always advisable to book in early when you want a hotel room in the tourist season.\n(В туристский сезон разумно заказывать номер в отеле заранее)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Выписаться из гостиницы, заплатить по счёту",
+        "example": "I'd like to book out early in the morning, please.\n(Я оплачу свой счёт и выеду рано утром)"
+      },
+      {
+        "preposition": "(be booked out)",
+        "meaning": "Быть заполненным, не иметь свободных мест",
+        "example": "I'm sorry, the hotel is booked out.\n(Мне очень жаль, но в гостинице нет мест)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Закупать, занимать, бронировать",
+        "example": "The restaurant is fully booked up.\n(Все места в ресторане забронированы)\nThe performance is fully booked up.\n(Все билеты на этот спектакль проданы)"
+      }
+    ]
+  },
+
+
+
+  {
+    "verb": "border",
+    "variations": [
+      {
+        "preposition": "on",
+        "meaning": "Быть похожим, почти",
+        "example": "Your remarks border on rudeness.\n(Ваши замечания сравнимы с грубостью)\nYour ideas on bioactive interfaces border on revolutionary.\n(Ваши идеи биоактивных взаимодействий кажутся почти что революционными)"
+      }
+    ]
+  },
+
+
+
+
+
+
 
   {
     "verb": "break",
