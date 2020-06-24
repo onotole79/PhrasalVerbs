@@ -1440,6 +1440,122 @@
   },
 
 
+  {
+    "verb": "bottom",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Достичь нижнего предела, точки перед новым подъёмом",
+        "example": "Land prices appear to have bottomed out.\n(Цены на землю, как представляется, достигли нижнего предела)"
+      }
+    ]
+  },
+
+  {
+    "verb": "bounce",
+    "variations": [
+      {
+        "preposition": "back",
+        "meaning": "Прийти в себя после сложного периода в жизни; вернуться, восстановиться после периода разрушения, ухода или отсутствия",
+        "example": "And if I can bounce back from every sort of rejection and humiliation you can imagine, I’ll bet that you can, too.\n(И если я могу прийти в себя после того, как меня всячески отвергали и унижали, уверен, что вы тоже сможете)"
+      },
+      {
+        "preposition": "smb into smth",
+        "meaning": "Заставить сделать чего он не хочет делать, обычно связанное с политикой",
+        "example": "The opposition hopes to bounce the prime minister into calling an early election.\n(Оппозиция надеется заставить премьер-министра назначить досрочные выборы)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Подкидывать идею",
+        "example": "During the meeting he bounced off his new plan to his boss.\n(Во время совещания он подкинул свой новый план своему начальнику)"
+      }
+    ]
+  },
+
+
+
+  {
+    "verb": "bowl",
+    "variations": [
+      {
+        "preposition": "along",
+        "meaning": "Идти, ехать или катиться быстро; ехать с ветерком",
+        "example": "There we were, bowling along nicely, when suddenly the tire burst.\n(Ну и вот, ехали мы себе ехали, как вдруг спустило колесо)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Сбить с толку, ошарашить, расстроить, вывести из равновесия",
+        "example": "I was bowled down by bad news.\n(Я был расстроен неприятным известием)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Выйти из игры",
+        "example": ""
+      },
+      {
+        "preposition": "out",
+        "meaning": "Выбить из строя, очень удивить кого-либо, сбить с толку\nКритиковать, делать выговор",
+        "example": "Your sudden news has quite bowled me out.\n(Эти новости совершенно сбили меня с толку)\nWe were bowled out for our work.\n(Мы получили выговор за нашу работу)"
+      },
+      {
+        "preposition": "over",
+        "meaning": "Сбить\nПоразить, удивить, произвести больше впечатление",
+        "example": "Someone ran round the corner and nearly bowled me over.\n(Кто-то неожиданно выбежал из-за угла и чуть не сбил меня с ног)\nHe had bowled her over completely. She was staring at him open-mouthed.\n(Он сразил её наповал. Она смотрела на него, открыв рот от удивления)"
+      }
+    ]
+  },
+
+  {
+    "verb": "box",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Окружать, огораживать",
+        "example": "The protesters were boxed in by police.\n(Полиция окружила митингующих со всех сторон)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Класть в коробки, запаковывать\nЗапирать кого-либо в маленьком помещении\n(Австрвл.) Смущать, приводить в замешательство, сбивать с толку (в основном о животных)",
+        "example": "When Harry went to sea, his things were boxed up and put in the storeroom.\n(Когда Харри ушёл в море, его вещи запаковали и сдали на хранение)\n It's good to get outside in the fresh air again, after being boxed up in the house all winter.\n(Как хорошо выйти снова на свежий воздух после того, как просидел всю зиму в четырёх стенах)\nThe sheep were all boxed up, running to and fro.\n(Овцы беспокойно бегали туда-сюда)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "brace",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Подбадривать, ободрять, поддерживать, оживиться, встряхнуться, повеселеть",
+        "example": "A walk in this good mountain air will brace you up.\n(Свежий горный воздух взбодрит вас)\nBrace up! Your troubles will soon be over.\n(Держись! Скоро твои испытания кончатся)"
+      },
+      {
+        "preposition": "up to",
+        "meaning": "Быть готовым к трудностям",
+        "example": "You'll have to brace up to your misfortune and get on with your work.\n(Тебе надо пережить неудачу и продолжать работу)"
+      }
+
+    ]
+  },
+
+
+  {
+    "verb": "branch",
+    "variations": [
+      {
+        "preposition": "off",
+        "meaning": "Отделяться, отходить от главного направления",
+        "example": "Take the little path which branches off to the left.\n(Потом поверни на тропинку, ведущую налево)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Разветвляться, ветвиться (о дереве)\nРасширить дело, открыть новое отделение",
+        "example": "The young tree is beginning to branch out.\n(Крона молодого дерева разрастается)\nThe bookshop has decided to branch out into selling music and records.\n(Книжный магазин решил торговать теперь также музыкальной продукцией)"
+      }
+
+    ]
+  },
 
 
   {
