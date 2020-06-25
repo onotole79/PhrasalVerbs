@@ -1472,8 +1472,6 @@
     ]
   },
 
-
-
   {
     "verb": "bowl",
     "variations": [
@@ -1504,6 +1502,7 @@
       }
     ]
   },
+
 
   {
     "verb": "box",
@@ -1634,6 +1633,56 @@
     ]
   },
 
+  {
+    "verb": "breeze",
+    "variations": [
+      {
+        "preposition": "along",
+        "meaning": "Идти легко и быстро",
+        "example": "I admire how kids just breeze along without a care in the world.\n(Я восхищаюсь тем, как дети гуляют без забот)"
+      },
+      {
+        "preposition": "away",
+        "meaning": "Уйти быстро, неожиданно",
+        "example": "Brian breezed away before I had a chance to say goodbye to him.\n(Брайан смылся, прежде чем я успела попрощаться с ним)"
+      },
+      {
+        "preposition": "in/out",
+        "meaning": "(разг.) Вбежать, влететь, заявиться; выбежать, вылететь",
+        "example": "Jim just breezed in, full of the good news.\n(Джим влетел в дом как на крыльях - у него были хорошие)"
+      },
+      {
+        "preposition": "through",
+        "meaning": "Пройти легко успешно проверку, испытание, экзамен",
+        "example": "She breezed through the test.\n(Она легко прошла эту проверку)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "brick",
+    "variations": [
+      {
+        "preposition": "in/up/over",
+        "meaning": "Закладывать кирпичами, замуровывать",
+        "example": "The old well was bricked up when it ran dry.\n(Когда старый колодец высох, его заложили кирпичом)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "brighten",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Проясняться (о небе)\nСтановиться веселее, обрадоваться",
+        "example": "In the morning it was drizzling but by midday it brightened up.\n(Утром моросил дождь, но к полудню небо прояснилось)\nYour mother really brightened up when she got the flowers you sent.\n(Твоя мать очень обрадовалась, когда получила цветы, которые ты прислал)"
+      }
+    ]
+  },
+
 
   {
     "verb": "bring",
@@ -1725,9 +1774,226 @@
     "verb": "brush",
     "variations": [
       {
+        "preposition": "aside/away/off",
+        "meaning": "Отмахиваться; отказываться слушать, разговаривать, игнорировать",
+        "example": "Brushing aside all opposition, he put the matter to a vote.\n(Не обращая внимания на оппозицию, он поставил вопрос на голосование)\nThe committee brushed off his enquiries with their usual 'It's under control, don't worry',\n(Комитет отмахнулся от его вопросов обычным 'всё под контролем, не беспокойтесь')"
+      },
+      {
         "preposition": "up on",
         "meaning": "Освежать (знания), улучшать, совершенствовать",
         "example": "You have to brush up on your image.\n(Тебе необходимо улучшить свой имидж)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bubble",
+    "variations": [
+      {
+        "preposition": "over",
+        "meaning": "Быть очень восторженным",
+        "example": "We were bubbling over with excitement at the good news.\n(Мы были в восторге от хороших новостей)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Всплывать на поверхность, становиться очевидным",
+        "example": "Interesting ideas about education and healthcare are bubbling up all over the country.\n(Интересные идеи об образовании и здравоохранении всплывают по всей стране)"
+      }
+    ]
+  },
+
+
+
+  {
+    "verb": "buck",
+    "variations": [
+      {
+        "preposition": "off",
+        "meaning": "Сбрасывать (с седла)",
+        "example": "Some horses are specially trained to buck their riders off, to amuse the crowd at an outdoor performance.\n(Некоторых лошадей специально натаскивают, чтобы они брыкались - зрители это очень любят)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Встряхнуть, оживить, приободрить\n(Брит.) Спешить\nСовершенствовать, улучшать",
+        "example": "A good holiday will buck you up.\n(Хорошо проведённый отпуск оживит тебя)\nBuck up, we're all waiting.\n(Поторопись, мы ждём)\nYou had better buck your ideas up, or you'll fail the course.\n(Тебе лучше подкрепить свои идеи, иначе ты провалишь курс)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bucket",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Очень сильно и продолжительно литься (о дожде)",
+        "example": "It started bucketing down just as I began cycling home.\n(Как только я поехал домой на велосипеде, полился дождина)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "buckle",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "(разг.) Серьёзно браться за работу",
+        "example": "It's time you buckled down and got some work done.\n(Тебе давно пора собраться и серьёзно взяться за дело)"
+      },
+      {
+        "preposition": "under",
+        "meaning": "Признавать свою ошибку, вину\nПодчиняться",
+        "example": "In the end he had to buckle under and admit that he was wrong.\n(В конце концов ему пришлось отступить и признать свою ошибку)\nWe all had to buckle under to the director's orders.\n(Нам пришлось подчиниться приказу директора)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Искривляться, коробиться\n(разг.) Пристёгивать ремни в машине",
+        "example": "The metal bridge buckled up in the great heat, and the cars which were crossing it fell into the river.\n(Металлический мост покоробился от жары и машины, которые по нему ехали, упали в реку)\nAccording to the new law, all drivers and passengers must buckle up.\n(В соответствии с новыми правилами, пристёгиваться должен и водитель, и пассажиры)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "budge",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Пододвинуться, чтобы было место ещё для одного",
+        "example": "We had to budge up to let the fourth person in the back of the car.\n(Нам пришлось пододвинуться, чтобы четвёртый человек сел назад в машине)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bug",
+    "variations": [
+      {
+        "preposition": "off",
+        "meaning": "Уходи, убирайся, проваливай",
+        "example": "Listen, I don't want to buy any, so why don't you just bug off and leave me alone!\n(Слушай, я не хочу ничего покупать, так что почему бы тебе просто не отвалить и не оставить меня в покое!)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "(амер. разг.) Быстро собраться и перебраться в другое место\n(разг.) Выпучить глаза",
+        "example": "Is it true the whole camp is going to bug out in the morning, captain?\n(Командир, правда что мы ни свет ни заря должны подняться и свернуть лагерь?)\nMr. Sterner's eyes bug out at the effrontery of the suggestion.\n(От такого наглого предположения у господина Стернера глаза выходят из орбит)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "build",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Встраивать, вделывать, вмуровывать",
+        "example": "You could build in a wardrobe with mirrored doors.\n(Можно было бы встроить туда шкаф с зеркальными дверцами)"
+      },
+      {
+        "preposition": "on/out",
+        "meaning": "Застраивать, пристраивать, основывать",
+        "example": "The new plan will build on the success of the previous programme.\n(Новый план будет основываться на успехе предыдущей программы)"
+      },
+      {
+        "preposition": "over",
+        "meaning": "Надстраивать, застраивать",
+        "example": "It's a pity but a new firm plans to build over this nice field.\n(Жаль, но новая фирма планирует застроить это красивое поле)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Наращивать, строить, укреплять, застраивать, собирать, воздвигать, обстраивать",
+        "example": "You must build up your strength after your illness.\n(Тебе нужно восстанавливать силы после болезни)\nShe's doing exercises to build up the strength in her legs.\n(Она делает упражнения для увеличения силы ног)\nIt's important to build up a network of professional contacts.\n(Важно выстроить сеть профессиональных контактов)"
+      }
+    ]
+  },
+
+  {
+    "verb": "bulk",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Доходить, составлять изрядную сумму\nНабрать мышечную массу, раскачаться",
+        "example": "Your money could bulk up to a fortune if you save everything you can.\n(Ты можешь скопить целое состояние, если будешь откладывать максимально возможные суммы)\nI saw a man there who had bulked up to 265 pounds.\n(Я видел там мужчину, который раскачался до 120 килограмм)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bump",
+    "variations": [
+      {
+        "preposition": "against",
+        "meaning": "Удариться, наскочить на что-то",
+        "example": "The door has bumped against the wall and scratched the paint.\n(Дверь ударилась о стену и поцарапала краску)"
+      },
+      {
+        "preposition": "into",
+        "meaning": "Встретить неожиданно, случайно",
+        "example": "Pedro bumped into his English teacher at the supermarket.\n(Педро случайно встретил своего учителя английского в супермаркете)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "(амер. разг.) Убить, убрать, устранить",
+        "example": "The old man who owned the jewels was bumped off by the thieves.\n(Воры убили старика, у которого были драгоценности)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Растягивать, расширять",
+        "example": "Let me bump out the deck, all right?\n(Можно, я растяну настил, хорошо?)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "(разг.) Повышать, увеличивать\nНазначить, продвинуть",
+        "example": "Two more good results will bump up your average.\n(Еще два неплохих результата поднимут твой средний балл)\n I don't like the new director much, he seems to have been bumped up from some more humble position.\n(Мне не очень нравится новый директор, кажется, его слишком высоко закинули, раньше он занимал гораздо более низкий пост)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bundle",
+    "variations": [
+      {
+        "preposition": "off",
+        "meaning": "Отправить кого-то куда-то",
+        "example": "Robert bundled the children off to school.\n(Роберт отправил детей в школу)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Спешно уходить, выгонять, отсылать, отослать, выпихнуть, выпихивать",
+        "example": "I shall bundle you out of here very fast if you don't leave by yourself.\n(Если ты сам не уйдёшь, я быстренько тебя выпровожу)\nThe taxi door burst open and all the children bundled out.\n(Дверь автобуса распахнулась, и дети потоком хлынули оттуда)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Тепло одевать, укутывать",
+        "example": "The mother bundled the children up against the cold wind.\n(Мать хорошенько закутала детей - дул сильный ветер)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bunk",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Ложиться спать",
+        "example": "Janet was so tired after her trip that she bunked down as soon as she got home.\n(Джанет так устала после поездки, что легда спать, как только вернулась домой)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "(брит.) Прогуливать (школу, работу)",
+        "example": "I was so bored at work that I decided to just bunk off after lunch without telling anyone.\n(Мне было так скучно на работе, что я решил просто уйти после обеда, никому не сказав)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "(разг.) Спать с кем-либо (интим)\n(разг.) Помогать подняться, взобраться наверх",
+        "example": "I'd like to bunk up with you.\n(Я бы с удовольствием с тобой переспал)\nBunk me up, over this wall.\n(Помогите мне перебраться через эту стену)"
       }
     ]
   },
