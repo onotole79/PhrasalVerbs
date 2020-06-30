@@ -2034,6 +2034,11 @@
     "verb": "burst",
     "variations": [
       {
+        "preposition": "in",
+        "meaning": "Ворваться, вломиться\nВыломать\nВмешаться в разговор",
+        "example": "Suddenly the door opened and the children burst in.\n(Внезапно распахнулась дверь и в комнату влетели дети)\nThe firemen could enter the burning house only by bursting the door in.\n(Чтобы войти в горящий дом, пожарным пришлось выломать дверь)\nI'm sorry to burst in on you like this, but I have an urgent message.\n(Я прошу прощения, что отрываю вас, но у меня срочное сообщение)"
+      },
+      {
         "preposition": "out",
         "meaning": "Начать внезапно и бурно что-то делать: разразиться (смехом, плачем)\nВосклицать (внезапно и громко)",
         "example": "The other girls burst out crying at the sight of the coffin.\n(Остальные девушки залились слезами при виде гроба)\n“Don’t hit me!” she burst out.\n(«Не бей меня!» - воскликнула она)"
@@ -2042,6 +2047,97 @@
   },
 
 
+  {
+    "verb": "bust",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "(разг.) Украситься цветами и листвой, расцвести\nСбежать\nВнезапно начинать делать что-либо",
+        "example": "June is busting out all over.\n(В июне всё расцветает)\nTom, have you bust out?\n(Том, ты что, сбежал?)\nThe whole crowd bust out laughing.\n(Толпа разразилась хохотом)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Портить, разрушать\nСсориться\nРасходиться, разводиться",
+        "example": "The travel company's failure bust up our holiday.\n(Плохая работа турфирмы испортила нам отпуск)\nom and Helen were busting up again last night.\n(Том и Хелен вчера опять ссорились)\nIt was money troubles that bust up their marriage.\n(Они разошлись из-за проблем с деньгами)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "butt",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Вмешиваться в разговор, в чужие дела; влезать в драку, встревать",
+        "example": "Never butt in on anyone else's quarrel.\n(Никогда не влезай в чужую драку)\nI'd have got the job finished in time if he hadn't come butting in on my work with his unwanted advice.\n(Я бы успел сделать работу вовремя, если бы он не влез со своими ненужными советами)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Не вмешиваться, отвалить, не машеать",
+        "example": "Would you please butt out of my relationship and stop trying to seduce me?\n(Пожалуйста, отвали от моих отношений и перестань соблазнять меня)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "butter",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Подлизываться, подмазываться, задобрить лестью, подмаслить",
+        "example": "I tried to butter up my father by mowing the lawn before I asked to borrow the car.\n(Я пытался подмаслить отца, подстригая газон, прежде чем попросить машину)"
+      }
+    ]
+  },
+
+  {
+    "verb": "buy",
+    "variations": [
+      {
+        "preposition": "ahead",
+        "meaning": "Покупать заранее, на срок",
+        "example": "I didn't even know you could buy bus tickets ahead of time.\n(Я даже не знала, что их можно покупать заранее)"
+      },
+      {
+        "preposition": "in",
+        "meaning": "Выкупать (на аукционе) собственные вещи по низшей отправной цене\nСкупать, покупать акции; делать членский взнос, войти в долю, приобрести пай",
+        "example": "The painting failed to reach its agreed price, and was bought in at $68,000.\n(За картину не дали намеченной цены, и хозяин выкупил её за 68 тысяч долларов)\nThe company seems to be doing so well that I would like to buy in.\n(Кажется, у этой компании дела идут очень хорошо, поэтому я хотел бы приобрести её акции)"
+      },
+      {
+        "preposition": "off/over/out smb of",
+        "meaning": "Откупаться",
+        "example": "His sister threatened to tell the police, so he had to buy her off.\n(Его сестра пригрозила, что донесёт в полицию, так что ему пришлось откупаться от неё)\nBought out of slavery, people still couldn't became Romans.\n(Даже выкупленные из рабства не могли стать римлянами)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Выкупать часть, долю; становиться хозяином",
+        "example": "Pacific Inc. was bought out by a company from Oregon.\n('Пасифик Инк.' была выкуплена компанией из Орегона)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Скупать, выкупать все",
+        "example": "We bought up all the beer in the store.\n(Мы скупили все пиво в магазине)"
+      }
+    ]
+  },
+
+  {
+    "verb": "buzz",
+    "variations": [
+      {
+        "preposition": "around",
+        "meaning": "Мельтешить, мотаться, быстро двигаться",
+        "example": "When your photo brushes my heart, my thoughts buzz around you.\n(Твоя фотография коснулась моего сердца, теперь все мои мысли витают около тебя)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "(разг.) Уходить, убираться",
+        "example": "Buzz off, you children, I don't want you in my garden.\n(Так, дети, а ну-ка вон из сада)"
+      }
+    ]
+  },
 
 
 
@@ -2070,7 +2166,7 @@
         "example": "I called in to see Jeff yesterday.\n(Я зашел вчера, чтобы увидеть Джеффа)\nThe makers have called in some cars with dangerous faults.\n(Производитель отозвал ряд машин, в которых были обнаружены опасные неисправности)"
       },
       {
-        "preposition": "for",
+        "preposition": "for\forth",
         "meaning": "Взывать к кому-то\nТребовать\nЗаходить, заезжать за кем-, чем-либо",
         "example": "The situation calls for attention.\n(Ситуация требует внимания)\nSeveral of the newspapers were calling for his resignation.\n(Несколько газет призвали к его отставке)\nI will call for you at eight.\n(Я зайду за тобой в восемь)"
       },
@@ -2105,6 +2201,30 @@
         "preposition": "down",
         "meaning": "Успокаивать, успокаиваться",
         "example": "He was angry at first but he eventually calmed down.\n(Сначала он был рассержен, но, со временем, он успокоился)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "cancel",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Уравновесить, сбалансировать\nСвести на нет",
+        "example": "His good qualities and his faults cancel out.\n(Его достоинства уравновешивают его недостатки)\nThe poor quality of his work this year cancels out his former improvement.\n(Его плохая работа в этом году сводит на нет все предыдущие достижения)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "cap",
+    "variations": [
+      {
+        "preposition": "off",
+        "meaning": "Завершить",
+        "example": "He capped off the meeting with a radical proposal.\n(Он завершил встречу радикальным предложением)"
       }
     ]
   },
@@ -2173,6 +2293,109 @@
       }
     ]
   },
+
+
+  {
+    "verb": "cart",
+    "variations": [
+      {
+        "preposition": "off",
+        "meaning": "Утащить, увезти",
+        "example": "They've already carted off yesterday's trash.\n(Они уже вывезли вчерашний мусор на свалку)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "carve",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Добиваться\nВыделять, отделять, вырезать, урвать",
+        "example": "He carved out a name for himself in the engineering business.\n(Он сделал себе имя, работая инженером)\nNo, we just need to carve out a time to talk.\n(Нет, просто нам надо выкроить время для того, чтобы все обсудить)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Намеренно ранить ножом, зарезать, пырнуть ножом\nНадувать, мошенничать, обманывать\n(Брит. разг.) Резко обогнать, подрезать",
+        "example": "Threaten to carve him up if he won't give the money, that should make him do it.\n(Пригрози, что зарежешь его, если он не отдаст денег, это должно подействовать)\nI'm going to trust you to play cards with me, but if you do not carve up.\n(Я разрешу вам играть со мной в карты, но при условии, что вы не будете жульничать)\nSome idiot carved us up on the way over here.\n(Какой-то идиот подрезал нас по пути сюда)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "cash",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "(разг.) Воспользоваться, не упустить, извлечь выгоду",
+        "example": "You'd better cash in while you can.\n(Куй железо, пока горячо)\nLet's cash in on this unexpected fine weather and go into the country for the day.\n(Воспользуемся этой неожиданно прекрасной погодой и съездим за город на денёк)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Заработать на продаже, продать ради прибыли, обратить в наличные деньги, извлечь выгоду\nСнимать кассу, подсчитывать выручку",
+        "example": "He finally decided to cash out and sell the land that had been in his family for three generations.\n(Он наконец-то решил извлечь выгоду из земель, принадлежащих его семье уже несколько поколений, и продать их)\nHard-pressed farmers are tempted to cash out by selling their valuable land.\n(Находящиеся в затруднительном положении фермеры стоят перед искушением заработать на продаже своих плодородных земель)\nI am not ready to go home, I'm still cashing out.\n(Я еще немного задержусь, я подсчитываю выручку)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "(разг.) Давать деньги, выделять нужную сумму\nСнимать кассу, подсчитывать выручку (out)",
+        "example": "Can the club cash up the money needed to train young players?\n(Сможет ли клуб выделить деньги на тренировку новобранцев?)"
+      }
+    ]
+  },
+
+  {
+    "verb": "cast",
+    "variations": [
+      {
+        "preposition": "about/round",
+        "meaning": "Обдумывать\nИскать, выискивать\n(мор.) Менять курс, лавировать",
+        "example": "I've been casting about in my mind, but I can't find an easy answer.\n(Я уже долго думаю, но не могу найти простой ответ)\nI cast round for a reasonable excuse to leave my guests.\n(Я старался придумать подходящий предлог, чтобы оставить гостей)"
+      },
+      {
+        "preposition": "aside",
+        "meaning": "Порвать",
+        "example": "Henry joined the opposing political party, casting aside his former loyalties.\n(Генри порвал со своими прежними убеждениями и вступил в оппозиционную партию)"
+      },
+      {
+        "preposition": "away",
+        "meaning": "Выбрасывать, отвергать, отбрасывать",
+        "example": "The sailors were cast away on a desert island.\n(Моряков выбросило на пустынный остров)\nWhen he grew rich, he cast away his old friends.\n(Став богатым, он порвал со всеми старыми друзьями)"
+      },
+      {
+        "preposition": "back",
+        "meaning": "Мысленно вернуться назад, вспомнить\n(амер.) Быть похожим, напоминать внешностью",
+        "example": "Let us cast back our minds to the first meeting.\n(Давайте вспомним нашу первую встречу)\nThe boy casts back to his great-grandfather.\n(Этот мальчик похож на своего прадеда)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Свергать, разрушать\nПовергать в уныние, угнетать",
+        "example": "I was in Berlin when they cast down the wall.\n(Я был в Берлине, когда ломали (Берлинскую) стену)\nMary was cast down by the bad news about her mother.\n(Плохие новости о матери повергли Мэри в уныние)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Избавиться от чего-либо неприятного или нежелательного\nВыкидывать, освобождаться от старой одежды\nЗакрывать петли в вязанье\nОпределять по рукописи объём печатной работы\nПорвать (aside)",
+        "example": "He was pleased to be able to cast off such an unwelcome responsibility.\n(Он был рад избавиться от столь неприятной обязанности)\nWhen you grow too big for your clothes, cast them off and I'll give them away.\n(Когда эти вещи станут тебе малы, отложи их, а я найду, кому их передать)\nAt the end of the row, cast off seven stitches.\n(В конце ряда закройте семь петель)\n I've cast off your book and think it should come to about 400 pages when it's printed.\n(Я прикинул объём твоей книги, и у меня получилось 400 печатных страниц)"
+      },
+      {
+        "preposition": "on",
+        "meaning": "Набирать петли в вязанье",
+        "example": "I'll start cooking the dinner as soon as I've finished casting on.\n(Я начну готовить обед, как только наберу петли)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Выгонять, изгонять",
+        "example": "In former times, criminals were often cast out and had to live in the wild.\n(В прежние времена преступников объявляли изгоями, и они вынуждены были жить среди дикой природы)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Подсчитывать, вскидывать\nНапоминать о неприятном, попрекать\n(Амер. разг.) Тошнить, рвать\nВыбрасывать извергать",
+        "example": "He cast up his accounts.\n(Он прикинул свои расходы)\nHe is always casting up my old failures.\n(Он всё время попрекает меня старыми ошибками)\nShe has cast up her dinner again.\n(Её опять вырвало после обеда)\nSeaweed was cast up by the waves.\n(Волнами вынесло на берег водоросли)"
+      }
+    ]
+  },
+
 
   {
     "verb": "catch",
