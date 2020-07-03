@@ -2435,6 +2435,103 @@
 
 
   {
+    "verb": "cater",
+    "variations": [
+      {
+        "preposition": "for",
+        "meaning": "Обеспечивать необходимым, удовлетворять нужды",
+        "example": "Schools often fail to cater for the needs of gifted children.\n(Школы часто не в состоянии удовлетворить потребности одаренных детей)"
+      },
+      {
+        "preposition": "to",
+        "meaning": "Помочь, предоставить необходимое",
+        "example": "I cater to busy professionals who need help managing their lives.\n(Я помогаю занятым профессионалам, которым нужна помощь в управлении своей жизнью)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "cave",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Обрушиваться, обваливаться, проваливаться\n(разг.) Уступать, отступать, сдаваться",
+        "example": "The roof caved in, trapping the miners.\n(Кровля выработки обвалилась и заперла шахтёров)\nI thought he could face his opponent and not cave in so easily, but I was disappointed.\n(Я думал, что он сможет выдержать натиск противника и не скоро сдастся, но он разочаровал меня)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "chalk",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Записывать мелом",
+        "example": "He chalked down the score.\n(Он записал счёт мелом)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Набрасывать, делать эскиз мелом, намечать",
+        "example": " I've chalked out a map on the floor.\n(Я нарисовал карту мелом на полу)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Вести счет",
+        "example": "Now we can chalk up another victory for our team.\n(Теперь мы можем записать на счёт нашей команды ещё одну победу)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "chance",
+    "variations": [
+      {
+        "preposition": "upon",
+        "meaning": "Наткнуться; случайно увидеть, найти",
+        "example": "Walking up a side street, I chanced upon this interesting antique shop\n(Поднимаясь по боковой улице, я наткнулся на этот интересный антикварный магазин)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "change",
+    "variations": [
+      {
+        "preposition": "over",
+        "meaning": "Менять местами",
+        "example": "If you change the words over, the sentence sounds better.\n(Если переставить слова, предложение звучит лучше)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "charge",
+    "variations": [
+      {
+        "preposition": "for",
+        "meaning": "Взимать плату за услуги или товары",
+        "example": "How much do you charge for a single room?\n(Сколько вы берете за одну комнату?)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Быть взволнованным, возбуждённым, полным энергии\nЗарядить\nЗавышать цену",
+        "example": "He was excited, full of hope.\n(Он был взволнован и полон надежды)\nTell your ghostbusters to charge up their proton packs.\n(Скажи своим охотникам за приведениями зарядить свои протонные рюкзаки)\nCredit card charges up to 35% interest.\n(По кредитной карте начисляется до 35% годовых)"
+      },
+      {
+        "preposition": "with",
+        "meaning": "Обвинить в преступлении",
+        "example": "They finally caught Capone by charging him with tax evasion.\n(Они наконец поймали Капоне, обвинив его в уклонении от уплаты налогов)"
+      }
+    ]
+  },
+
+
+  {
     "verb": "check",
     "variations": [
       {
