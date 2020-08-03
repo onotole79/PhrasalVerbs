@@ -1,6 +1,17 @@
 ﻿[
 
   {
+    "verb": "new",
+    "variations": [
+      {
+        "preposition": "3.08",
+        "meaning": "новая версия",
+        "example": "Чтобы база глаголов дальше продолжала обновляться необходима версия 3.08.\n(Обновите приложение)"
+      }
+    ]
+  },
+
+  {
     "verb": "abandon",
     "variations": [
       {
@@ -143,6 +154,11 @@
         "preposition": "up",
         "meaning": "Плохо себя вести\nБарахлить (о технике)",
         "example": "I could hear Jonathan acting up downstairs.\n(Я слышал, как внизу капризничал Джонатан)\nShe was messing with the coffeepot, which was acting up again.\n(Она возилась с кофейником, который, опять барахлил)"
+      },
+      {
+        "preposition": "upon",
+        "meaning": "Действовать на основе полученной информации, реагировать",
+        "example": "The committee has a duty to listen to, but also to act upon, such reports.\n(Комитет должен не только прислушиваться к подобного рода докладам, но и реагировать на них)"
       }
     ]
   },
@@ -167,8 +183,13 @@
       },
       {
         "preposition": "up",
-        "meaning": "Соответствовать, согласоваться, представлять собой (что-л.)\nБыть понятным, иметь смысл\n(up to) Сводиться к (чему-л.)",
+        "meaning": "Соответствовать, согласоваться, представлять собой (что-л.)\nБыть понятным, иметь смысл",
         "example": "The total expenses added up to $470.00.\n(Общие расходы составили 470 долларов)\nI added him up at a glance.\n(Я с первого взгляда понял, что он собой представляет)\nHis short answers just add up to a refusal.\n(Его короткие ответы просто сводятся к отказу)"
+      },
+      {
+        "preposition": "up to",
+        "meaning": "Сводиться к чему-либо, соответствовать, равняться какой-либо сумме",
+        "example": "His short answers just add up to a refusal.\n(Его короткие ответы просто сводятся к отказу)\nThe total expenses added up to $470.00.\n(Общие расходы составили 470 долларов)"
       }
     ]
   },
@@ -268,6 +289,11 @@
         "preposition": "for",
         "meaning": "Принимать во внимание, учитывать, делать поправку",
         "example": "You'd better leave early to allow for traffic jams.\n(Тебе лучше выйти пораньше из-за больших дорожных пробок)"
+      },
+      {
+        "preposition": "of",
+        "meaning": "Допускать возможность, оставлять место для чего-либо",
+        "example": "Does this theory allow of possibility of the end of the world?\n(Допускает ли ваша теория возможность конца света?)"
       }
     ]
   },
@@ -282,6 +308,20 @@
       }
     ]
   },
+
+
+  {
+    "verb": "angle",
+    "variations": [
+      {
+        "preposition": "for",
+        "meaning": "Получить что то неявным образом, зондировать почву, закидывать удочку",
+        "example": "You've been angling for this since the day Emily and I met.\n(Ты клонила к этому с того момента, как мы с Эмили втретились)"
+      }
+    ]
+  },
+
+
   {
     "verb": "answer",
     "variations": [
@@ -289,6 +329,48 @@
         "preposition": "back",
         "meaning": "Дерзить, грубить (в ответ на замечание)",
         "example": "She always taught him not to answer back.\n(Она всегда учила его не отвечать грубо на замечания)"
+      },
+      {
+        "preposition": "for",
+        "meaning": "Отвечать за, быть ответственным за, ручаться за кого-либо",
+        "example": "This is our scheme, and we will answer for it.\n(Это наш план, и мы отвечаем за него)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "argue",
+    "variations": [
+      {
+        "preposition": "about",
+        "meaning": "Спорить о чем-либо, ссориться из-за чего-либо",
+        "example": "What are they arguing about?\n(О чем они спорят?)"
+      },
+      {
+        "preposition": "away",
+        "meaning": "Доказать неправильность, несостоятельность; опровергнуть",
+        "example": "You can't argue away my faith.\n(Вы не можете оспаривать мою веру)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Нанести поражение в словесном споре",
+        "example": "The speakers were well-informed, but I was able to argue them down.\n(Докладчики были хорошо информированы, но мне удалось их разбить)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Обсудить что-то и прийти к решению",
+        "example": "If we can't argue our differences out, we'll have to take them to court.\n(Если мы не сможем доказать наши разногласия, нам придется передать их в суд)"
+      },
+      {
+        "preposition": "someone into of smth",
+        "meaning": "Убедить кого-то что-то сделать",
+        "example": "She could argue him into standing on his hat.\n(Она могла заставить его на голове стоять)"
+      },
+      {
+        "preposition": "someone out of smth",
+        "meaning": "Убедить кого-то что-то не делать",
+        "example": "I'm not here to argue you out of your divorce.\n(Я не буду уговаривать тебя передумать насчет развода)\nHe argued her out of leaving.\n(Он убедил её не уезжать)"
       }
     ]
   },
@@ -298,12 +380,17 @@
     "verb": "ask",
     "variations": [
       {
+        "preposition": "about",
+        "meaning": "Спросить о ком-либо, чем-либо",
+        "example": "Jimmy asked me about my future plans.\n(Джимми спросил у меня о моих планах на будущее)"
+      },
+      {
         "preposition": "after",
         "meaning": "Спрашивать о ком-то, расспрашивать, осведомляться о здоровье или о том, чем кто-то занимается",
         "example": "Jimmy was asking after you.\n(Джимми спрашивал о тебе)"
       },
       {
-        "preposition": "around/over",
+        "preposition": "around",
         "meaning": "Расспрашивать, задавать многим людям один и тот же вопрос",
         "example": "Molly asked around to see if anyone knew someone who could rent her a room.\n(Молли интересовалась, не знает ли кто-нибудь, у кого она может снять комнату)"
       },
@@ -336,6 +423,18 @@
     ]
   },
 
+  {
+    "verb": "auction",
+    "variations": [
+      {
+        "preposition": "off",
+        "meaning": "Продать, выставить на аукционе",
+        "example": "Every month we auction off repossessed storage units.\n(Каждый месяц мы продаем с аукциона изъятые вещи из хранилищ)"
+      }
+    ]
+  },
+
+
 
 
   {
@@ -353,7 +452,7 @@
       },
       {
         "preposition": "off",
-        "meaning": "Отступать, отстраняться, идти на попятный\nСтановиться менее агрессивным\nТормозить, замедляться (разг.)",
+        "meaning": "Отступать, отстраняться, идти на попятный\nСтановиться менее агрессивным\nТормозить, замедляться",
         "example": "We just needed something to make her back off.\n(Нам просто было нужно что-то, что заставило бы ее отступить)\nDude, you better back off.\n(Чувак, тебе лучше отвалить)\nMaybe now you back off from my shoulder a little bit.\n(Может быть, теперь ты немного отступишь от моего плеча)"
       },
 
@@ -366,6 +465,193 @@
         "preposition": "up",
         "meaning": "Выполнять резервное копирование (файла, системы, диска), создавать резервную копию (данных)\nЗасорять, забивать (что-л), вызывать затор, скопление транспорта, пробку",
         "example": "The flood water of the storm backed up the pipes for the dirty water.\n(Во время шторма потоки воды залили сточные трубы)\nMany ships are backed up at the entrance to the harbour.\n(При входе в порт скопилось много кораблей)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bag",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Вздуться (о парусе)\n(Австралия)Критиковать",
+        "example": "A stiff breeze made the sails bag out.\n(Крепкий бриз вывел паруса)\nI don't mean to bag you out, but that top is really not flattering on you.\n(Не хочу тебя расстраивать, но этот топ тебе не очень-то льстит)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bail",
+    "variations": [
+      {
+        "preposition": "on",
+        "meaning": "Отказываться делать что-то, обманывать, кидать, подводить",
+        "example": "We thought you were going to bail on us.\n(Мы думали, ты нас кинешь)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Выпрыгнуть из самолёта с парашютом",
+        "example": "The plane's engine failed and the pilot was forced to bail out.\n(Двигатель самолёта сломался, и пилот был вынужден выпрыгнуть)"
+      },
+      {
+        "preposition": "smb/smth out of",
+        "meaning": "Выпутываться, спасать, выручить, помогать финансово",
+        "example": "Vincent and I met when I was bailing my boyfriend out of jail.\n(Винсент и я познакомились, когда я вытаскивала своего друга из полицейского участка)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Остановить с целью пообщаться\nОстанавливать с целью грабежа",
+        "example": "My neighbour bailed me up in the street and talked for half an hour.\n(Сосед остановил меня на улице и болтал полчаса)\nThe criminal bailed up the woman, took her purse, and ran away.\n(Преступник напал на женщину, выхватил у нее кошелек и убежал)\nBail up!\n(Гони деньги!)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "balls",
+    "variations": [
+      {
+        "preposition": "smth up",
+        "meaning": "Испортить что-то, совершив ошибку или глупость",
+        "example": "Trust me to balls up the interview!\n(Доверься мне провалить интервью!)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bang",
+    "variations": [
+      {
+        "preposition": "about",
+        "meaning": "Шуметь, путешествовать по, разъезжать, мотаться",
+        "example": "I won't buy a car that has been banged about all roads and highways.\n(Я не буду покупать машину, которая исколесила все дороги)"
+      },
+      {
+        "preposition": "away/smb",
+        "meaning": "Ширяться, колоться\nЗаниматься интимом",
+        "example": "They were in the bathroom banging away\n(Они кололись какой-то дрянью в ванной)\nShe banged herself and went on with her work\n(Она укололась и продолжала работать)\nIf you buy her a bottle of wine she’ll let you bang her\n(Ты можешь с ней переспать за бутылку вина)"
+      },
+      {
+        "preposition": "away at",
+        "meaning": "Усердно работать, долбить, зубрить\nНастойчиво атаковать вопросами",
+        "example": "You have an evening to bang away at your subject.\n(У тебя вечер на то, чтобы вызубрить предмет)\nPolice are going to keep banging away at you.\n(Полиция будет продолжать доставать тебя вопросами)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Забивать, заколачивать, с шумом захлопнуть, грохать",
+        "example": "When I give you the nod, I want you to bang this down on the desk.\n(Когда я кивну тебе, я хочу, чтобы ты треснул этим по столу)"
+      },
+      {
+        "preposition": "into",
+        "meaning": "Столкнуться, врезаться",
+        "example": "I just rolled out straight across the road, bang into the opposite wall.\n(Я просто прокатился через дорогу, врезавшись в стену на другой стороне)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Зря расстреливать патроны, зря тратить",
+        "example": "He banged off two rounds of ammunition.\n(Он сделал два выстрела впустую)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Громко исполнять музыку\nПечатать быстро, в спешке",
+        "example": "Bob is at the piano again, banging out the latest popular tunes.\n(Боб снова за пианино, что есть мочи лабает модные шлягеры)\nTom has been hard at work all day, banging out a new story.\n(Том корпел весь день, набивая на печатной машинке свой новый рассказ)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "(амер.) Избить, разрушить, сломать\nПоранить\nЗачать, обрюхатить\n(брит.) Посадить в тюрьму",
+        "example": "(He banged up his car in the race.\n(Он разбил машину на гонках)\nJohn banged up his knee playing cricket.\n(Джон поранил колено, когда играл в крикет)\nSome people think it's OK to sleep with a girl so long as you don't bang her up.\n(Некоторые люди думают, что это нормально спать с девушкой пока ты не обрюхатишь)\nWhen they bang you up, you don't speak to anyone for hours.\n(Когда тебя запирают в камере, тебе не с кем поговорить в течение многих часов)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bank",
+    "variations": [
+      {
+        "preposition": "on",
+        "meaning": "Расчитывать, полагаться на, делать ставку",
+        "example": "Don't bank on your relatives to help you out of trouble.\n(Не стоит рассчитывать, что родственники будут всегда помогать тебе решать твои проблемы)\nThey bank on the power of the early detection of conflicts.\n(Они делают ставку на эффективность раннего обнаружения конфликтов)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bargain",
+    "variations": [
+      {
+        "preposition": "away",
+        "meaning": "Уступать по дешёвке, продавать за бесценок, жертвовать, разбазарить\nУпустить возможность, шанс; променять на что-либо менее ценное; поступиться",
+        "example": "To bargain away one's property.\n(Продать за бесценок своё имущество)\nTo bargain away rights.\n(Поступиться правами)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Выторговать лучшую цену",
+        "example": "If the price is too expensive, try to bargain it down.\n(Если цена слишком высока, попробуйте снизить цену)"
+      },
+      {
+        "preposition": "for",
+        "meaning": "Напрашиваться, нарваться\nРассчитывать, надеяться",
+        "example": "When he married that girl he got more than he bargained for.\n(Когда он женился на этой девушке, то и не ожидал, что нарвётся на такую стерву)\nI bargained for a simple tablet but got a used device with hidden problems.\n(Я подыскивал простой планшетник, а получил подержанное устройство со скрытыми глюками)"
+      },
+      {
+        "preposition": "on/for",
+        "meaning": "Рассчитывать, надеяться, ожидать",
+        "example": "I wouldn't bargain on the speaker arriving soon, as he's got a long way to come.\n(Я не думаю, что докладчик скоро появится, ему долго ехать)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "barge",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Вторгаться, вмешиваться, встревать в разговор",
+        "example": "Somebody needs to tell him to stop barging in when we are working.\n(Нужно ему сказать, чтобы он перестал вторгаться к нам, когда мы работаем)"
+      }
+    ]
+  },
+
+  {
+    "verb": "bash",
+    "variations": [
+      {
+        "preposition": "about/around",
+        "meaning": "Грубо обращаться, бить, издеваться",
+        "example": "He did time for bashing his wife and kids around.\n(Он отсидел в тюрьме за издевательства над своей женой и детьми)"
+      },
+      {
+        "preposition": "in",
+        "meaning": "Пробивать, вышибать, выбивать, выламывать",
+        "example": "The firemen had to bash the door in.\n(Пожарникам пришлось вышибить дверь)"
+      },
+      {
+        "preposition": "on",
+        "meaning": "Продолжать делать то, что трудно, скучно, занимает много времени",
+        "example": "I’d better bash on with this – I’ll see you later.\n(Я лучше займусь этим - увидимся позже)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Сломать, повредить что-либо\nКолотить, дубасить, сильно избить",
+        "example": "He bashed up his car in the race.\n(Он разбил свою машину на гонках)\nWho’s bashed you up so?\n(Это ж кто тебя так разукрасил?)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bawl",
+    "variations": [
+      {
+        "preposition": "smb out",
+        "meaning": "Накричать, наорать, вздрючить",
+        "example": "You know they are really going to bawl you out over this.\n(Они тебе намылят шею за это)"
       }
     ]
   },
@@ -426,7 +712,7 @@
       },
       {
         "preposition": "away",
-        "meaning": "Отсутствовать\nУходить\n(перен.) задуматься, погрузиться в свои мысли",
+        "meaning": "Отсутствовать\nУходить\n(перен.) Задуматься, погрузиться в свои мысли",
         "example": "I won't be away for long.\n(Я ненадолго отбуду)\nI'll be away to Simferopol for a few days.\n(Я уеду в Симферополь на несколько дней)\nHe is away in a world of his own.\n(Он погружён в свои мысли)"
       },
       {
@@ -506,8 +792,8 @@
       },
       {
         "preposition": "off",
-        "meaning": "Уходить, уезжать\nНачинать движение, особенно в гонке\nСрываться с места\nВзять на старте\nБыть свободным, не работающим\nЗаканчиваться (о еде в ресторане), испортиться (о еде)\nОсвобождаться от работы\nБыть отключенным, не функционировать\n(разг) завести пластинку, занудствовать\n(разг) запасаться",
-        "example": "Is Angela off this Monday?\n(Анжела уезжает в этот понедельник?)\nI'm sorry, the lamb is off.\n(Извините, баранина закончилась)\nThis fish is off.\n(Эта рыба испортилась)\nHow are you off for clothes?\n(Как ты покупаешь одежду?)\nIf Jim and Mary are quarrelling already, it looks as if their marriage is off to a bad start.\n(Если Джим и Мэри уже сейчас ссорятся, получается, что их совместная жизнь начинается не так уж гладко)"
+        "meaning": "Уходить, уезжать\nНачинать движение, особенно в гонке\nСрываться с места\nВзять на старте\nБыть свободным, не работающим\nЗаканчиваться (о еде в ресторане), испортиться (о еде)\nОсвобождаться от работы\nБыть отключенным, не функционировать\nЗавести пластинку, занудствовать\nЗапасаться",
+        "example": "Is Angela off this Monday?\n(Анжела уезжает в этот понедельник?)\nI'm sorry, the lamb is off.\n(Извините, баранина закончилась)\nThis fish is off.\n(Эта рыба испортилась)\nI'm off at 6.00.\nThe light was off.\nThe switch was off.\nНе's off again!\nHow are you off for clothes?\n(Как ты покупаешь одежду?)\nIf Jim and Mary are quarrelling already, it looks as if their marriage is off to a bad start.\n(Если Джим и Мэри уже сейчас ссорятся, получается, что их совместная жизнь начинается не так уж гладко)"
       },
       {
         "preposition": "off to",
@@ -516,7 +802,7 @@
       },
       {
         "preposition": "off with",
-        "meaning": "(Разг) освобождаться, избавляться",
+        "meaning": "Освобождаться, избавляться",
         "example": "Be off with the old love before you are on with the new.\n(Разберитесь с предыдущей привязанностью до того, как заведёте новую)"
       },
       {
@@ -588,7 +874,7 @@
       },
       {
         "preposition": "up",
-        "meaning": "Встать, проснуться, быть бодрствующим\nУвеличиться, повыситься, подняться\n(разг) случаться, происходить\nБыть причиной (чего-л)",
+        "meaning": "Встать, проснуться, быть бодрствующим\nУвеличиться, повыситься, подняться\nСлучаться, происходить\nБыть причиной чего-либо",
         "example": "What time do you have to be up tomorrow?\n(Когда тебе нужно встать завтра?)\nJane's temperature is up again.\n(Джейн снова повышается температура)\n What's up?\n(Что случилось? Ты так бледна)"
       },
       {
@@ -598,7 +884,7 @@
       },
       {
         "preposition": "up to",
-        "meaning": "Собираться, намереваться что-л. сделать\nБыть способным сделать (что-л)\nСоответствовать (стандарту)\nЗависеть от (кого-л)",
+        "meaning": "Собираться, намереваться что-л. сделать\nБыть способным сделать что-либо\nСоответствовать (стандарту)\nЗависеть от кого-либо",
         "example": "Do you know what they're up to?\n(Ты знаешь, что они собираются делать?)\nI'm not up to such hard work in this hot weather.\n(Я не способен выполнять такие сложные задания в такую жару)\nThe new film is not up to his last one.\n(Его новый фильм не так хорош, как предыдущий)\nIt's up to you to keep the boy out of trouble.\n(В ваших силах оградить мальчика от неприятностей)"
       },
       {
@@ -615,6 +901,16 @@
     "verb": "bear",
     "variations": [
       {
+        "preposition": "down",
+        "meaning": "Преодолеть, сломить\nПрилагать усилия\nТужиться при родах",
+        "example": "His determined efforts at last bore down all opposition.\n(Его упорство сломило всякое сопротивление)\n(The driver bore down with all his strength to control the car when the wheel stuck.\n(Водитель изо всех пытался удержать автомобиль, когда заело руль)\nThe nurse will tell you when to bear down.\n(Сестра скажет вам, когда надо тужиться)"
+      },
+      {
+        "preposition": "down up(on)",
+        "meaning": "Подходить с наветренной стороны\nУстремляться, набрасываться, нападать, обрушиваться, надвигаться\nСтрого наказывать, принимать серьезные меры",
+        "example": "With the wind blowing strongly behind, the little boat bore down (up)on the harbour.\n(Ветер дул сзади, и маленькая лодка устремилась к гавани)\nThe future is bearing down on us like enormous ship.\n(Будущее надвигается на нас как огромный корабль)\nThe courts must bear down (up)on young criminals.\n(Суды должны строго наказывать малолетних преступников)"
+      },
+      {
         "preposition": "on",
         "meaning": "Касаться, иметь отношение к чему-либо, быть связанным с чем-либо",
         "example": "Certain facts bearing on the choice of time should be carefully considered.\n(Определенные факты, касающиеся выбора времени, должны быть внимательно рассмотрены)\nHow does your story bear on this case?\n(Какое отношение имеет ваша история к данному случаю?)"
@@ -625,9 +921,294 @@
         "example": "If I tell the judge that I wasn’t there, will you bear me out?\n(Если я скажу судье, что меня там не было, ты подтвердишь мои слова?)"
       },
       {
-        "preposition": "up",
+        "preposition": "up (under)",
         "meaning": "Держаться (стойко), выдерживать",
         "example": "Alice bore up well under the news of her husband’s death.\n(Алиса стойко перенесла известие о смерти своего мужа)"
+      },
+      {
+        "preposition": "with",
+        "meaning": "Относиться терпеливо, мириться",
+        "example": "Please bear with me while I fill out the paperwork.\n(Потерпи, пожалуйста, пока я заполняю эти документы)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "beat",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Жечь, палить (о солнце); литься, проливаться (о дожде)\nСбивать цену",
+        "example": "The sun beat down mercilessly on the dry earth.\n(Солнце безжалостно жгло сухую землю)\nCompetition should beat the price down.\n(Цены должны упасть из-за конкуренции)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Отбивать нападение, отбиваться\nМастурбировать, дрочить",
+        "example": "The residents were able to beat off the attack.\n(Жители деревни смогли отбить атаку)\nI just beat off this morning.\n(Я просто знатно надрочился сегодня утром)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Выбивать, ковать, сбивать с толку\nПлыть против ветра",
+        "example": "Beat out this tune on a drum.\n(Выстучи эту мелодию на барабане)\nThe boat beat out when the storm had passed.\n(Когда шторм закончился, корабль повернул против ветра)"
+      },
+      {
+        "preposition": "smb out",
+        "meaning": "Победить или финишировать перед конкурентом, опередить",
+        "example": "I beat him out in the footrace.\n(Я победил его в беге на эту дистанцию)"
+      },
+      {
+        "preposition": "smb out smth",
+        "meaning": "Разводить кого-либо на что-либо, вытрясти",
+        "example": "The young mistress beat him out of half his money.\n(Молодая любовница вытрясла с него пол состояния)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Избивать, обходиться со зверской жестокостью\nПродвигаться против ветра, против течения\nВербовать",
+        "example": "The boys robbed the old man and beat him up.\n(Хулиганы ограбили старика и избили его)\nWhen a favourable wind came, we were able to beat up.\n(Когда задул попутный ветер, мы смогли повернуть против течения)\nAnd these militant groups love to beat up westerners.\n(А эти группы боевиков любят вербовать западных жителей)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "beaver",
+    "variations": [
+      {
+        "preposition": "away",
+        "meaning": "Старательно работать, вкалывать, пахать",
+        "example": "Like Solzhenitsyn laboring in Vermont, I shall beaver away in exile.\n(Подобно Солженицыну, томившемуся в Вермонте, я буду трудиться в изгнании)"
+      }
+    ]
+  },
+
+  {
+    "verb": "bed",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Уложить, устроить на ночь",
+        "example": "We'll bed the children down now.\n(Сейчас уложим детей)"
+      },
+      {
+        "preposition": "in",
+        "meaning": "Обосноваться, поселиться; устраивать кого-либо, чтобы он чувствовал себя как дома",
+        "example": "It took a lot of time to be bedded in.\n(Это заняло много времени, чтобы обосноваться)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Сажать в грунт (растения)",
+        "example": "Will you help me bed out the plants?\n(Поможешь мне высадить цветы?)"
+      }
+    ]
+  },
+
+  {
+    "verb": "beef",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Совершенствовать, улучшать, добавлять, усиливать",
+        "example": "Our neighborhood will beef up security.\n(В нашем районе будут усилены меры безопасности)"
+      }
+    ]
+  },
+
+  {
+    "verb": "belong",
+    "variations": [
+      {
+        "preposition": "to smb",
+        "meaning": "Принадлежать кому-либо",
+        "example": "Does this book belong to you or to Sarah?\n(Эта книга принадлежит тебе или Саре?)"
+      },
+      {
+        "preposition": "to smth",
+        "meaning": "Быть частью чего-то",
+        "example": "In theory we belong to the same force, but actually, we're totally different.\n(Теоретически мы принадлежим той же структуре, но фактически мы совершенно другие)"
+      },
+      {
+        "preposition": "with",
+        "meaning": "Быть в нужном, подходящем месте",
+        "example": "You know she doesn't belong with your son.\n(Вы знаете, что она не должна быть с вашим сыном)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "belt",
+    "variations": [
+      {
+        "preposition": "smth out",
+        "meaning": "Очень громко петь или играть на музыкальном инструменте\nГромко пить, хлебать, рыгать",
+        "example": "Judy Garland can belt out a tune.\n(Джуди Гарлэнд в состоянии прогорланить песню)\nWe'd get a can of Coke... and just belt out our A-B-C's as loud as we could.\n(Мы выпивали банку колы и рыгали так много и так громко, как только могли)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Пристегнуться ремнём безопасности\nГоворить потише, замолчать, заткнуться",
+        "example": "Belt up before you start to drive!\n(Пристегнись перед тем, как начать движение!)\nJust belt up, will you!\n(Заткнись, ладно?)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bend",
+    "variations": [
+      {
+        "preposition": "back",
+        "meaning": "Оттягивать, отклонить, выгибать назад\nВернуться",
+        "example": "Sometimes my arms bend back.\n(Иногда мои руки выгибаются назад)\nIf I bend any further, I won't bend back.\n(Если я пойду дальше, назад я уже не вернусь)"
+      },
+      {
+        "preposition": "down/over",
+        "meaning": "Нагибать, сгибать, согнуть, переклонять",
+        "example": "I pulled a muscle playing sports and can't bend down.\n(Я потянул мышцу при занятии спортом и не могу наклониться)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Загибать, отгибать",
+        "example": "Just bend the hatch off this steam pipe.\n(Все, что тебе нужно сделать - это отогнуть люк на паровой трубе)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "big",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Преувеличивать значение, раскручивать, рекламировать\nНахваливать, благодарить, уважать\nКачать мускулы",
+        "example": "It was announced that this speaker bigs up the articles of some new researchers.\n(Было объявлено, что этот спикер преувеличивает значение работ некоторых новых исследователей)\nI want to big up everyone who has shown me support over the years.\n(Я хочу поблагодарить всех, кто оказывал мне поддержку все эти годы)\nBig up to the veterans.\n(Большое спасибо ветеранам)\nHe works out every day to big up himself.\n(Он тренируется каждый день, чтобы накачаться)"
+      }
+    ]
+  },
+
+  {
+    "verb": "bitch",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Напакостить, навредить, испортить",
+        "example": "I think we really helped mess this poor son of a bitch up.\n(Похоже, мы подпортили бедолаге жизнь)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "black",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Вымарывать, замазывать текст чёрной краской\nМаскировать, затемнять, выключать свет\nНа мгновение терять сознание\n(амер.) Засекречивать\nЗаглушать",
+        "example": "The advertisement for the concert tells where it will take place, but the date has been blacked out.\n(На афише написано, где состоится концерт, но дату кто-то закрасил)\nDuring the war we had to black out all our windows.\n(Во время войны нам приходилось затемнять окна)\nThe stage was blacked out to hide a change of scenery.\n(На сцене погасили свет, чтобы сменить декорации)\nAfter the accident he blacked out and couldn't remember what happened.\n(Во время катастрофы он потерял сознание и не помнил, что произошло)\nReports of the peace talks have been blacked out for twenty-four hours so as to allow freer argument.\n(Информация о том, что идут мирные переговоры, была на сутки засекречена, чтобы стороны чувствовали себя свободнее)\nTelevision shows were blacked out as the trouble spread.\n(Телепередачи прекратились, когда беспорядки начали распространяться)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "blank",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Отодвигать что-либо, оставляя свободное место\nПомутниться (о сознании), потерять память",
+        "example": "Part of the newspaper was blanked out by the government, who wanted their guilt kept hidden.\n(Отдельные статьи в газете по требованию правительства были заменены пустыми местами; правительство не хотело, чтобы знали о его виновности)\nI blanked out this morning and couldn't remember where I was.\n(Утром у меня что-то было с головой, я не мог понять, где я нахожусь)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "blare",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Громко звучать",
+        "example": "Music blared out from the neighbour’s party.\n(Музыка громко играла от соседской вечеринки)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "blast",
+    "variations": [
+      {
+        "preposition": "off",
+        "meaning": "Стартовать, взлетать (о ракете)",
+        "example": "Houston, we have blast-off... take-off!\n(Хьюстон, подтверждаю старт... взлет!)\nThe blast-off took place on schedule.\n(Старт ракеты произошёл по расписанию)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "blaze",
+    "variations": [
+      {
+        "preposition": "away",
+        "meaning": "Вести огонь, поддерживать беспрерывный огонь\nБыстро, горячо говорить, выпаливать\nРаботать с увлечением",
+        "example": "The captain ordered the men to blaze away at the enemy.\n(Капитан приказал продолжать огонь)\nBlaze away!\n(Валяй! жарь!)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Вспыхнуть, взорваться (во всех смыслах)",
+        "example": "Mary's temper blazed up.\n(Мэри взорвалась)\nCatherine blazed up when Jim angered her.\n(Кэтрин подняла скандал, когда Джим разозлил её)\nThe fire blazed up when we thought it was out.\n(Огонь снова вспыхнул, а мы уже думали, что потушили его)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bleed",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Истекать кровью",
+        "example": "Why did the patient bleed out?\n(Почему у пациентки открылось кровотечение)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bliss",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "(амер. разг.) Балдеть, торчать, кайфовать",
+        "example": "I, on the other hand, was way too freaked out to be blissed out.\n(Я, с другой стороны, была слишком испугана, чтобы кайфовать)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "block",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Заполнять\nНабрасывать вчерне",
+        "example": "Now that the well has run dry, we must block it in with bricks.\n(Теперь, когда в колодце нет воды, мы должны заложить его кирпичом)\nMr Brown has blocked in the plans for the house but has given no details.\n(Мистер Браун набросал план дома, но не уточнил никакие детали)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Перекрывать, преграждать выход, препятствовать выходу",
+        "example": "The area was blocked off during the demonstration.\n(Этот район был закрыт для движения во время демонстрации)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Скрывать, заслонять, блокировать, препятствовать\nПодавлять чувство, стараться не думать\nРетушировать\nНабрасывать вчерне (in)",
+        "example": "The trees almost successfully block out the brick houses.\n(Деревья почти полностью заслоняли кирпичные дома)\nThey attempt to withdraw from it, to block it out.\n(Они пытаются от этого отстраниться, не думать об этом)\nBlock out the bottom of this picture when it is printed, the balance of the page will be better.\n(Отретушируйте низ картинки, когда будете печатать, общий вид будет лучше)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Заблокировать, заклинивать, застревать",
+        "example": "Sometimes the traffic gets blocked up, and it affects the bus schedule.\n(Иногда дорожные потоки блокируются, и это отражается на расписании автобусов)\nIt gets blocked up in my mouth. I don't say it no good, so...\n(Это слово застревает во рту, и я не могу сказать его правильно)"
       }
     ]
   },
@@ -681,6 +1262,66 @@
 
 
   {
+    "verb": "blurt",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Сболтнуть, проболтаться, ляпнуть, выпалить",
+        "example": "She blurted out her real name after two glasses of wine.\n(После двух бокалов вина она проболталась, как ее на самом деле зовут)"
+      }
+    ]
+  },
+
+  {
+    "verb": "board",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Питаться у арендателя, работодателя",
+        "example": "The fruit pickers can board in or make their own arrangements for food.\n(Сборщики фруктов могут питаться у хозяев или готовить себе сами)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Питаться вне дома",
+        "example": "Your family is so large that three of the children will have to board out.\n(Ваша семья так велика, что трое из ваших детей будут вынуждены кормиться где-то ещё)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Заколачивать, обшивать досками",
+        "example": "Stores are boarding up their windows in case rioting breaks out.\n(Магазины заколотили свои окна на случай беспорядков)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bog",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Увязнуть, застрять\nВстречаться с трудностями",
+        "example": "The car got bogged down and wouldn't move.\n(Машина окончательно увязла)\nThe talks with the men got bogged down on the question of working hours.\n(Переговоры с рабочими застопорились, когда зашла речь о продолжительности рабочего дня)"
+      },
+      {
+        "preposition": "in",
+        "meaning": "(Австрал.) Начать есть с удовольствием",
+        "example": "He closed the door and motioned them to a tray. `Bog in, it's all on the house.'\n(Он закрыл дверь и подтолкнул их к подносу. `Налетайте, все за счет дома.')"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Уходить",
+        "example": "Bog off! Get out of here!\n(Пошёл вон! Гуляй!)\nBog off back to where you came from.\n(Топай обратно туда, откуда ты пришел)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Запутать, смешать, запутывать",
+        "example": "She'd got everything bogged up.\n(Она всё перепутала)"
+      }
+    ]
+  },
+
+
+  {
     "verb": "boil",
     "variations": [
       {
@@ -689,12 +1330,29 @@
         "example": "The water had all boiled away and the pan was burnt.\n(Вода вся выкипела, и сковородка пригорела)"
       },
       {
+        "preposition": "down",
+        "meaning": "Сокращать, сжимать, упрощать",
+        "example": "You can boil this story down to a few sentences and it still has the same meaning.\n(Этот рассказ можно сократить всего лишь до нескольких предложений безо всякого ущерба для смысла)"
+      },
+      {
+        "preposition": "down to",
+        "meaning": "Сводиться к чему-либо",
+        "example": "The whole matter boils down to a struggle between the trade union and the directors.\n(Всё сводится к конфликту профсоюза и руководства компании)"
+      },
+      {
         "preposition": "over",
         "meaning": "Перекипать, выливаться через край\nКипеть, негодовать, возмущаться",
         "example": "The heated liquid boils over.\n(Разогретая жидкость переливается через край)\nThe trade union chief boiled over when the men voted against him.\n( Глава профсоюза вскипел от ярости, когда люди проголосовали против него)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Накаляться, назревать, достигать опасного уровня",
+        "example": "Не felt that a quarrel was boiling up.\n(Он чувствовал, что назревает ссора)"
       }
+
     ]
   },
+
 
   {
     "verb": "bone",
@@ -706,6 +1364,209 @@
       }
     ]
   },
+
+
+  {
+    "verb": "book",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Зарегистрировать, заказать заранее, бронировать",
+        "example": "It is always advisable to book in early when you want a hotel room in the tourist season.\n(В туристский сезон разумно заказывать номер в отеле заранее)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Выписаться из гостиницы, заплатить по счёту",
+        "example": "I'd like to book out early in the morning, please.\n(Я оплачу свой счёт и выеду рано утром)"
+      },
+      {
+        "preposition": "(be booked out)",
+        "meaning": "Быть заполненным, не иметь свободных мест",
+        "example": "I'm sorry, the hotel is booked out.\n(Мне очень жаль, но в гостинице нет мест)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Закупать, занимать, бронировать",
+        "example": "The restaurant is fully booked up.\n(Все места в ресторане забронированы)\nThe performance is fully booked up.\n(Все билеты на этот спектакль проданы)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "border",
+    "variations": [
+      {
+        "preposition": "on",
+        "meaning": "Быть похожим, почти",
+        "example": "Your remarks border on rudeness.\n(Ваши замечания сравнимы с грубостью)\nYour ideas on bioactive interfaces border on revolutionary.\n(Ваши идеи биоактивных взаимодействий кажутся почти что революционными)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "boss",
+    "variations": [
+      {
+        "preposition": "about/around",
+        "meaning": "Плохо обходиться с кем-либо, давая ненужные приказы",
+        "example": "The new director will not be successful if he goes on bossing the workers about.\n(Новому начальнику будет трудно работать, если он всё время будет напоминать своим подчинённым, что он их босс)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "botch",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Делать небрежно, портить",
+        "example": "The last electrician botched up this job; I hope you can mend the wires.\n(Электрик, который приходил в прошлый раз, только всё испортил; надеюсь, вы почините проводку)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bottle",
+    "variations": [
+      {
+        "preposition": "away",
+        "meaning": "Накапливать, запасаться",
+        "example": "He kept his feelings bottled away.\n(Он хранил свои чувства)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Неожиданно отказаться от планов, передумать в последнюю минуту, струсить",
+        "example": "She was going to do a parachute jump but bottled out at the last minute.\n(Она собиралась прыгнуть с парашютом, но в последнюю минуту передумала)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Не выражать, подавлять эмоции",
+        "example": "Bottling up your anger leads to trouble.\n(Если долго держать зло в душе, это плохо кончится)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bottom",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Достичь нижнего предела, точки перед новым подъёмом",
+        "example": "Land prices appear to have bottomed out.\n(Цены на землю, как представляется, достигли нижнего предела)"
+      }
+    ]
+  },
+
+  {
+    "verb": "bounce",
+    "variations": [
+      {
+        "preposition": "back",
+        "meaning": "Прийти в себя после сложного периода в жизни; вернуться, восстановиться после периода разрушения, ухода или отсутствия",
+        "example": "And if I can bounce back from every sort of rejection and humiliation you can imagine, I’ll bet that you can, too.\n(И если я могу прийти в себя после того, как меня всячески отвергали и унижали, уверен, что вы тоже сможете)"
+      },
+      {
+        "preposition": "smb into smth",
+        "meaning": "Заставить сделать чего он не хочет делать, обычно связанное с политикой",
+        "example": "The opposition hopes to bounce the prime minister into calling an early election.\n(Оппозиция надеется заставить премьер-министра назначить досрочные выборы)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Подкидывать идею",
+        "example": "During the meeting he bounced off his new plan to his boss.\n(Во время совещания он подкинул свой новый план своему начальнику)"
+      }
+    ]
+  },
+
+  {
+    "verb": "bowl",
+    "variations": [
+      {
+        "preposition": "along",
+        "meaning": "Идти, ехать или катиться быстро; ехать с ветерком",
+        "example": "There we were, bowling along nicely, when suddenly the tire burst.\n(Ну и вот, ехали мы себе ехали, как вдруг спустило колесо)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Сбить с толку, ошарашить, расстроить, вывести из равновесия",
+        "example": "I was bowled down by bad news.\n(Я был расстроен неприятным известием)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Отшить\nЗабить, пропустить\nПрогулять",
+        "example": "I'm not just some guy that you met at the music store That you can just blow off.\n(Я тебе не просто паренек из музыкального магазина, которого можно вот так отшить)\nHow about we blow off dessert, go home early?\n(Может, пропустим десерт, пойдем домой пораньше?)\nViolet, let's blow off school tomorrow and eat candy.\n(Вайолет, давай прогуляем завтра школу и будем есть сладости)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Выбить из строя, очень удивить кого-либо, сбить с толку\nКритиковать, делать выговор",
+        "example": "Your sudden news has quite bowled me out.\n(Эти новости совершенно сбили меня с толку)\nWe were bowled out for our work.\n(Мы получили выговор за нашу работу)"
+      },
+      {
+        "preposition": "over",
+        "meaning": "Сбить\nПоразить, удивить, произвести больше впечатление",
+        "example": "Someone ran round the corner and nearly bowled me over.\n(Кто-то неожиданно выбежал из-за угла и чуть не сбил меня с ног)\nHe had bowled her over completely. She was staring at him open-mouthed.\n(Он сразил её наповал. Она смотрела на него, открыв рот от удивления)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "box",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Окружать, огораживать",
+        "example": "The protesters were boxed in by police.\n(Полиция окружила митингующих со всех сторон)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Класть в коробки, запаковывать\nЗапирать кого-либо в маленьком помещении\n(Австрвл.) Смущать, приводить в замешательство, сбивать с толку (в основном о животных)",
+        "example": "When Harry went to sea, his things were boxed up and put in the storeroom.\n(Когда Харри ушёл в море, его вещи запаковали и сдали на хранение)\n It's good to get outside in the fresh air again, after being boxed up in the house all winter.\n(Как хорошо выйти снова на свежий воздух после того, как просидел всю зиму в четырёх стенах)\nThe sheep were all boxed up, running to and fro.\n(Овцы беспокойно бегали туда-сюда)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "brace",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Подбадривать, ободрять, поддерживать, оживиться, встряхнуться, повеселеть",
+        "example": "A walk in this good mountain air will brace you up.\n(Свежий горный воздух взбодрит вас)\nBrace up! Your troubles will soon be over.\n(Держись! Скоро твои испытания кончатся)"
+      },
+      {
+        "preposition": "up to",
+        "meaning": "Быть готовым к трудностям",
+        "example": "You'll have to brace up to your misfortune and get on with your work.\n(Тебе надо пережить неудачу и продолжать работу)"
+      }
+
+    ]
+  },
+
+
+  {
+    "verb": "branch",
+    "variations": [
+      {
+        "preposition": "off",
+        "meaning": "Отделяться, отходить от главного направления",
+        "example": "Take the little path which branches off to the left.\n(Потом поверни на тропинку, ведущую налево)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Разветвляться, ветвиться (о дереве)\nРасширить дело, открыть новое отделение",
+        "example": "The young tree is beginning to branch out.\n(Крона молодого дерева разрастается)\nThe bookshop has decided to branch out into selling music and records.\n(Книжный магазин решил торговать теперь также музыкальной продукцией)"
+      }
+
+    ]
+  },
+
 
   {
     "verb": "break",
@@ -779,6 +1640,56 @@
         "preposition": "with",
         "meaning": "Разрывать отношения, порывать с кем-, чем-либо",
         "example": "He broke with his past.\n(Он порвал со своим прошлым)"
+      }
+    ]
+  },
+
+  {
+    "verb": "breeze",
+    "variations": [
+      {
+        "preposition": "along",
+        "meaning": "Идти легко и быстро",
+        "example": "I admire how kids just breeze along without a care in the world.\n(Я восхищаюсь тем, как дети гуляют без забот)"
+      },
+      {
+        "preposition": "away",
+        "meaning": "Уйти быстро, неожиданно",
+        "example": "Brian breezed away before I had a chance to say goodbye to him.\n(Брайан смылся, прежде чем я успела попрощаться с ним)"
+      },
+      {
+        "preposition": "in/out",
+        "meaning": "Вбежать, влететь, заявиться; выбежать, вылететь",
+        "example": "Jim just breezed in, full of the good news.\n(Джим влетел в дом как на крыльях - у него были хорошие)"
+      },
+      {
+        "preposition": "through",
+        "meaning": "Пройти легко успешно проверку, испытание, экзамен",
+        "example": "She breezed through the test.\n(Она легко прошла эту проверку)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "brick",
+    "variations": [
+      {
+        "preposition": "in/up/over",
+        "meaning": "Закладывать кирпичами, замуровывать",
+        "example": "The old well was bricked up when it ran dry.\n(Когда старый колодец высох, его заложили кирпичом)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "brighten",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Проясняться (о небе)\nСтановиться веселее, обрадоваться",
+        "example": "In the morning it was drizzling but by midday it brightened up.\n(Утром моросил дождь, но к полудню небо прояснилось)\nYour mother really brightened up when she got the flowers you sent.\n(Твоя мать очень обрадовалась, когда получила цветы, которые ты прислал)"
       }
     ]
   },
@@ -874,9 +1785,226 @@
     "verb": "brush",
     "variations": [
       {
+        "preposition": "aside/away/off",
+        "meaning": "Отмахиваться; отказываться слушать, разговаривать, игнорировать",
+        "example": "Brushing aside all opposition, he put the matter to a vote.\n(Не обращая внимания на оппозицию, он поставил вопрос на голосование)\nThe committee brushed off his enquiries with their usual 'It's under control, don't worry',\n(Комитет отмахнулся от его вопросов обычным 'всё под контролем, не беспокойтесь')"
+      },
+      {
         "preposition": "up on",
         "meaning": "Освежать (знания), улучшать, совершенствовать",
         "example": "You have to brush up on your image.\n(Тебе необходимо улучшить свой имидж)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bubble",
+    "variations": [
+      {
+        "preposition": "over",
+        "meaning": "Быть очень восторженным",
+        "example": "We were bubbling over with excitement at the good news.\n(Мы были в восторге от хороших новостей)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Всплывать на поверхность, становиться очевидным",
+        "example": "Interesting ideas about education and healthcare are bubbling up all over the country.\n(Интересные идеи об образовании и здравоохранении всплывают по всей стране)"
+      }
+    ]
+  },
+
+
+
+  {
+    "verb": "buck",
+    "variations": [
+      {
+        "preposition": "off",
+        "meaning": "Сбрасывать (с седла)",
+        "example": "Some horses are specially trained to buck their riders off, to amuse the crowd at an outdoor performance.\n(Некоторых лошадей специально натаскивают, чтобы они брыкались - зрители это очень любят)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Встряхнуть, оживить, приободрить\n(Брит.) Спешить\nСовершенствовать, улучшать",
+        "example": "A good holiday will buck you up.\n(Хорошо проведённый отпуск оживит тебя)\nBuck up, we're all waiting.\n(Поторопись, мы ждём)\nYou had better buck your ideas up, or you'll fail the course.\n(Тебе лучше подкрепить свои идеи, иначе ты провалишь курс)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bucket",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Очень сильно и продолжительно литься (о дожде)",
+        "example": "It started bucketing down just as I began cycling home.\n(Как только я поехал домой на велосипеде, полился дождина)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "buckle",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Серьёзно браться за работу",
+        "example": "It's time you buckled down and got some work done.\n(Тебе давно пора собраться и серьёзно взяться за дело)"
+      },
+      {
+        "preposition": "under",
+        "meaning": "Признавать свою ошибку, вину\nПодчиняться",
+        "example": "In the end he had to buckle under and admit that he was wrong.\n(В конце концов ему пришлось отступить и признать свою ошибку)\nWe all had to buckle under to the director's orders.\n(Нам пришлось подчиниться приказу директора)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Искривляться, коробиться\nПристёгивать ремни в машине",
+        "example": "The metal bridge buckled up in the great heat, and the cars which were crossing it fell into the river.\n(Металлический мост покоробился от жары и машины, которые по нему ехали, упали в реку)\nAccording to the new law, all drivers and passengers must buckle up.\n(В соответствии с новыми правилами, пристёгиваться должен и водитель, и пассажиры)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "budge",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Пододвинуться, чтобы было место ещё для одного",
+        "example": "We had to budge up to let the fourth person in the back of the car.\n(Нам пришлось пододвинуться, чтобы четвёртый человек сел назад в машине)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bug",
+    "variations": [
+      {
+        "preposition": "off",
+        "meaning": "Уходи, убирайся, проваливай",
+        "example": "Listen, I don't want to buy any, so why don't you just bug off and leave me alone!\n(Слушай, я не хочу ничего покупать, так что почему бы тебе просто не отвалить и не оставить меня в покое!)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "(амер. разг.) Быстро собраться и перебраться в другое место\nВыпучить глаза",
+        "example": "Is it true the whole camp is going to bug out in the morning, captain?\n(Командир, правда что мы ни свет ни заря должны подняться и свернуть лагерь?)\nMr. Sterner's eyes bug out at the effrontery of the suggestion.\n(От такого наглого предположения у господина Стернера глаза выходят из орбит)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "build",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Встраивать, вделывать, вмуровывать",
+        "example": "You could build in a wardrobe with mirrored doors.\n(Можно было бы встроить туда шкаф с зеркальными дверцами)"
+      },
+      {
+        "preposition": "on/out",
+        "meaning": "Застраивать, пристраивать, основывать",
+        "example": "The new plan will build on the success of the previous programme.\n(Новый план будет основываться на успехе предыдущей программы)"
+      },
+      {
+        "preposition": "over",
+        "meaning": "Надстраивать, застраивать",
+        "example": "It's a pity but a new firm plans to build over this nice field.\n(Жаль, но новая фирма планирует застроить это красивое поле)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Наращивать, строить, укреплять, застраивать, собирать, воздвигать, обстраивать",
+        "example": "You must build up your strength after your illness.\n(Тебе нужно восстанавливать силы после болезни)\nShe's doing exercises to build up the strength in her legs.\n(Она делает упражнения для увеличения силы ног)\nIt's important to build up a network of professional contacts.\n(Важно выстроить сеть профессиональных контактов)"
+      }
+    ]
+  },
+
+  {
+    "verb": "bulk",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Доходить, составлять изрядную сумму\nНабрать мышечную массу, раскачаться",
+        "example": "Your money could bulk up to a fortune if you save everything you can.\n(Ты можешь скопить целое состояние, если будешь откладывать максимально возможные суммы)\nI saw a man there who had bulked up to 265 pounds.\n(Я видел там мужчину, который раскачался до 120 килограмм)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bump",
+    "variations": [
+      {
+        "preposition": "against",
+        "meaning": "Удариться, наскочить на что-то",
+        "example": "The door has bumped against the wall and scratched the paint.\n(Дверь ударилась о стену и поцарапала краску)"
+      },
+      {
+        "preposition": "into",
+        "meaning": "Встретить неожиданно, случайно",
+        "example": "Pedro bumped into his English teacher at the supermarket.\n(Педро случайно встретил своего учителя английского в супермаркете)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "(амер. разг.) Убить, убрать, устранить",
+        "example": "The old man who owned the jewels was bumped off by the thieves.\n(Воры убили старика, у которого были драгоценности)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Растягивать, расширять",
+        "example": "Let me bump out the deck, all right?\n(Можно, я растяну настил, хорошо?)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Повышать, увеличивать\nНазначить, продвинуть",
+        "example": "Two more good results will bump up your average.\n(Еще два неплохих результата поднимут твой средний балл)\n I don't like the new director much, he seems to have been bumped up from some more humble position.\n(Мне не очень нравится новый директор, кажется, его слишком высоко закинули, раньше он занимал гораздо более низкий пост)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bundle",
+    "variations": [
+      {
+        "preposition": "off",
+        "meaning": "Отправить кого-то куда-то",
+        "example": "Robert bundled the children off to school.\n(Роберт отправил детей в школу)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Спешно уходить, выгонять, отсылать, отослать, выпихнуть, выпихивать",
+        "example": "I shall bundle you out of here very fast if you don't leave by yourself.\n(Если ты сам не уйдёшь, я быстренько тебя выпровожу)\nThe taxi door burst open and all the children bundled out.\n(Дверь автобуса распахнулась, и дети потоком хлынули оттуда)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Тепло одевать, укутывать",
+        "example": "The mother bundled the children up against the cold wind.\n(Мать хорошенько закутала детей - дул сильный ветер)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "bunk",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Ложиться спать",
+        "example": "Janet was so tired after her trip that she bunked down as soon as she got home.\n(Джанет так устала после поездки, что легда спать, как только вернулась домой)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "(брит.) Прогуливать (школу, работу)",
+        "example": "I was so bored at work that I decided to just bunk off after lunch without telling anyone.\n(Мне было так скучно на работе, что я решил просто уйти после обеда, никому не сказав)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Спать с кем-либо (интим)\nПомогать подняться, взобраться наверх",
+        "example": "I'd like to bunk up with you.\n(Я бы с удовольствием с тобой переспал)\nBunk me up, over this wall.\n(Помогите мне перебраться через эту стену)"
       }
     ]
   },
@@ -902,7 +2030,7 @@
       },
       {
         "preposition": "(oneself) out",
-        "meaning": "Догореть, сгорать полностью\n(перен.)Вымотаться, переутомиться",
+        "meaning": "Догореть, сгорать полностью\n(перен.) Вымотаться, переутомиться",
         "example": "The candle has burnt itself out.\n(Свеча догорела)\nTom will burn himself out if he doesn't slow down.\n(Том выдохнется, если не перестанет так много работать)"
       },
       {
@@ -917,6 +2045,11 @@
     "verb": "burst",
     "variations": [
       {
+        "preposition": "in",
+        "meaning": "Ворваться, вломиться\nВыломать\nВмешаться в разговор",
+        "example": "Suddenly the door opened and the children burst in.\n(Внезапно распахнулась дверь и в комнату влетели дети)\nThe firemen could enter the burning house only by bursting the door in.\n(Чтобы войти в горящий дом, пожарным пришлось выломать дверь)\nI'm sorry to burst in on you like this, but I have an urgent message.\n(Я прошу прощения, что отрываю вас, но у меня срочное сообщение)"
+      },
+      {
         "preposition": "out",
         "meaning": "Начать внезапно и бурно что-то делать: разразиться (смехом, плачем)\nВосклицать (внезапно и громко)",
         "example": "The other girls burst out crying at the sight of the coffin.\n(Остальные девушки залились слезами при виде гроба)\n“Don’t hit me!” she burst out.\n(«Не бей меня!» - воскликнула она)"
@@ -925,6 +2058,97 @@
   },
 
 
+  {
+    "verb": "bust",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Украситься цветами и листвой, расцвести\nСбежать\nВнезапно начинать делать что-либо",
+        "example": "June is busting out all over.\n(В июне всё расцветает)\nTom, have you bust out?\n(Том, ты что, сбежал?)\nThe whole crowd bust out laughing.\n(Толпа разразилась хохотом)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Портить, разрушать\nСсориться\nРасходиться, разводиться",
+        "example": "The travel company's failure bust up our holiday.\n(Плохая работа турфирмы испортила нам отпуск)\nom and Helen were busting up again last night.\n(Том и Хелен вчера опять ссорились)\nIt was money troubles that bust up their marriage.\n(Они разошлись из-за проблем с деньгами)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "butt",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Вмешиваться в разговор, в чужие дела; влезать в драку, встревать",
+        "example": "Never butt in on anyone else's quarrel.\n(Никогда не влезай в чужую драку)\nI'd have got the job finished in time if he hadn't come butting in on my work with his unwanted advice.\n(Я бы успел сделать работу вовремя, если бы он не влез со своими ненужными советами)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Не вмешиваться, отвалить, не машеать",
+        "example": "Would you please butt out of my relationship and stop trying to seduce me?\n(Пожалуйста, отвали от моих отношений и перестань соблазнять меня)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "butter",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Подлизываться, подмазываться, задобрить лестью, подмаслить",
+        "example": "I tried to butter up my father by mowing the lawn before I asked to borrow the car.\n(Я пытался подмаслить отца, подстригая газон, прежде чем попросить машину)"
+      }
+    ]
+  },
+
+  {
+    "verb": "buy",
+    "variations": [
+      {
+        "preposition": "ahead",
+        "meaning": "Покупать заранее, на срок",
+        "example": "I didn't even know you could buy bus tickets ahead of time.\n(Я даже не знала, что их можно покупать заранее)"
+      },
+      {
+        "preposition": "in",
+        "meaning": "Выкупать (на аукционе) собственные вещи по низшей отправной цене\nСкупать, покупать акции; делать членский взнос, войти в долю, приобрести пай",
+        "example": "The painting failed to reach its agreed price, and was bought in at $68,000.\n(За картину не дали намеченной цены, и хозяин выкупил её за 68 тысяч долларов)\nThe company seems to be doing so well that I would like to buy in.\n(Кажется, у этой компании дела идут очень хорошо, поэтому я хотел бы приобрести её акции)"
+      },
+      {
+        "preposition": "off/over/out smb of",
+        "meaning": "Откупаться",
+        "example": "His sister threatened to tell the police, so he had to buy her off.\n(Его сестра пригрозила, что донесёт в полицию, так что ему пришлось откупаться от неё)\nBought out of slavery, people still couldn't became Romans.\n(Даже выкупленные из рабства не могли стать римлянами)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Выкупать часть, долю; становиться хозяином",
+        "example": "Pacific Inc. was bought out by a company from Oregon.\n('Пасифик Инк.' была выкуплена компанией из Орегона)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Скупать, выкупать все",
+        "example": "We bought up all the beer in the store.\n(Мы скупили все пиво в магазине)"
+      }
+    ]
+  },
+
+  {
+    "verb": "buzz",
+    "variations": [
+      {
+        "preposition": "around",
+        "meaning": "Мельтешить, мотаться, быстро двигаться",
+        "example": "When your photo brushes my heart, my thoughts buzz around you.\n(Твоя фотография коснулась моего сердца, теперь все мои мысли витают около тебя)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Уходить, убираться",
+        "example": "Buzz off, you children, I don't want you in my garden.\n(Так, дети, а ну-ка вон из сада)"
+      }
+    ]
+  },
 
 
 
@@ -953,7 +2177,7 @@
         "example": "I called in to see Jeff yesterday.\n(Я зашел вчера, чтобы увидеть Джеффа)\nThe makers have called in some cars with dangerous faults.\n(Производитель отозвал ряд машин, в которых были обнаружены опасные неисправности)"
       },
       {
-        "preposition": "for",
+        "preposition": "for/forth",
         "meaning": "Взывать к кому-то\nТребовать\nЗаходить, заезжать за кем-, чем-либо",
         "example": "The situation calls for attention.\n(Ситуация требует внимания)\nSeveral of the newspapers were calling for his resignation.\n(Несколько газет призвали к его отставке)\nI will call for you at eight.\n(Я зайду за тобой в восемь)"
       },
@@ -994,6 +2218,30 @@
 
 
   {
+    "verb": "cancel",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Уравновесить, сбалансировать\nСвести на нет",
+        "example": "His good qualities and his faults cancel out.\n(Его достоинства уравновешивают его недостатки)\nThe poor quality of his work this year cancels out his former improvement.\n(Его плохая работа в этом году сводит на нет все предыдущие достижения)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "cap",
+    "variations": [
+      {
+        "preposition": "off",
+        "meaning": "Завершить",
+        "example": "He capped off the meeting with a radical proposal.\n(Он завершил встречу радикальным предложением)"
+      }
+    ]
+  },
+
+
+  {
     "verb": "care",
     "variations": [
       {
@@ -1025,12 +2273,12 @@
       },
       {
         "preposition": "on",
-        "meaning": "Продолжать заниматься чем-либо\nПродолжаться (о тексте)\nВести (дело)\n(разг) флиртовать, иметь любовную связь",
+        "meaning": "Продолжать заниматься чем-либо\nПродолжаться (о тексте)\nВести (дело)\nФлиртовать, иметь любовную связь",
         "example": "Carry on! Don't mind us!\n(Продолжай! Не обращай внимания на нас!)\nDon't stop reading there, the poem carries on over the page.\n(Ты ещё не всё прочитал, стихотворение продолжается на следующей странице)\nThe baker has carried on business here for years.\n(Этот булочник ведёт здесь своё дело уже много лет)\nIt was impossible that she could be 'carrying on' with him.\n(Казалось невероятным, чтобы у неё была связь с ним)"
       },
       {
         "preposition": "off",
-        "meaning": "Похищать (=carry away), захватывать\nУнести чью-то жизнь, свести в могилу.\n(Разг) успешно закончить, выполнить (какое-л. трудное дело)",
+        "meaning": "Похищать (=carry away), захватывать\nУнести чью-то жизнь, свести в могилу.\nУспешно закончить, выполнить какое-либо трудное дело",
         "example": "To carry off a sentry.\n(захватить часового)\nAn attack of fever carried him off.\n(Приступ лихорадки свёл его в могилу)\nThis piano piece is difficult to carry off.\n(Эта фортепианная пьеса трудна для исполнения)"
       },
 
@@ -1056,6 +2304,109 @@
       }
     ]
   },
+
+
+  {
+    "verb": "cart",
+    "variations": [
+      {
+        "preposition": "off",
+        "meaning": "Утащить, увезти",
+        "example": "They've already carted off yesterday's trash.\n(Они уже вывезли вчерашний мусор на свалку)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "carve",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Добиваться\nВыделять, отделять, вырезать, урвать",
+        "example": "He carved out a name for himself in the engineering business.\n(Он сделал себе имя, работая инженером)\nNo, we just need to carve out a time to talk.\n(Нет, просто нам надо выкроить время для того, чтобы все обсудить)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Намеренно ранить ножом, зарезать, пырнуть ножом\nНадувать, мошенничать, обманывать\n(Брит. разг.) Резко обогнать, подрезать",
+        "example": "Threaten to carve him up if he won't give the money, that should make him do it.\n(Пригрози, что зарежешь его, если он не отдаст денег, это должно подействовать)\nI'm going to trust you to play cards with me, but if you do not carve up.\n(Я разрешу вам играть со мной в карты, но при условии, что вы не будете жульничать)\nSome idiot carved us up on the way over here.\n(Какой-то идиот подрезал нас по пути сюда)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "cash",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Воспользоваться, не упустить, извлечь выгоду",
+        "example": "You'd better cash in while you can.\n(Куй железо, пока горячо)\nLet's cash in on this unexpected fine weather and go into the country for the day.\n(Воспользуемся этой неожиданно прекрасной погодой и съездим за город на денёк)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Заработать на продаже, продать ради прибыли, обратить в наличные деньги, извлечь выгоду\nСнимать кассу, подсчитывать выручку",
+        "example": "He finally decided to cash out and sell the land that had been in his family for three generations.\n(Он наконец-то решил извлечь выгоду из земель, принадлежащих его семье уже несколько поколений, и продать их)\nHard-pressed farmers are tempted to cash out by selling their valuable land.\n(Находящиеся в затруднительном положении фермеры стоят перед искушением заработать на продаже своих плодородных земель)\nI am not ready to go home, I'm still cashing out.\n(Я еще немного задержусь, я подсчитываю выручку)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Давать деньги, выделять нужную сумму\nСнимать кассу, подсчитывать выручку (out)",
+        "example": "Can the club cash up the money needed to train young players?\n(Сможет ли клуб выделить деньги на тренировку новобранцев?)"
+      }
+    ]
+  },
+
+  {
+    "verb": "cast",
+    "variations": [
+      {
+        "preposition": "about/round",
+        "meaning": "Обдумывать\nИскать, выискивать\n(мор.) Менять курс, лавировать",
+        "example": "I've been casting about in my mind, but I can't find an easy answer.\n(Я уже долго думаю, но не могу найти простой ответ)\nI cast round for a reasonable excuse to leave my guests.\n(Я старался придумать подходящий предлог, чтобы оставить гостей)"
+      },
+      {
+        "preposition": "aside",
+        "meaning": "Порвать",
+        "example": "Henry joined the opposing political party, casting aside his former loyalties.\n(Генри порвал со своими прежними убеждениями и вступил в оппозиционную партию)"
+      },
+      {
+        "preposition": "away",
+        "meaning": "Выбрасывать, отвергать, отбрасывать",
+        "example": "The sailors were cast away on a desert island.\n(Моряков выбросило на пустынный остров)\nWhen he grew rich, he cast away his old friends.\n(Став богатым, он порвал со всеми старыми друзьями)"
+      },
+      {
+        "preposition": "back",
+        "meaning": "Мысленно вернуться назад, вспомнить\n(амер.) Быть похожим, напоминать внешностью",
+        "example": "Let us cast back our minds to the first meeting.\n(Давайте вспомним нашу первую встречу)\nThe boy casts back to his great-grandfather.\n(Этот мальчик похож на своего прадеда)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Свергать, разрушать\nПовергать в уныние, угнетать",
+        "example": "I was in Berlin when they cast down the wall.\n(Я был в Берлине, когда ломали (Берлинскую) стену)\nMary was cast down by the bad news about her mother.\n(Плохие новости о матери повергли Мэри в уныние)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Избавиться от чего-либо неприятного или нежелательного\nВыкидывать, освобождаться от старой одежды\nЗакрывать петли в вязанье\nОпределять по рукописи объём печатной работы\nПорвать (aside)",
+        "example": "He was pleased to be able to cast off such an unwelcome responsibility.\n(Он был рад избавиться от столь неприятной обязанности)\nWhen you grow too big for your clothes, cast them off and I'll give them away.\n(Когда эти вещи станут тебе малы, отложи их, а я найду, кому их передать)\nAt the end of the row, cast off seven stitches.\n(В конце ряда закройте семь петель)\n I've cast off your book and think it should come to about 400 pages when it's printed.\n(Я прикинул объём твоей книги, и у меня получилось 400 печатных страниц)"
+      },
+      {
+        "preposition": "on",
+        "meaning": "Набирать петли в вязанье",
+        "example": "I'll start cooking the dinner as soon as I've finished casting on.\n(Я начну готовить обед, как только наберу петли)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Выгонять, изгонять",
+        "example": "In former times, criminals were often cast out and had to live in the wild.\n(В прежние времена преступников объявляли изгоями, и они вынуждены были жить среди дикой природы)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Подсчитывать, вскидывать\nНапоминать о неприятном, попрекать\n(Амер. разг.) Тошнить, рвать\nВыбрасывать извергать",
+        "example": "He cast up his accounts.\n(Он прикинул свои расходы)\nHe is always casting up my old failures.\n(Он всё время попрекает меня старыми ошибками)\nShe has cast up her dinner again.\n(Её опять вырвало после обеда)\nSeaweed was cast up by the waves.\n(Волнами вынесло на берег водоросли)"
+      }
+    ]
+  },
+
 
   {
     "verb": "catch",
@@ -1093,6 +2444,163 @@
     ]
   },
 
+
+  {
+    "verb": "cater",
+    "variations": [
+      {
+        "preposition": "for",
+        "meaning": "Обеспечивать необходимым, удовлетворять нужды",
+        "example": "Schools often fail to cater for the needs of gifted children.\n(Школы часто не в состоянии удовлетворить потребности одаренных детей)"
+      },
+      {
+        "preposition": "to",
+        "meaning": "Помочь, предоставить необходимое",
+        "example": "I cater to busy professionals who need help managing their lives.\n(Я помогаю занятым профессионалам, которым нужна помощь в управлении своей жизнью)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "cave",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Обрушиваться, обваливаться, проваливаться\nУступать, отступать, сдаваться",
+        "example": "The roof caved in, trapping the miners.\n(Кровля выработки обвалилась и заперла шахтёров)\nI thought he could face his opponent and not cave in so easily, but I was disappointed.\n(Я думал, что он сможет выдержать натиск противника и не скоро сдастся, но он разочаровал меня)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "chalk",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Записывать мелом",
+        "example": "He chalked down the score.\n(Он записал счёт мелом)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Набрасывать, делать эскиз мелом, намечать",
+        "example": " I've chalked out a map on the floor.\n(Я нарисовал карту мелом на полу)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Вести счет",
+        "example": "Now we can chalk up another victory for our team.\n(Теперь мы можем записать на счёт нашей команды ещё одну победу)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "chance",
+    "variations": [
+      {
+        "preposition": "upon",
+        "meaning": "Наткнуться; случайно увидеть, найти",
+        "example": "Walking up a side street, I chanced upon this interesting antique shop\n(Поднимаясь по боковой улице, я наткнулся на этот интересный антикварный магазин)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "change",
+    "variations": [
+      {
+        "preposition": "over",
+        "meaning": "Менять местами",
+        "example": "If you change the words over, the sentence sounds better.\n(Если переставить слова, предложение звучит лучше)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "charge",
+    "variations": [
+      {
+        "preposition": "for",
+        "meaning": "Взимать плату за услуги или товары",
+        "example": "How much do you charge for a single room?\n(Сколько вы берете за одну комнату?)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Быть взволнованным, возбуждённым, полным энергии\nЗарядить\nЗавышать цену",
+        "example": "He was excited, full of hope.\n(Он был взволнован и полон надежды)\nTell your ghostbusters to charge up their proton packs.\n(Скажи своим охотникам за приведениями зарядить свои протонные рюкзаки)\nCredit card charges up to 35% interest.\n(По кредитной карте начисляется до 35% годовых)"
+      },
+      {
+        "preposition": "with",
+        "meaning": "Обвинить в преступлении",
+        "example": "They finally caught Capone by charging him with tax evasion.\n(Они наконец поймали Капоне, обвинив его в уклонении от уплаты налогов)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "chase",
+    "variations": [
+      {
+        "preposition": "after",
+        "meaning": "Гоняться, бегать, догнать",
+        "example": "Right, well, we better chase after her then.\n(Ладно, хорошо, тогда мы должны ее догнать)"
+      },
+      {
+        "preposition": "away/off",
+        "meaning": "Выгнать, прогнать, отгонять",
+        "example": "Then you chase away the one guy I actually liked.\n(Вы прогнали единственного парня, который действительно мне понравился)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Разыскивать, упорно искать",
+        "example": "Detectives were chasing down clues.\n(Сыщики тщательно расследовали все улики)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Настойчиво просить, напоминать; преследовать\nУдостовериться в истинности чего-либо",
+        "example": "I must chase my flatmate up about those bills and see if she paid them.\n(Я должен напомнить своей соседке по тем счетам и посмотреть, заплатила ли она им)\nI'll have to chase up the actual words of the speech that I was reporting.\n(Мне придётся проверить, что в точности было сказано в той речи, о которой я говорил)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "chat",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Заговаривать с целью познакомиться, заигрывать, клеить",
+        "example": "Peter is at his usual tricks again, chatting up the girls.\n(Питер опять за своё, клеит девчонок)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "cheat",
+    "variations": [
+      {
+        "preposition": "at",
+        "meaning": "Действовать обманчиво или несправедливо, читерствовать, мухлевать, жульничать",
+        "example": "My little brother cheats at every board game, so it's not much fun to play with him.\n(Мой младший брат мухлюет каждую настольную игру, поэтому играть с ним не так уж и весело)"
+      },
+      {
+        "preposition": "on",
+        "meaning": "Изменять",
+        "example": "My list Of three guys I'm allowed to cheat on eddie with.\n(Мой список парней, с которыми мне можно будет изменить Эдди)"
+      },
+      {
+        "preposition": "out of",
+        "meaning": "Выманить, выудить обмнным путём; лишить чего-то",
+        "example": "She claimed that her cousin had cheated her out of her inheritance.\n(Она утверждала, что ее двоюродный брат лишил ее наследства)"
+      }
+    ]
+  },
 
   {
     "verb": "check",
@@ -1154,6 +2662,11 @@
     "verb": "cheer",
     "variations": [
       {
+        "preposition": "on",
+        "meaning": "Поощрять, подбодрить",
+        "example": "Well, I think we can cheer and cheer on our young candidates.\n(Ну я думаю мы можем подбодрить наших молодых участниц)"
+      },
+      {
         "preposition": "up",
         "meaning": "Утешить, ободрить",
         "example": "The party really cheered me up.\n(Вечеринка меня очень развеселила)"
@@ -1165,9 +2678,64 @@
     "verb": "chew",
     "variations": [
       {
+        "preposition": "off",
+        "meaning": "Отгрызть",
+        "example": "I would rather chew off my arm than wear that.\n(Я лучше себе руку отрежу, чем надену это)"
+      },
+      {
+        "preposition": "on",
+        "meaning": "Обдумать, задуматься",
+        "example": "Apparently, Agent Hand is the Clairvoyant, so chew on that first.\n(Судя по всему, агент Хэнд - Провидец, обдумай сначала это)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "(амер. разг.) Отругать, сделать выговор",
+        "example": "Feels like I’m going to be chewed out.\n(Похоже, щас мне влетит)"
+      },
+      {
+        "preposition": "over",
+        "meaning": "Долго обдумывать что-то",
+        "example": "I'll chew it over for a few days and let you know my opinion.\n(Я несколько дней подумаю, а потом скажу свое мнение)"
+      },
+      {
         "preposition": "up",
         "meaning": "Разжевать на мелкие кусочки",
         "example": "The dog chewed up my shoe.\n(Собака разжевала на кусочки мою туфлю)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "chicken",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Струсить, бояться",
+        "example": "If I chicken out now, I'll no longer be true to who I am.\n(Если я сейчас струшу, я больше не буду тем, кто я есть)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "chill",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Успокаиваться, расслабляться, остыть",
+        "example": "Babe, you really need to chill out.\n(Детка, тебе реально нужно расслабиться)"
+      }
+    ]
+  },
+
+  {
+    "verb": "chime",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Вступать в общий разговор\nПрисоединяться к чему-либо, соглашаться",
+        "example": "The conversation was becoming heated, until Mary chimed in with her opinion, to agree within.\n(Разговор всё накалялся, пока не вмешалась Мэри и не высказала своё мнение)\nThe chairman chimed in with the decision of the committee.\n(Председатель согласился с решением комитета)"
       }
     ]
   },
@@ -1176,6 +2744,11 @@
     "verb": "chip",
     "variations": [
       {
+        "preposition": "away at",
+        "meaning": "Урезать, сокращать\nОслаблять, подрывать",
+        "example": "Inflation has steadily chipped away at our savings.\n(Инфляция неуклонно сокращала наши сбережения)\nHer constant criticisms chipped away at my self-confidence.\n(Постоянная критика с её стороны постепенно ослабила мою уверенность в себе)"
+      },
+      {
         "preposition": "in",
         "meaning": "Скинуться деньгами",
         "example": "They each chipped in ten dollars to buy a present.\n(Они все скинулись по 10 долларов, чтобы купить подарок)"
@@ -1183,6 +2756,49 @@
     ]
   },
 
+
+  {
+    "verb": "choke",
+    "variations": [
+      {
+        "preposition": "back",
+        "meaning": "Подавлять, чувства, сдерживать",
+        "example": "Jim had to choke back his anger or he would have hit the man.\n(Джим едва удержался от того, чтобы не ударить этого человека)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "С трудом проглатывать, с трудом подавлять, глотать не жуя",
+        "example": "He choked down his anger.\n(Он с трудом поборол свой гнев)\nHe hated the meal but choked it down out of politeness.\n(Он терпеть не мог это блюдо, но из вежливости заставил себя съесть его)"
+      },
+      {
+        "preposition": "in/up",
+        "meaning": "Быть слишком эмоциональным, пытаясь что то сказать\nЗасорять, заглушать, загромождать\nОткашлить, выкашлить",
+        "example": "I thought I would be able to give the eulogy, but I became so choked up that I couldn't do it.\n(Я думал, что смогу произнести надгробную речь, но я был так подавлен, что не смог сделать этого)\nI was watering the flowers when Doug stepped on the hose and choked it up.\n(Я поливал цветы, когда Даг наступил на шланг и придавил его)\nLuckily, I was able to choke that piece of bread up before needing the Heimlich maneuver.\n(К счастью, мне удалось выкашлить этот кусок хлеба, прежде чем мне понадобился приём Геймлиха)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Отговорить, заставить отказаться (от попытки, намерения)\nПрервать, перебить кого-либо",
+        "example": "Jane wants an invitation to the party; how can we choke her off?\n(Джейн хочет, чтобы её позвали на вечеринку; как бы нам отговорить её?)\nHe began to tell about his adventures all over again, but I choked him off.\n(Он снова стал рассказывать про свои приключения, но я прервал его)"
+      },
+      {
+        "preposition": "up about",
+        "meaning": "Злиться, кипятиться (обычно без повода)",
+        "example": "What are you choked up about? The idea isn't so very terrible, if you think about it.\n(Почему ты так кипятишься? Эта идея вовсе не так ужасна, если подумать)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "choose",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Разделяться на команды, выбирать до",
+        "example": "The game hasn't started yet because it's taking those guys forever to choose up!\n(Игра еще не началась, потому что этим парням понадобилась целая вечность, чтобы разделиться на команды!)\nRespondents were allowed to choose up to two possible replies.\n(Респонденты могли выбрать до двух вариантов ответа)"
+      }
+    ]
+  },
 
   {
     "verb": "chop",
@@ -1199,6 +2815,67 @@
       }
     ]
   },
+
+
+  {
+    "verb": "chow",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Кушать от души, с удовольствием",
+        "example": "And they had plenty of time to chow down.\n(И у них достаточно было времени поживиться)"
+      }
+    ]
+  },
+
+  {
+    "verb": "chuck",
+    "variations": [
+      {
+        "preposition": "away",
+        "meaning": "Тратить понапрасну; терять, упускать возможность\nВыбросить",
+        "example": "Why did you chuck your money away on such a worthless plan?\n(Зачем ты потратил деньги на такое бесполезное предприятие?)\nI've had to chuck away my mobile to get some peace and quiet.\n(Я должен был выбросить свой мобильный, чтобы получить мир и покой)"
+      },
+      {
+        "preposition": "in",
+        "meaning": "Давать в придачу\nВставлять (слова)",
+        "example": "If you buy the furniture, the shop will chuck in a television set.\n(Если ты купишь у них мебель, они бесплатно дадут ещё и телевизор)\nThere was no need for you to chuck in that remark.\n(Незачем было вставлять это замечание)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Сбежать, скрыться\nИзбавиться, освободиться неприятностей",
+        "example": "If we run fast we'll be able to chuck the police off.\n(Если мы побежим быстро, то сумеем скрыться от полиции)\nI don't seem to be able to chuck off this cold.\n(Похоже, что я никак не могу вылечиться от этой простуды)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Отклонить предложение, законопроект\nСболтнуть\nИспортить что-либо",
+        "example": "The committee considered your suggestions but chucked them out because they would cost too much.\n(Комитет рассмотрел ваши предложения, но не принял их, потому что они обойдутся слишком дорого)\nIt was unfortunate that you chucked out that remark.\n(Вы очень плохо поступили, что проговорились про это)\nOur plans were chucked out by bad weather.\n(Плохая погода сломала нам все планы)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Тошнить\nДелать что-либо наспех",
+        "example": "Jane can't come, she's been chucking up all morning.\n(Джейн не может прийти, её всё утро рвёт)\nThe office block looks as if it's just been chucked up.\n(Здание офиса, похоже, возводили второпях)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "churn",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Производить в большом объёме, особенно машинным путём; штамповать, выпускать потоком",
+        "example": "This factory churns out thousands of cars every day.\n(Эта фабрика каждый день выпускает тысячи автомобилей)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Разворотить (почву)\nРазбередить душу",
+        "example": "The heavy wheels churned up the earth.\n(Тяжёлые колёса разворотили землю)\nYour story quite churned me up.\n(История, которую вы мне рассказали, разбередила мне душу)"
+      }
+    ]
+  },
+
 
   {
     "verb": "clam",
@@ -1221,6 +2898,19 @@
       }
     ]
   },
+
+
+  {
+    "verb": "claw",
+    "variations": [
+      {
+        "preposition": "back",
+        "meaning": "Компенсировать суммы, израсходованные на увеличение государственных пособий, дополнительными налогами\nЗабирать обратно переданные полномочия, возвращать утраченное влияние",
+        "example": "The government claws back some of the money which it gives to arts organizations, in the form of tax.\n(Правительство получает назад часть денег, выданных художественным организациям, в форме налогов)\nIn the meantime his generals will want to claw back some of their old influence.\n(А тем временем его генералы захотят хотя бы частично вернуть былое влияние)"
+      }
+    ]
+  },
+
 
   {
     "verb": "clean",
@@ -1248,7 +2938,7 @@
       },
       {
         "preposition": "out",
-        "meaning": "Быстро уйти, уехать; в неформальной речи: убираться, идти вон (of)\nОчищать от грязи, мусора; убирать",
+        "meaning": "Быстро уйти, уехать, убираться, идти вон (off)\nОчищать от грязи, мусора; убирать",
         "example": "I told them to clear out because they were making so much noise.\n(Я сказал им, чтобы они уходили, потому что очень шумели)\nI’ll clear out this drawer and you can put your things in it.\n(Я освобожу этот ящик, и ты можешь положить в него свои вещи)"
       },
       {
@@ -1258,6 +2948,47 @@
       }
     ]
   },
+
+
+  {
+    "verb": "climb",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Слезать, спускаться\nОтступать, уступать (в споре)",
+        "example": "When you reach the top of a mountain, the worst part is climbing down.\n(Когда ты уже поднялся на вершину, самое сложное - это спуститься вниз)\nThe speaker's forceful words persuaded his opponent to climb down.\n(Убедительные слова докладчика заставили его оппонента отступить)"
+      }
+    ]
+  },
+
+  {
+    "verb": "cling",
+    "variations": [
+      {
+        "preposition": "on/to",
+        "meaning": "Крепко держать, цепляться",
+        "example": "He clung on to power for another ten years.\n(Он цеплялся за власть еще 10 лет)\nYou can't always cling to mama.\n(Ты не можешь всегда цепляться за маму)"
+      },
+      {
+        "preposition": "together",
+        "meaning": "Склеиваться\nДержаться вместе, быть сплочёнными",
+        "example": "The pages of this book have clung together.\n(У этой книги склеились страницы)\n Members of a family should cling together in times of trouble.\n(В тяжёлые времена члены семьи должны держаться вместе)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "clog",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Засоряться, закупориваться, забиваться, скапливаться",
+        "example": "White blood cells accumulate, clog up the lungs, lead to heart problems.\n(Лейкоциты скапливаются, закупоривают лёгкие, что приводит к проблемам с сердцем)"
+      }
+    ]
+  },
+
 
   {
     "verb": "close",
@@ -1273,9 +3004,49 @@
         "example": "The rebels were closing in on the capital, so the government called in the army.\n(Повстанцы наступали на столицу, поэтому правительство решило призвать армию)"
       },
       {
+        "preposition": "off",
+        "meaning": "Блокировать дорогу, проход",
+        "example": "The police have closed off the streets so that the President can drive through the city free of traffic.\n(Полиция перекрыла движение для проезда президентского кортежа)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "(амер.) Ликвидировать, закрывать предприятие, счёт в банке; продавать своё дело, бизнес, долю в бизнесе\n(амер.) Завершать, подводить к концу\n(амер.) Устраивать распродажу",
+        "example": "Well, she wanted to close out her account, but I told her I wouldn't be able to give her everything today.\n(Она хотела закрыть счет, но я ей сказала, что не смогу дать всю сумму сегодня)\nHe closed out the match with an unreturnable serve.\n(Он завершил матч подачей, не оставившей сопернику никаких шансов)\n"
+      },
+      {
         "preposition": "up",
         "meaning": "Временно закрываться\nСмыкать ряды, придвинуться ближе друг к другу",
         "example": "They are closing the ski resort up for the summer.\n(Лыжный курорт закрывается на лето)\nThe captain ordered his men to close up.\n(Капитан приказал своим людям сомкнуть ряды)"
+      },
+      {
+        "preposition": "with",
+        "meaning": "Заканчивать, закрывать (концерт, встречу)\nПринимать предложение",
+        "example": "The band closed the concert with their most famous song.\n(Группа завершила концерт своей самой известной песней)\nAfter two hours of negotiations, they closed with our offer.\n(После двух часов обсуждения они согласились на наше предложение)"
+      }
+    ]
+  },
+
+
+
+  {
+    "verb": "cloud",
+    "variations": [
+      {
+        "preposition": "over",
+        "meaning": "Стать пасмурно",
+        "example": "The sky clouded over.\n(Небо стало пасмурным)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "cock",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Испортить, напортачить",
+        "example": "He really cocked it up that time.\n(Да, в тот раз он в самом деле напортачил)"
       }
     ]
   },
@@ -1432,35 +3203,304 @@
     ]
   },
 
+
+  {
+    "verb": "conk",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Испортиться, сломаться, заглохнуть\nПочувствовать сильную усталость; заснуть (от изнеможения)",
+        "example": "The car conked out on the way to work, and I had to telephone for a repair vehicle.\n(По дороге на работу моя машина заглохла, и мне пришлось вызывать техпомощь)\nhe climbers were halfway up the mountain when two of them conked out and had to turn back.\n(Альпинисты преодолели уже половину пути, когда двое из них почувствовали, что падают от усталости и должны вернуться назад)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "contract",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Официально обязаться принимать участие в чём-либо",
+        "example": "How many of the companies have contracted in so far?\n(Сколько компаний на данный момент подали заявки на участие?)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Давать работу по контракту\nОфициально отказаться от участия в чём-либо, обязаться не принимать участия",
+        "example": "The city council has already contracted out the work on the new road.\n(Контракт на постройку новой дороги уже заключён городской администрацией)\nIf you do not wish to be a member of the pension fund you must contract out.\n(Если вы не хотите становиться членом пенсионного фонда, вы должны официально заявить об этом)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "cop",
+    "variations": [
+      {
+        "preposition": "it",
+        "meaning": "Поймать, сцапать, попасться, попасть в беду",
+        "example": "You will cop it.\n(Тебе попадёт)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Иметь любовные или сексуальные отношения",
+        "example": "She copped off with him at a party.\n(Она сблизилась с ним на вечеринке)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Признать себя виновным\nОтговориться, отвертеться, уклониться от ответа, обязанности",
+        "example": "The younger of the thieves copped out and so they were all caught.\n(Младший из воров признался в краже, после этого их всех и схватили)\nYou can't cop out of your responsibility to your children.\n(Ты не можешь снять с себя ответственность за своих детей)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "cotton",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Заигрывать, флиртовать",
+        "example": "I'm not trying to cotton up with you.\n(Я не пытаюсь с вами заигрывать)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "cough",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Кашлем заставить замолчать (говорящего)",
+        "example": "The speaker was coughed down by the unfriendly crowd of students.\n(Докладчика 'закашляли' недоброжелательные студенты)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Отхаркивать, откашлить, стошнить\n(Неохотно говорить, выдавливать из себя)",
+        "example": "To cough out mucus.\n(Отхаркивать мокроту)\nMother made the jelly with salt instead of sugar, so the children coughed it out.\n(Мама сделала желе не с сахаром, а с солью, так что детей стошнило)\nThe police may be able to make him cough out his story.\n(Полицейские выдавят из него, как было дело)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Отхаркивать,\nСболтнуть, проболтаться, выдать что-либо\n",
+        "example": "Jane has just coughed up a fishbone.\n(Джейн только что выплюнула рыбью кость)\nSee if you can make the prisoner cough up the names of his companions.\n(Попробуй сделать так, чтобы он проговорился и назвал тебе имена своих сообщников)"
+      }
+    ]
+  },
+
+
   {
     "verb": "count",
     "variations": [
       {
+        "preposition": "against",
+        "meaning": "Негативно влиять, снижать вероятнеость успеха",
+        "example": "I know you were nervous, because you thought that your size would count against you.\n(Я знаю, вы нервничали, потому что вы думали, что ваш размер будет против вас)\nYour bad timekeeping will count against you.\n(Твое плохое время будет против тебя)"
+      },
+      {
+        "preposition": "among",
+        "meaning": "Включить в состав, группу, категорию",
+        "example": "The activity in Afghanistan should also count among the Council's achievements.\n(В число достижений Совета следует включить также и деятельность в Афганистане)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Считать в обратном порядке",
+        "example": "The people at Control have already begun to count down.\n(В Центре управления уже начали обратный отсчёт)"
+      },
+      {
+        "preposition": "in",
+        "meaning": "Включать в список",
+        "example": "If you're having a party, count me in.\n(Если вы будете устраивать вечеринку, не забудьте позвать меня)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Отсчитывать, делать перекличку",
+        "example": "At the beginning of each class, I count off the students to see if the number present agrees with the attendance lists.\n(Перед началом занятий я всегда проверяю по списку, все ли студенты пришли)"
+      },
+      {
         "preposition": "on (upon)",
         "meaning": "Рассчитывать, полагаться (на что-либо, кого-либо)",
         "example": "You can always count on Jim, he will never fail you.\n(Можешь всегда рассчитывать на Джима, он тебя никогда не подведет)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "(амер.) Исключить, не принимать во внимание\nОтложить заседание из-за отсутствия кворума\nОбъявить боксёра в нокдауне",
+        "example": "Two of the men who want the job are unsuitable, so you can count them out.\n(Двое из желающих получить эту работу нам не подходят, так что их можно не считать)\nThe House was counted out.\n(Заседание палаты было отложено из-за отсутствия кворума)\nThe old fighter was counted out at the end of the third round.\n(Старый боксёр был нокаутирован в конце третьего раунда)"
+      },
+      {
+        "preposition": "towards",
+        "meaning": "Засчитываться, быть необходимой частью",
+        "example": "Therefore, service in all organizations should count towards seniority and advancement.\n(Поэтому служба во всех организациях должна зачитываться при определении выслуги лет и продвижении по службе)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Считать в прямом направлении, подсчитывать",
+        "example": "Count the change up and see how much we have.\n(Посчитай сдачу, чтобы узнать, сколько у нас денег)"
+      },
+      {
+        "preposition": "upon",
+        "meaning": "Расчитывать на кого-то, доверять",
+        "example": "Count upon me, and everything's going tol be alright.\n(Доверьтесь мне, и всё будет хорошо)"
       }
     ]
   },
+
+
+  {
+    "verb": "cover",
+    "variations": [
+      {
+        "preposition": "for",
+        "meaning": "Предоставить оправдание или алиби; покрывать, прикрыть, заменить кого-то (например на работе)",
+        "example": "I'm sorry, Leon, I can't cover for you.\n(Мне жаль, Леон, я не могу больше покрывать тебя)\nI found a doctor to cover for you this weekend.\n(Я нашел доктора, чтобы прикрыть тебя на этих выходных)"
+      },
+      {
+        "preposition": "in",
+        "meaning": "Засыпать, заделать\nСоорудить крышу, навес",
+        "example": "The workmen covered in the hole in the road.\n(Рабочие засыпали яму на дороге)\nThe car park is covered in, to keep your car dry.\n(Эта парковка крытая, так что здесь ваша машина будет защищена от дождя и снега)"
+      },
+      {
+        "preposition": "over",
+        "meaning": "Закрыть (полностью), заделать",
+        "example": "You'll have to cover over the hole in the broken window until you can get the new glass.\n(Тебе надо чем-нибудь заделать разбитое окно, пока ты не вставишь новое стекло)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Прятать, скрывать",
+        "example": "The story he told was a pathetic attempt to cover up a lie.\n(История, которую он рассказал, была лишь жалкой попыткой скрыть ложь)"
+      }
+    ]
+  },
+
+  {
+    "verb": "cozy",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "(амер.) Делать уютней\nПрижиматься к кому-либо\nПытаться подружиться, подлизываться",
+        "example": "New curtains will cozy the room up.\n(С новыми занавесками комната будет уютнее)\nThe little girl cozied up to her mother.\n(Девочка прижалась к своей маме)\n I saw you cozy up to the new student.\n(Я видел, как ты пытался подружиться с новой студенткой)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "crack",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Сломить сопротивление; принимать крутые меры против кого-либо, чего-либо",
+        "example": "The government has promised to crack down on criminal activity.\n(Правительство обещало предпринять решительные меры по борьбе с преступностью)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Рассмеяться, расхохотаться",
+        "example": "Everyone at the party cracked out laughing when Jim walked in wearing his funny clothes.\n(Все в комнате расхохотались, когда вошёл Джим в своей смешной одежде)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Нахваливать, превозносить; рекламировать\nЛопнуть от смеха, хохотать, сильно смеяться\nРазбиваться вдребезги, разрушаться, терпеть аварию (о самолёте)",
+        "example": "He's always cracking up the town as very good.\n(Он постоянно превозносит этот город)\nI always crack up when I get her letters from prison.\n(Я лопаюсь от смеха, когда получаю от нее письма из тюрьмы)\nEngine failure cracked the plane up.\n(Самолёт потерпел катастрофу из-за отказа двигателя)\n John cracked up the car for good in the accident.\n(Во время этой аварии Джон вдребезги разбил свою машину)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "crash",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "(амер.) Сбегать из тюрьмы\nБыстро засыпать, отрубаться",
+        "example": "Three men crashed out of the prison yesterday.\n(Вчера из тюрьмы совершили побег трое заключённых)\nHe crashed out after a hard day's work.\n(После тяжёлого рабочего дня он сразу отрубился)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "crop",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Выходить на поверхность",
+        "example": "Be careful how you walk in this field, there are lots of rocks cropping out.\n(По этому полю надо ходить осторожно, тут полно острых камней)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Неожиданно обнаруживаться, возникать\nДелать ошибку\nВыходить на поверхность (out)",
+        "example": "Some difficulties have cropped up, so we must work late to deal with them.\n(Неожиданно появились трудности, нам приходится задерживаться на работе, чтобы разрешить их)\nYou seem to have cropped up badly on page 34, your facts are wrong.\n(Вы допустили серьёзную ошибку на странице 34, Ваши факты не соответствуют действительности)"
+      }
+    ]
+  },
+
 
   {
     "verb": "cross",
     "variations": [
       {
-        "preposition": "out",
+        "preposition": "off / out",
         "meaning": "Вычеркивать, стирать, удалять",
-        "example": "The offending passage has been crossed out from the new printing of the book.\n(Оскорбительный пассаж был удален из нового издания книги)"
+        "example": "The offending passage has been crossed out from the new printing of the book.\n(Оскорбительный пассаж был удален из нового издания книги)\nI'll cross your name off.\n(Я тебя вычеркну)"
+      },
+      {
+        "preposition": "over",
+        "meaning": "Сменить политическую ориентацию, взгляды",
+        "example": "The Minister has threatened to cross over to the other side if the government refuses to accept his decision.\n(Министр пригрозил перейти в оппозицию, если правительство не утвердит его решение)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Морочить голову, сбивать с толку, вести двойную игру",
+        "example": "She will cross you up and make you look silly.\n(Она заморочит тебе голову и выставит тебя дураком)"
       }
     ]
   },
 
   {
-    "verb": "cut",
+    "verb": "cry",
     "variations": [
       {
         "preposition": "down",
-        "meaning": "Рубить деревья",
-        "example": "Half the forest was cut down to make room for the new road.\n(Пол-леса вырубили, чтобы создать пространство для новой дороги)"
+        "meaning": "Осуждать\nУмалять, принижать\nСбивать цену\nРаскритиковать\nЗаглушать криками\nОтклонять",
+        "example": "She cried down any party to which she wasn't invited.\n(Она обхаивает любую вечеринку, на которую не получает приглашения)\nPlease stop crying down me.\n(Пожалуйста, перестань принижать меня)\nThat man who writes for the newspaper is always crying down her performances, although many people enjoy them.\n(Этот критик из газеты всегда пишет разгромные рецензии на её спектакли (концерты), между тем многие люди с удовольствием ходят на них)\nHis family are most unkind to Harry, always crying him down.\n(Родственники очень несправедливы к Гарри, они вечно его ругают)\nBefore the speaker was halfway through his speech, the crowd cried him down.\n(Докладчик не прочитал и половины доклада, когда в зале поднялся шум, не давший ему закончить)\nI'm afraid the committee has cried down your suggestion.\n(К сожалению, комитет отверг ваше предложение)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Отказываться от своего намерения, идти на попятный",
+        "example": "Jim had arranged to play in the game, but he cried off at the last minute, so we had to find another player.\n(Джим собирался играть с нами, но в последний момент отказался, и нам пришлось искать другого игрока)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Настоятельно требовать, нуждаться в чём-либо",
+        "example": "The garden is crying out to be watered.\n(Деревья в этом саду крайне нуждаются в поливе)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Превозносить, прославлять",
+        "example": "He's always crying up the town where he lives.\n(Он всегда хвалит город, в котором живёт)"
+      }
+    ]
+  },
+
+
+
+  {
+    "verb": "cut",
+    "variations": [
+      {
+        "preposition": "away",
+        "meaning": "Срезать, отрезать, обкалывать, удалять, убегать",
+        "example": "Сut away the branch that sticks out.\n(Срежьте торчащую ветку)\nA medical cocktail it is possible to cut away any area.\n(Лечебным коктейлем можно обкалывать любую область)"
+      },
+      {
+        "preposition": "back",
+        "meaning": "Повторить данный ранее кадр, сцену, дать обратный кадр",
+        "example": "The film cut back to the earlier scene so that we understood her reasons.\n(Плёнку отмотали назад, на предыдущую сцену, чтобы мы поняли мотивы героини)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Рубить деревья\nСразить (о болезни, смерти)\nРазбить, опровергнуть (аргументы)\nВыторговать; снизить, сбить цену",
+        "example": "Half the forest was cut down to make room for the new road.\n(Пол-леса вырубили, чтобы создать пространство для новой дороги)\nThe soldier was cut down in his youth.\n(Этот солдат был сражён во цвете лет)\nYour arguments are too easy to cut down.\n(Ваши доводы легко разбить)\nHe's asking too much for the chairs, can't you cut him down?\n(Он слишком много просит за стулья, ты не можешь заставить его сбить цену?)"
       },
       {
         "preposition": "down on",
@@ -1469,28 +3509,28 @@
       },
       {
         "preposition": "in",
-        "meaning": "Вмешиваться, прерывать разговор",
-        "example": "We were having a conversation when he came up and cut in.\n(Мы разговаривали, когда он подошел и прервал нас)"
-      },
-      {
-        "preposition": "in (front of)",
-        "meaning": "Подрезать на автомобиле, резко вклиниться перед другой машиной",
-        "example": "The green Ford cut in front of us as if he owned the road!\n(Зеленый Форд нас подрезал, как будто это его дорога!)"
+        "meaning": "Вмешиваться, прерывать разговор\nВклиниваться между машинами, подрезать",
+        "example": "We were having a conversation when he came up and cut in.\n(Мы разговаривали, когда он подошел и прервал нас)\nWe were driving peacefully along the road when this red car cut in (on us), forcing us to slow down.\n(Мы спокойно ехали по дороге, пока нас не подрезала эта красная машина, и нам не пришлось сбавить скорость)"
       },
       {
         "preposition": "off",
-        "meaning": "Отрезать, отсекать\nИзолировать",
-        "example": "Why did you cut the sleeves off?\n(Зачем вы отрезали рукава?)\nOn this island, we are cut off from the rest of the world.\n(На этом острове мы отрезаны от остального мира)"
+        "meaning": "Отрезать, отрубить, отсекать\nИзолировать\nОтключать, прекращать подачу",
+        "example": "Why did you cut the sleeves off?\n(Зачем вы отрезали рукава?)\nOn this island, we are cut off from the rest of the world.\n(На этом острове мы отрезаны от остального мира)\nThe electricity supply will be cut off if we don't pay our bill.\n(Нам отключат электричество, если мы не заплатим по счёту)"
       },
       {
         "preposition": "out",
-        "meaning": "Вырезать что-то\nВыключаться, переставать работать (о механизмах)",
-        "example": "She cut out his picture from the magazine.\n(Она вырезала его фотографию из журнала)\nWe were halfway up the hill when the engine cut out.\n(Мы были на полпути к вершине холма, как вдруг заглох мотор)"
+        "meaning": "Вырезать\nВычеркнуть, исключить, убрать\nВытеснить соперника\nВыключаться, переставать работать (о механизмах)\nВыходить из своего ряда (об автомобилях)\nУходить, уезжать",
+        "example": "She cut out his picture from the magazine.\n(Она вырезала его фотографию из журнала)\nYou'd better cut out that last sentence.\n(Последнее предложение лучше убрать)\nMary was going to marry Charles but Jim cut him out.\n(Мэри собиралась выйти за Чарльза, но Джим отбил её у него)\nWe were halfway up the hill when the engine cut out.\n(Мы были на полпути к вершине холма, как вдруг заглох мотор)\nIt's dangerous to cut out when all the cars are moving fast.\n(Когда скорость потока велика, перестраиваться опасно)\nIt's dangerous to cut out when all the cars are moving fast.\n(Когда скорость потока велика, перестраиваться опасно)"
       },
       {
         "preposition": "up",
-        "meaning": "Разрезать на куски, разрубать",
-        "example": "Please cut up the meat for our dog as his teeth are bad.\n(Пожалуйста, разрежь мясо на кусочки для нашей собаки, потому что у нее плохие зубы)"
+        "meaning": "Разрезать на куски, разрубать\nРаскритиковать\nРазрушать\nПодрывать силы, здоровье; причинять страдания\nБуйствовать, буянить\nПритворяться глупым, косить под дурачка",
+        "example": "Please cut up the meat for our dog as his teeth are bad.\n(Пожалуйста, разрежь мясо на кусочки для нашей собаки, потому что у нее плохие зубы)\nHer performance was cut up in the next day's newspapers.\n(На следующий день газеты разнесли её выступление в пух и прах)\nThe town was (badly) cut up in last night's bombing.\n(Во время бомбёжки прошлой ночью город сильно пострадал)\n It's been raining for a week and the children are really cutting up.\n(Целую неделю идёт дождь, и дети становятся совершенно неуправляемыми)\nSam likes to cut up at parties.\n(На вечеринках Сэм любит строить из себя дурачка)"
+      },
+      {
+        "preposition": "up for",
+        "meaning": "Оставить в наследство",
+        "example": "How much do you think he'll cut up for?\n(Ну и сколько он оставит наследства, как ты думаешь?)"
       }
     ]
   },
@@ -1529,6 +3569,26 @@
   },
 
 
+
+
+
+  {
+    "verb": "dash",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Быстро написать, нарисовать, набросать",
+        "example": "She dashed down a letter to her lawyer.\n(Она набросала письмо своему адвокату)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Быстро уйти, убежать\nБыстро написать, нарисовать, набросать (down)",
+        "example": "If you will excuse me, I must dash off.\n(Вынужден попрощаться, мне нужно бежать)\nDash off a few letters.\n(Набросать несколько писем)"
+      }
+    ]
+  },
+
+
   {
     "verb": "die",
     "variations": [
@@ -1536,6 +3596,11 @@
         "preposition": "away",
         "meaning": "Постепенно исчезать, вымирать, стихать (о звуке)",
         "example": "The cheers and excitement have already died away.\n(Веселье и возбуждение уже стихли)"
+      },
+      {
+        "preposition": "back",
+        "meaning": "Отмирать (о верхушках растений)",
+        "example": "The bushes may have died back in this cold autumn but they will grow again next spring.\n(Осень стоит холодная, и верхние ветки, возможно, убил мороз, но весной кусты отрастут)"
       },
       {
         "preposition": "down",
@@ -1549,6 +3614,71 @@
       }
     ]
   },
+
+
+
+
+  {
+    "verb": "dig",
+    "variations": [
+      {
+        "preposition": "down",
+        "meaning": "Давать деньги неохотно",
+        "example": "Come on, you can afford to give us something, just dig down a little.\n(Ну, у вас есть немного лишних денег, дайте хоть самую малость)"
+      },
+      {
+        "preposition": "in",
+        "meaning": "Окапываться\nПрятать, защищать (в окопах, укрытиях)\nПроявлять терпение, стойко переносить трудности\nУкреплять своё положение, освоиться\nЖадно начинать есть",
+        "example": "The soldiers were ordered to dig in.\n(Солдатам отдали приказ окопаться)\nAbout a hundred yards along the path I could see guns that were dug in fairly close together.\n(Примерно в ста ярдах дальше по тропе виднелись пушки; они были расположены в укрытиях, вырытых довольно близко друг от друга)\nWe will just have to dig in and wait for everything to return to normal.\n(Нам просто нужно будет потерпеть до тех пор, пока положение не нормализуется)\nI had plenty of time to dig myself in when I started the new job.\n(У меня было предостаточно времени, чтобы освоиться, когда меня взяли на новую работу)\nDinner's ready, dig in, everybody!\n(Обед на столе, вперёд!)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Откапывать, находить, изыскивать",
+        "example": "To dig out one's old college notes.\n(Откопать конспекты, сделанные во время учёбы в колледже)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Откапывать, находить, изыскивать (out)\nУстраивать складчину",
+        "example": "Where did you dig that idea up?\n(Где ты нашёл эту мысль?)\nBetween us we should be able to dig up enough money for your ticket.\n(Думаю, что в складчину мы наскребём тебе на билет)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "dine",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Кушать вне дома",
+        "example": "Let's dine out tonight. I'm too tired to cook.\n(Давай поужинаем где-нибудь сегодня вечером. Я слишком устал, чтобы готовить)"
+      },
+      {
+        "preposition": "out on",
+        "meaning": "Рассказать интересную историю",
+        "example": "He dined out on the story of his affair with the movie star for several months.\n(Он несколько месяцев рассказывал о своей истории с кинозвездой)"
+      }
+    ]
+  },
+
+  {
+    "verb": "dish",
+    "variations": [
+      {
+        "preposition": "out",
+        "meaning": "Раскладывать еду\nРаздавать\nСказать не подумав, сморозить, лезть с советами\nДать жару",
+        "example": "Please help me to dish out the vegetables.\n(Помоги мне разложить по тарелкам овощи)\nStand at the door and dish out the papers as the students come in.\n(Встань у двери и раздавай бумаги входящим студентам)\nJim likes to dish it out, but he hates to take it.\n(Джим любит давать советы, но ненавидит их принимать)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Подавать еду, сервировать\nУметь преподнести (анекдот, информацию)",
+        "example": "Could you help me dish up the dinner?\n(Не поможешь мне накрыть стол к обеду?)\nI hope the next speaker dishes up his arguments in a more interesting manner.\n(Надеюсь, следующий докладчик изложит свои аргументы более увлекательно)"
+      }
+    ]
+  },
+
+
+
 
   {
     "verb": "do",
@@ -1606,23 +3736,146 @@
     ]
   },
 
+
+  {
+    "verb": "doss",
+    "variations": [
+      {
+        "preposition": "about / around",
+        "meaning": "Валять дурака, бездельничать",
+        "example": "Come on, Peter, stop dossing around and get some work done.\n(Давай, Питер, перестань валять дурака и займись делом)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Находить приют на ночь, устраиваться на ночлег",
+        "example": "Don't worry about me, I'll doss down on these chairs.\n(Не беспокойся, я устроюсь на этих стульях)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "double",
+    "variations": [
+      {
+        "preposition": "as",
+        "meaning": "Иметь двойную функцию, назначение",
+        "example": "She doubles as his wife and secretary.\n(Она ему одновременно и жена, и секретарь)"
+      },
+      {
+        "preposition": "back",
+        "meaning": "Запутывать след\nИдти обратно по собственным следам\nСгибать, складывать вдвое",
+        "example": "Now we can double back and take them one by one.\n(Теперь мы можем запутать следы и брать их один за другим)\nIf you get lost in a forest, it is best to double back the way you came.\n(Если ты заблудился в лесу, лучший способ выбраться - пройти назад по собственным следам)\nDouble the map back so that we can read it more easily.\n(Сложи карту вдвое, чтобы её было легче читать)"
+      },
+      {
+        "preposition": "over",
+        "meaning": "Увеличивать вдвое\nСкрючиваться от боли, смеха",
+        "example": "They want arrests to double over the next month.\n(Они хотят удвоить количество арестов в следующем месяце)\nMary doubled over when Jim walked in wearing his funny clothes.\n(Мэри согнулась пополам от смеха, когда вошел Джим, одетый в этот смешной костюм)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Синоним over\nПотесниться, жить с кем-либо",
+        "example": "When it's this crowded, they have to double up.\n(Если народу много, им приходится потесниться)\nYou'll have to double up with Susie while your aunt is here.\n(Тебе придется потесниться со Сьюзи, пока твоя тетя здесь)"
+      }
+    ]
+  },
+
+
+  {
+    "verb": "doze",
+    "variations": [
+      {
+        "preposition": "off",
+        "meaning": "Задремать",
+        "example": "Did he notice that I dozed off in the middle of his speech?\n(Он заметил, что я задремал посередине его речи?)"
+      }
+    ]
+  },
+
+  {
+    "verb": "drag",
+    "variations": [
+      {
+        "preposition": "away",
+        "meaning": "С трудом прогнать, оттащить",
+        "example": "Have you ever tried dragging a child away from a television set?\n(Ты никогда не пытался оттащить ребёнка от телевизора?)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Ослаблять\nРазрушить морально, губить",
+        "example": "It's the fever that's been dragging him down.\n(Он очень ослаб из-за лихорадки)\n If you marry that man, he'll drag you down.\n(Если ты выйдешь за него, он тебя погубит)"
+      },
+      {
+        "preposition": "in",
+        "meaning": "Упоминать без необходимости, приплетать",
+        "example": "When we argue, he drags every one of my past misdeeds into the conversation.\n(Когда мы спорим, он втягивает в разговор все мои прошлые проступки)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Растягивать во времени, тянуть, медлить\nВытянуть информацию из кого-либо",
+        "example": "The politician dragged his speech out for over two hours.\n(Докладчик два часа переливал из пустого в порожнее)\nAt last the police were able to drag the truth out of the prisoner.\n(Наконец полицейским удалось вытянуть из заключённого правду)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Упоминать неприятный эпизод из прошлого без необходимости, затрагивать неприятную тему\nПлохо воспитывать",
+        "example": "To drag up an old story.\n(Ворошить прошлое)\nThe way that child behaves, you'd think he'd been dragged up, not brought up.\n(Этот ребёнок ведёт себя так, будто его совсем не воспитывали)"
+      }
+    ]
+  },
+
+
   {
     "verb": "draw",
     "variations": [
       {
-        "preposition": "back",
-        "meaning": "Отходить назад, отступать",
-        "example": "The crowd drew back to let the firemen through.\n(Толпа отошла назад, чтобы пропустить пожарников)"
+        "preposition": "aside",
+        "meaning": "Отводить в сторону\nОтходить в сторону, отодвигаться",
+        "example": "She drew me aside as soon as she saw an opportunity.\n(Как только ей представилась возможность, она отвела меня в сторону)\nThe crowd drew aside to let the prisoner pass.\n(Толпа отступила, чтобы пропустить узника)"
+      },
+      {
+        "preposition": "away",
+        "meaning": "Отходить, отъезжать (от станции), отплывать (от пристани)\nОторваться от противника",
+        "example": "The crowd cheered as the ship drew slowly away.\n(Толпа провожала медленно отплывающий корабль прощальными возгласами)\nAnd now the leading horse is drawing away from the rest, putting a greater distance between himself and the nearest runner.\n(И теперь лидер вырывается вперёд, оставляя лошадь, идущую второй, далеко позади)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Истощать, исчерпывать, израсходовать запасы\nНавлекать гнев, неудовольствие\nСокращать, сжимать, уваривать, выпаривать",
+        "example": "We drew down our cash reserves.\n(Мы исчерпали запасы наличности)\nDon't risk drawing down his anger.\n(Не рискуй навлечь на себя его гнев)\nAccording to him, Russia could draw down its mission in Syria because it had achieved its goals.\n(По его мнению, Россия имеет возможность сократить масштабы своей операции в Сирии, потому что поставленные цели были достигнуты)"
+      },
+      {
+        "preposition": "forth",
+        "meaning": "Выявлять, проявлять",
+        "example": "Trouble can draw forth person's best qualities.\n(В тяжёлой ситуации могут проявиться лучшие качества человека)"
+      },
+      {
+        "preposition": "in",
+        "meaning": "Уменьшать, сокращать расходы; экономить\nВовлекать, впутывать, заманивать\nСтановиться короче (о днях)\nБлизиться к концу (о дне), наступать (о сумерках, вечере)\nОстанавливаться где-то, медленно подъезжать куда-то\nСъезжать на обочину",
+        "example": "If prices continue to rise, we shall have to draw in our spending even further.\n(Если цены и дальше будут расти, нам придется ещё больше сократить расходы)\n It's your private quarrel, don't try to draw me in.\n(Это ваша личная ссора, не пытайся меня в неё втянуть)\nThe days are drawing in now that it is autumn.\n(Наступила осень, дни становятся короче)\nClose the curtains, the evening is drawing in.\n(Темнеет, закрой шторы)\nThe train drew in (to the station) and all the passengers got off.\n(Поезд подошёл к платформе и все пассажиры вышли)\nThe bus drew in to let the cars pass.\n(Автобус съехал на обочину, чтобы пропустить машины)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Отвлекать, переключать внимание, взгляд\nОтводить войска назад, отступать\nОтводить воду с помощью канала, дренажных канав; отлить",
+        "example": "The best idea is still that we create a mock attack here in the south in order to draw off the Zarbi.\n(Лучше идея, притворная атака с юга, чтобы отвлечь Зарби)\nThe soldiers drew off and waited for the next attack.\n(Солдаты отступили и стали ждать следующей атаки)\nI had to draw off some of the water so that the glass didn't overflow.\n(Мне пришлось откачать немного воды, чтобы стакан не переполнялся)"
+      },
+      {
+        "preposition": "on",
+        "meaning": "Влечь, манить\nНаступать, приближаться\nИдти, течь, протекать (о времени)",
+        "example": "Try to draw the animals on so that they fall into a trap.\n(Постарайся заманить животных в ловушку)\nWinter is drawing on.\n(Наступает зима)\nAs the day drew on, the shelling eased off a bit.\n(Ближе к вечеру обстрел немного уменьшился)"
       },
       {
         "preposition": "out",
-        "meaning": "Затягивать, удлинять, продолжать",
-        "example": "Breakfast was drawn out very much.\n(Завтрак очень затянулся)"
+        "meaning": "Затягивать, удлинять, продолжать, тянуть\nУвеличиваться (о днях)\nВызывать на разговор, выпытывать\nОтходить, отъезжать (от станции), отплывать (от пристани)\nУдалять, уводить, выводить\nСнимать деньги с банковского счета\nОторваться от соперника\nВырывать зуб",
+        "example": "Breakfast was drawn out very much.\n(Завтрак очень затянулся)\nThe days are drawing out now that it is spring.\n(Настала весна, дни увеличиваются)\nMary is very quiet; try to draw her out at the party.\n(Мэри ведёт себя очень сдержанно, попытайся разговорить её на вечеринке)\nThe train drew out of the station.\n(Поезд отошёл от станции)\nThe British forces will be drawn out of the troubled area.\n(Британские силы будут выведены из этого беспокойного региона)\nI shall have to draw out some more money to pay all these people.\n(Мне придётся снять со счёта ещё денег, чтобы заплатить всем этим людям)\nThe favourite drew out and won by two lengths.\n(Фаворит оторвался от соперника и выиграл с преимуществом в два корпуса)\nI may have to have this tooth drawn out.\n(Этот зуб мне возможно придётся удалить)"
       },
       {
         "preposition": "up",
-        "meaning": "Составлять (документ)\nОстанавливаться, тормозить",
-        "example": "The contract was drawn up by our solicitor.\n(Контракт был составлен нашим адвокатом)\nThe train drew up in the station.\n(Поезд остановился у станции)"
+        "meaning": "Составлять (документ)\nОстанавливаться, тормозить\nВыстраивать войска",
+        "example": "The contract was drawn up by our solicitor.\n(Контракт был составлен нашим адвокатом)\nThe train drew up in the station.\n(Поезд остановился у станции)\nThe soldiers were drawn up in battle lines.\n(Солдаты были выстроены в боевом порядке)"
+      },
+      {
+        "preposition": "oneself up",
+        "meaning": "Выпрямляться, вытягиваться",
+        "example": "He drew himself up to his full height.\n(Он выпрямился во весь рост)"
       }
     ]
   },
@@ -1644,6 +3897,46 @@
     ]
   },
 
+  {
+    "verb": "drive",
+    "variations": [
+      {
+        "preposition": "at",
+        "meaning": "Пытаться сказать",
+        "example": "I can see what you’re driving at.\n(Я вижу, к чему ты ведешь)"
+      },
+      {
+        "preposition": "away",
+        "meaning": "Отпугнуть",
+        "example": "Increasing prices will only drive customers away.\n(Повышение цен только отпугнет покупателей)"
+      },
+      {
+        "preposition": "back",
+        "meaning": "Мешать",
+        "example": "She was driven back by his promise to marry her.\n(Ей помешало его обещание жениться)"
+      },
+      {
+        "preposition": "down",
+        "meaning": "Снижать",
+        "example": "Fierce competition among restaurants has driven down prices.\n(Жесткая конкуренция среди ресторанов снизила цены)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Отпугнуть",
+        "example": "They fired their guns to drive off an attack from a pack of dogs.\n(Они выстрелили из пистолетов, чтобы отпугнуть собак)"
+      },
+      {
+        "preposition": "out",
+        "meaning": "Прогнать",
+        "example": "Government forces have driven the rebels out of the eastern district.\n(Силы правительства вытеснили мятежников из восточного региона)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Поднять\nПодъехать",
+        "example": "The government’s policies are driving up interest rates.\n(Правительственная политика поднимает процентные ставки)\nA huge Rolls Royce drove up.\n(Подъехал огромный Ролс Ройс)"
+      }
+    ]
+  },
 
   {
     "verb": "drop",
@@ -1725,7 +4018,7 @@
     "variations": [
       {
         "preposition": "for",
-        "meaning": "Участвовать (в соревнованиях, конкурсе и т. д.), записываться (для участия в чем-либо)",
+        "meaning": "Участвовать (в соревнованиях, конкурсе и тд), записываться (для участия в чем-либо)",
         "example": "Has Jim entered for the competition?\n(Джим записался на участие в соревнованиях?)"
       }
     ]
@@ -1752,7 +4045,7 @@
       {
         "preposition": "up to",
         "meaning": "Быть готовым встретить (что-либо неприятное: проблемы, трудности, что-либо постыдное, и т.п.)",
-        "example": "I'll never be able to face up to my colleagues after getting so drunk last night at the work party.\n(Я никогда не смогу посмотреть в глаза свои сослуживцам после того, как я так напился вчера вечером на рабочей вечеринке"
+        "example": "I'll never be able to face up to my colleagues after getting so drunk last night at the work party.\n(Я никогда не смогу посмотреть в глаза свои сослуживцам после того, как я так напился вчера вечером на рабочей вечеринке)"
       }
     ]
   },
@@ -1794,7 +4087,7 @@
       },
       {
         "preposition": "in",
-        "meaning": "Западать, впадать, вваливаться\n(разг)рушиться, гибнуть\nСоглашаться, поддерживать\nСтановиться в строй, строить(ся)",
+        "meaning": "Западать, впадать, вваливаться\nРушиться, гибнуть\nСоглашаться, поддерживать\nСтановиться в строй, строить(ся)",
         "example": "His cheeks has fallen in.\n(Его щеки ввалились)\nHis world fell in when he lost his job.\n(Его мир обрушился, когда он потерял работу)\nI'm glad to see that you all fall in with me on this question.\n(Я рад, что вы все поддержали меня)\nThe soldiers fell in for the evacuation drill.\n(Солдаты построились для учений по эвакуации)"
       },
       {
@@ -1829,7 +4122,6 @@
   {
     "verb": "feel",
     "variations": [
-
       {
         "preposition": "up",
         "meaning": "Лапать, приставать (в сексуальном плане)",
@@ -2043,7 +4335,7 @@
       {
         "preposition": "up",
         "meaning": "Внезапно подняться, рыскать к ветру, поднимать в воздух",
-        "example": "Suddenly rocks start to fly up to the sky.(Внезапно камни начинают взлетать в небо)"
+        "example": "Suddenly rocks start to fly up to the sky.\n(Внезапно камни начинают взлетать в небо)"
       }
     ]
   },
@@ -2093,7 +4385,7 @@
       },
       {
         "preposition": "along",
-        "meaning": "(разг) уходить, убираться",
+        "meaning": "Уходить, убираться",
         "example": "I think I'll be getting along now.\n(Думаю, мне пора уходить)"
       },
       {
@@ -2129,7 +4421,7 @@
       {
         "preposition": "away with",
         "meaning": "Избежать наказания",
-        "example": "The media tycoon was caught bribing the policemen and tried getting away with it.\nМедиамагната поймали на взятке полицейским, и он пытался избежать наказания)"
+        "example": "The media tycoon was caught bribing the policemen and tried getting away with it.\n(Медиамагната поймали на взятке полицейским, и он пытался избежать наказания)"
       },
       {
         "preposition": "back",
@@ -2214,7 +4506,7 @@
       {
         "preposition": "round",
         "meaning": "Уговорить, хитростью переубедить, заставить сделать по-своему",
-        "example": "I think I can get round my father to lend us the car.\nДумаю, мне удастся уговорить отца дать нам автомобиль."
+        "example": "I think I can get round my father to lend us the car.\n(Думаю, мне удастся уговорить отца дать нам автомобиль)"
       },
       {
         "preposition": "round to",
@@ -2238,7 +4530,7 @@
       },
       {
         "preposition": "through with",
-        "meaning": "(разг) разобраться с кем-л. / чем-л",
+        "meaning": "Разобраться с кем-либо / чем-либо",
         "example": "Wait till I get through with you, your own mother won't recognize you!\n(Погоди, я тобой так разберусь, мать родная не узнает!)"
       },
       {
@@ -2360,7 +4652,7 @@
       },
       {
         "preposition": "along",
-        "meaning": "Сопровождать, следовать\nРазвиваться, продвигаться\n(разг) уходить\n(разг) ну-ну",
+        "meaning": "Сопровождать, следовать\nРазвиваться, продвигаться\nУходить\nНу-ну",
         "example": "How is your work going along?\n(Как продвигается твоя работа?)\nWill you kids go along!\n(А ну, мелюзга, быстро отсюда!)\nGo along, I know better than that.\n(Так я тебе и поверил! Не на того напал)"
       },
       {
@@ -2380,7 +4672,7 @@
       },
       {
         "preposition": "round the bend",
-        "meaning": "(Разг) сойти с ума, чокнуться, рехнуться",
+        "meaning": "Сойти с ума, чокнуться, рехнуться",
         "example": "I think I'm going round the bend.\n(Тут рехнуться можно)"
       },
       {
@@ -2390,7 +4682,7 @@
       },
       {
         "preposition": "by",
-        "meaning": "Проходить/проезжать мимо\nПроходить (о времени)\nБыть упущенным (о шансе)\n(разг) проходить незамеченным",
+        "meaning": "Проходить/проезжать мимо\nПроходить (о времени)\nБыть упущенным (о шансе)\nПроходить незамеченным",
         "example": "They let no day go by without the jests.\n(Они не пропускают ни дня без проказ)\nYou can't afford to let any job go by.\n(Ты не можешь позволить, чтобы какая бы то ни было, работа ускользнула от тебя)\nI know you were late again this morning, but we'll let that go by.\n(Я знаю, ты сегодня опоздал, но это ничего; я тебе о другом хотел сказать)"
       },
       {
@@ -2410,7 +4702,7 @@
       },
       {
         "preposition": "in",
-        "meaning": "Входить\nНачинать работу как обычно\nУчаствовать (в состязании)\nВступать в игру\nЗаходить за тучи (о солнце, луне)\n(разг) доходить, быть понятым",
+        "meaning": "Входить\nНачинать работу как обычно\nУчаствовать (в состязании)\nВступать в игру\nЗаходить за тучи (о солнце, луне)\nДоходить, быть понятым",
         "example": "What time do you have to go in tomorrow?\n(Во сколько тебе надо завтра приходить?)\nGo in and win.\n(Давай, выиграй)\nThe moon had gone in.\n(Луна зашла за облака)"
       },
       {
@@ -2425,12 +4717,12 @@
       },
       {
         "preposition": "off",
-        "meaning": "Уходить, уезжать\nУбегать, улетать\nВыстреливать (об оружии), взрываться (о взрывчатке), выпалить\nВыключаться, отключаться, переставать работать(об электрических приборах, отоплении)\nПроходить (гладко, успешно)\nУхудшаться, портиться (о еде)",
+        "meaning": "Уходить, уезжать, убегать, улетать\nВыстреливать, взрываться, выпалить\nВыключаться, отключаться, переставать работать\nПроходить гладко, успешно\nУхудшаться, портиться (о еде)",
         "example": "A gun goes off every day to mark exactly one o'clock.\n(Каждый день в час дня палит пушка)\nThe concert went off well.\n(Концерт прошёл хорошо)\nDon't drink the milk, it's gone off.\n(Не пей молоко, оно скисло)"
       },
       {
         "preposition": "on",
-        "meaning": "Продолжай(те)!, продолжать(ся), происходить, справляться, обходиться\nПродвигаться, развиваться (о действии, процессе, состоянии)\nДлиться (о времени)\nНалезать, надеваться (об одежде, обуви)",
+        "meaning": "Продолжаться, происходить, справляться, обходиться\nПродвигаться, развиваться (о действии, процессе, состоянии)\nДлиться (о времени)\nНалезать, надеваться (об одежде, обуви)",
         "example": "Do go on, I am listening.\n(Продолжай, я тебя слушаю)\nFor the first two days he went on very well.\n(В первые два дня он прекрасно справлялся)\nHow is your work going on?\n(Как идёт работа?)\nFor going on a year.\n(В течение года)\nShoes that wouldn't go on.\n(Туфли, которые не надевались)"
       },
       {
@@ -2445,7 +4737,7 @@
       },
       {
         "preposition": "over big",
-        "meaning": "(Разг) проходить с большим успехом, иметь большой успех",
+        "meaning": "Проходить с большим успехом, иметь большой успех",
         "example": "As this went over big he forgave Dennis.\n(Так как всё прошло великолепно, он простил Денниса)"
       },
       {
@@ -2475,13 +4767,13 @@
       },
       {
         "preposition": "up",
-        "meaning": "Увеличиваться, расти, повышаться (о количестве, цене)\nПовышаться, увеличиваться (о температуре)",
+        "meaning": "Увеличиваться, расти, повышаться",
         "example": "The barometer is going up at a tremendous rate.\n(Барометр поднимается ужасно быстро)"
       },
       {
         "preposition": "up to",
-        "meaning": "Поступить в университет или колледж\nСдавать экзамены, экзаменоваться",
-        "example": "He went up to Oxford.\n(Он поступил в Оксфордский университет)"
+        "meaning": "Поступить в университет или колледж\nСдавать экзамены, экзаменоваться\nДостигать, подниматься",
+        "example": "He went up to Oxford.\n(Он поступил в Оксфордский университет)\nSo go up to her, start a conversation.\n(Так подойди к ней, завяжи разговор)\nI need you to go up to the very top of that thing.\n(Тебе нужно подняться на крышу этого здания)"
       },
       {
         "preposition": "with",
@@ -2661,6 +4953,19 @@
   },
 
 
+
+  {
+    "verb": "hit",
+    "variations": [
+      {
+        "preposition": "on smb",
+        "meaning": "Заигрывать с кем-то или подкатывать к кому-то",
+        "example": "Let’s go over to Marta, she’s getting hit on by some creep at the bar.\n(Пойдем к Марте, к ней подкатывает какой-то псих в баре)"
+      }
+    ]
+  },
+
+
   {
     "verb": "hold",
     "variations": [
@@ -2724,6 +5029,26 @@
 
 
   {
+    "verb": "hook",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Устанавливать, подключать, соединять механизмы, части электронного оборудования\nВстречаться, налаживать контакт, связываться с кем-либо (в дружеской форме)\nСоединять двух людей вместе, устраивать связи между парами\nОказать особую услугу, выручить, помочь",
+        "example": "The beer started to get cold about 20 minutes after she hooked up the new refrigerator.\n(Пиво начало охлаждаться через 20 минут после того, как она подключила новый холодильник)\nLet’s hook up for a beer later.\n(Давай встретимся позже и выпьем пива)\nStan knew that Mark and Mary would be a great couple, so he did everything he could to hook them up.\n(Стэн знал, что Марк и Мэри были бы отличной парой, поэтому он сделал все возможное, чтобы свести их)\nMy boss hooked me up with a pair of tickets to the football game tomorrow.\n(Мой начальник дал мне два билета на завтрашний футбольный матч)"
+      },
+      {
+        "preposition": "up with",
+        "meaning": "(неф.) Целоваться или иметь интим с человеком не состоящим в отношениях",
+        "example": "She got really angry when she found out her ex-boyfriend hooked up with another girl when they were together.\n(Она не на шутку рассердилась, когда узнала, что ее бывший парень развлекался с другой, когда они еще были вместе)"
+      }
+    ]
+  },
+
+
+
+
+
+  {
     "verb": "hurry",
     "variations": [
       {
@@ -2734,6 +5059,29 @@
     ]
   },
 
+
+
+
+  {
+    "verb": "jack",
+    "variations": [
+      {
+        "preposition": "in",
+        "meaning": "Бросить, оставлять, забросить (дело)",
+        "example": "I'd love to jack in my job and go and live in the Bahamas.\n(Я бы с радостью бросил работу и переехал жить на Багамы)"
+      },
+      {
+        "preposition": "off",
+        "meaning": "Мастурбировать",
+        "example": "Your mum’s Facebook pics are a continuous source of a jerk off material.\n(Фотографии твоей мамы из фейсбука — неиссякаемый источник для мастурбации)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Поднять домкратом",
+        "example": "We need to jack up the car before we change the tire.\n(Перед тем, как менять шину, машину нужно поднять домкратом)"
+      }
+    ]
+  },
 
 
   {
@@ -3131,6 +5479,35 @@
 
 
   {
+    "verb": "level",
+    "variations": [
+      {
+        "preposition": "against/at",
+        "meaning": "Обвинять кого-то публично в том, что он делает что-то не так",
+        "example": "Charges of corruption have been levelled against him.\n(Обвинения в коррупции были выдвинуты против него.)\nCriticism has been levelled at senior figures in the industry.\n(Критика была направлена на высокопоставленных представителей отрасли)"
+      },
+      {
+        "preposition": "off/out",
+        "meaning": "Выравнивать, делать ровным",
+        "example": "The plane's flight path climbed to 10,000 metres and then levelled off.\n(Самолёт набрал высоту до 10000 метров, а затем высота полёта выровнялась)"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Повысить уровень",
+        "example": "You can level up the hero in the game.\n(Вы можете повысить уровень героя в игре)"
+      },
+      {
+        "preposition": "with",
+        "meaning": "Сказать кому-то правду о чем-то",
+        "example": "I'll level with you - the salary's not particularly good, and there's little chance of promotion.\n(Буду с вами честен - зарплата не очень хорошая, и шансов на повышение мало)"
+      }
+    ]
+  },
+
+
+
+
+  {
     "verb": "lie",
     "variations": [
       {
@@ -3165,7 +5542,7 @@
       },
       {
         "preposition": "down on the job",
-        "meaning": "(разг.) Работать спустя рукава, с прохладцей",
+        "meaning": "Работать спустя рукава, с прохладцей",
         "example": "I can't give him a good mark, he is lying down on the job.\n(Я не могу дать ему хорошую оценку, он плохо работает)"
       },
       {
@@ -3387,8 +5764,8 @@
       },
       {
         "preposition": "out",
-        "meaning": "Выписывать (счет), составлять (документ)\nУтверждать, делать вывод, приводить доводы\nПонимать, различать\nСправляться с чем-либо",
-        "example": "Could you make out a bill?\n(Вы не могли бы выписать счет?)\nShe makes out that you offended her.\n(Она утверждает, что ты ее обидел)\nHow is she making out in her university?\n(Как она справляется с учебой в университете?)\nWe could just make out a farm through the trees.\n(Сквозь деревья мы смогли увидеть лишь ферму)\nAs far as I can make out, he is a liar.\n(Насколько я понимаю, он лжец)"
+        "meaning": "Выписывать (счет), составлять (документ)\nУтверждать, делать вывод, приводить доводы\nПонимать, различать\nСправляться с чем-либо\nЦеловаться (лизаться)",
+        "example": "Could you make out a bill?\n(Вы не могли бы выписать счет?)\nShe makes out that you offended her.\n(Она утверждает, что ты ее обидел)\nHow is she making out in her university?\n(Как она справляется с учебой в университете?)\nWe could just make out a farm through the trees.\n(Сквозь деревья мы смогли увидеть лишь ферму)\nAs far as I can make out, he is a liar.\n(Насколько я понимаю, он лжец)\nI need to make out so hard that I forget all of my problems, and possibly my name too.\n(Мне настолько сильно нужны поцелуи, что я забываю обо всех своих проблемах и, самое главное, я забываю свое имя)"
       },
       {
         "preposition": "out with",
@@ -3433,7 +5810,6 @@
     ]
   },
 
-
   {
     "verb": "mark",
     "variations": [
@@ -3449,6 +5825,24 @@
       }
     ]
   },
+
+
+  {
+    "verb": "mess",
+    "variations": [
+      {
+        "preposition": "about/around",
+        "meaning": "Валять дурака, паясничать, дурачиться, шутить",
+        "example": "I am asking you to stop messing about; let me work.\n(Я прошу тебя перестать шуметь; дай мне поработать)\nWe messed around a bit, but her parents came back home early.\n(Мы немного подурачились, но ее родители пришли домой раньше)\n"
+      },
+      {
+        "preposition": "up",
+        "meaning": "Завалить, испортить, запороть\nИспачкать, привести в беспорядок\nИзбить, поколотить",
+        "example": "Try not to mess up your driving test again.\n(Постарайся не провалить экзамен на вождение снова)\nThe fire messed up our plans.\n(Наши планы были нарушены пожаром)\nTry not to mess up your new dress before the party.\n(Постарайся не испачкать своё новое платье до вечеринки)\nWhen Joe came in after the fight with the boys, he was all messed up.\n(Когда Джо пришел после драки с мальчиками, он был весь избит)"
+      }
+    ]
+  },
+
 
   {
     "verb": "miss",
@@ -3675,12 +6069,12 @@
       },
       {
         "preposition": "up",
-        "meaning": "Поднимать, подбирать\nЗаехать за кем-нибудь на машине\nПознакомиться с, подцепить кого-либо",
+        "meaning": "Поднимать, подбирать\nЗаехать за кем-нибудь на машине\nПознакомиться, подцепить кого-либо",
         "example": "Tom picked himself up and settled on his bench again.\n(Том поднялся и снова сел на скамью)\nWhat time are you going to pick me up?\n(Когда ты собираешься заехать за мной?)\nSome weird guy tried to pick Patricia up at the bar.\n(Какой-то странный парень пытался познакомиться с Патришей в баре)"
       },
       {
         "preposition": "up",
-        "meaning": "Выучить что-либо без усилий (за счет опыта, пережитого, а не за счет теоретических знаний, учебников)\n(разг.)улучшаться, набирать скорость, набирать обороты",
+        "meaning": "Выучить что-либо без усилий (за счет опыта, пережитого, а не за счет теоретических знаний, учебников)\nулучшаться, набирать скорость, набирать обороты",
         "example": "It’s easier to pick up English if you live in an English-speaking country.\n(Английский выучить легче, если жить в англо-говорящей стране)\nBusiness is really picking up this quarter.\n(В этом квартале дела идут намного лучше)"
       }
     ]
@@ -3773,7 +6167,7 @@
       },
       {
         "preposition": "down",
-        "meaning": "Тянуть вниз, спускать, опускать\nСнести\n(разг.)Зарабатывать",
+        "meaning": "Тянуть вниз, спускать, опускать\nСнести\nЗарабатывать",
         "example": "He wore a brown cap with the peak pulled down over his eyes.\n(Он носил коричневую кепку с козырьком, опущенным на глаза)\nThe old warehouse has been pulled down.\n(Старый склад был снесен)\nHe pulls down about $300,000 a year.\n(Он зарабатывает около 300 000 долларов в год)"
       },
       {
@@ -4236,7 +6630,7 @@
       },
       {
         "preposition": "off",
-        "meaning": "Отсылать (письмо, посылку)\nОтправлять, прогонять (кого-либо); (спорт.) удалять игрока с поля",
+        "meaning": "Отсылать (письмо, посылку)\nОтправлять, прогонять (кого-либо); (спорт.) Удалять игрока с поля",
         "example": "I must send this letter off today otherwise it won’t get there in time.\n(Я должен отправить это письмо сегодня, иначе оно не дойдет туда вовремя)\nI sent George off with strict instructions not to come back later.\n(Я отослала Джорджа со строгим указанием не возвращаться позже)"
       },
       {
@@ -4389,7 +6783,7 @@
       },
       {
         "preposition": "out",
-        "meaning": "(спорт) не забит ни один гол\n(общ.) не быть допущенным на собрание, или к обсуждению",
+        "meaning": "(спорт) Не забить ни один гол\n(общ.) Не быть допущенным на собрание, или к обсуждению",
         "example": "We are shut out in this game.\n(У нас нет голов в этой игре)\nRepresentatives of your firm will be shut out from discussing this problem.\n(Представители вашей фирмы не будут допущены к обсуждению этой проблемы)"
       },
       {
@@ -4399,7 +6793,7 @@
       },
       {
         "preposition": "up",
-        "meaning": "Замолчать, заставить замолчать; (разг.) заткнуть(ся), закрыть рот\nЗакрыть, запереть, заключить в тюрьму",
+        "meaning": "Замолчать, заставить замолчать; заткнуть(ся), закрыть рот\nЗакрыть, запереть, заключить в тюрьму",
         "example": "They were in great awe of him and usually shut up in his presence.\n(Они благоговели перед ним и в его присутствии обычно помалкивали)\nEvery time I try to say something she always tries to shut me up.\n(Каждый раз, когда я хочу что-то сказать, она всегда пытается заткнуть мне рот)"
       }
     ]
@@ -4468,6 +6862,11 @@
   {
     "verb": "sleep",
     "variations": [
+      {
+        "preposition": "around",
+        "meaning": "Вести распутный образ жизни",
+        "example": "I think we can all agree that sleeping around is a great way to meet people.\n(Я думаю, что все мы согласны с тем, что случайный секс — это отличный способ завести новых друзей)"
+      },
       {
         "preposition": "over",
         "meaning": "Переночевать у кого-то в гостях",
@@ -4609,7 +7008,7 @@
       },
       {
         "preposition": "around",
-        "meaning": "Не уходить, подождать, оставаться поблизости, (разг.) слоняться поблизости",
+        "meaning": "Не уходить, подождать, оставаться поблизости, слоняться поблизости",
         "example": "Stick around. Things are bound to get better.\n(Не уезжай, здесь все может перемениться к лучшему)\nI have been sticking around for an hour waiting for you.\n(Я слоняюсь уже целый час, ожидая тебя)"
       },
       {
@@ -5032,7 +7431,7 @@
       },
       {
         "preposition": "in",
-        "meaning": "Подать, сдать что-то кому-то, кто находится выше по должности\n(разг.) лечь спать",
+        "meaning": "Подать, сдать что-то кому-то, кто находится выше по должности\nЛечь спать",
         "example": "He turned in his report to the director.\n(Он сдал свой доклад директору)\nThe captain turned in, not realizing that the icebergs were so close.\n(Капитан лег спать, не имея представления о том, что айсберги были так близко)"
       },
       {
@@ -5136,7 +7535,7 @@
       },
       {
         "preposition": "away",
-        "meaning": "Уходить, обходить стороной\nУнести, уводить, украсть\n(разг) легко победить (в соревновании)",
+        "meaning": "Уходить, обходить стороной\nУнести, уводить, украсть\nЛегко победить (в соревновании)",
         "example": "Someone got in and walked away with the jewels while we were out.\n(Пока нас не было, кто-то зашёл и украл драгоценности)\nShe walked away with all the top prizes.\n(Она выиграла все высшие награды соревнований)"
       },
       {
@@ -5181,7 +7580,7 @@
       },
       {
         "preposition": "up",
-        "meaning": "Подойти, подходить; (разг) подойти ближе, чтобы увидеть",
+        "meaning": "Подойти, подходить; подойти ближе, чтобы увидеть",
         "example": "Walk up, walk up! See the strongest man on earth!\n(Подходите, подходите! Посмотреть на самого сильного человека на земле!)"
       }
     ]
@@ -5194,10 +7593,10 @@
       {
         "preposition": "up",
         "meaning": "Подогреть",
-        "example": "The water is too cold, you shoud warm it up first.\n(Вода слишком холодная, тебе нужно ее сначала подогреть)"
+        "example": "The water is too cold, you should warm it up first.\n(Вода слишком холодная, тебе нужно ее сначала подогреть)"
       },
       {
-        "preposition": "smt up",
+        "preposition": "smth up",
         "meaning": "Размяться, разогреться перед тренировкой",
         "example": "If you want to avoid injuries, warm up before you go for a run.\n(Если хочешь избежать травм, разминайся перед пробежкой)"
       }
@@ -5306,6 +7705,21 @@
     ]
   },
 
+
+  {
+    "verb": "wrap",
+    "variations": [
+      {
+        "preposition": "up",
+        "meaning": "Заворачивать в бумагу, чтобы защитить или спрятать\nТепло одеваться, закутываться\nЗаканчивать\nЗамолчать, затихнуть",
+        "example": "Did you wrap up the presents and put them under the tree?\n(Ты упаковал подарки и положил их под елку?)\nYou better wrap up today, as it’s very cold outside.\n(Тебе лучше сегодня теплей одеться, на улице очень холодно)\nLet’s wrap up this meeting so we can get started on the project.\n(Давайте закончим эту встречу, чтобы начать проект)\nWrap it up, you lot, we've heard enough of your complaints.\n(Замолчите ребята, мы слышали достаточно ваших жалоб)"
+      }
+    ]
+  },
+
+
+
+
   {
     "verb": "write",
     "variations": [
@@ -5356,7 +7770,7 @@
       },
       {
         "preposition": "off",
-        "meaning": "Ходить, уезжать в спешке, сбегать, сматываться (разг.)",
+        "meaning": "Ходить, уезжать в спешке, сбегать, сматываться",
         "example": "He rushed out of the building and zoomed off in his car.\n(Он выскочил из здания и быстро уехал на своей машине)"
       },
       {
